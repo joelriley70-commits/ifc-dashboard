@@ -160,132 +160,28 @@ for tab, filename in zip(tabs[:-1], csv_files):
                         st.info(f"📐 View the complete **{selected_project}** building in the **🏗️ 3D Building Viewer** tab above")
 
 # =====================================================
-# 3D VIEWER TAB - DIRECT EMBED (NO IFRAME)
+# 3D VIEWER TAB
 # =====================================================
 with tabs[-1]:
     st.header("🏗️ Interactive 3D Building Viewer")
-    
-    st.info(f"📍 Currently viewing: **{selected_project}** building")
-    
-    # Read the dashboard.html file and modify it for direct embedding
-    import base64
-    
-    # Google Drive direct download URLs
-    xkt_urls = {
-        "town_hall": "https://drive.google.com/uc?export=download&id=1V43mltb7NMKHNx0NRIRXEN2YscvEW8MP",
-        "apartment": "https://drive.google.com/uc?export=download&id=12gsJ8o4Puzx-6OGFeUnm83dROMS4a0R3",
-        "office": "https://drive.google.com/uc?export=download&id=1hnlM1HQXkRxLpwbGKEEYyqb86MawqBKK"
-    }
-    
-    # Create the viewer HTML with the correct XKT URL
-    viewer_html = f'''
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <style>
-            body {{ margin: 0; overflow: hidden; font-family: Arial; }}
-            #info {{
-                position: absolute;
-                top: 20px;
-                left: 20px;
-                background: rgba(0,0,0,0.7);
-                color: white;
-                padding: 10px;
-                border-radius: 5px;
-                z-index: 100;
-                font-size: 12px;
-                pointer-events: none;
-            }}
-            canvas {{ width: 100%; height: 100%; display: block; }}
-        </style>
-    </head>
-    <body>
-        <div id="info">
-            <strong>🏗️ Loading {selected_project}...</strong><br>
-            Please wait, this may take 30-60 seconds
-        </div>
-        <canvas id="myCanvas"></canvas>
-        
-        <script type="importmap">
-            {{
-                "imports": {{
-                    "@xeokit/xeokit-sdk": "https://unpkg.com/@xeokit/xeokit-sdk/dist/xeokit-sdk.es.js"
-                }}
-            }}
-        </script>
-        
-        <script type="module">
-            import {{Viewer, XKTLoaderPlugin}} from "@xeokit/xeokit-sdk";
-            
-            const viewer = new Viewer({{
-                canvasId: "myCanvas",
-                transparent: false,
-                backgroundColor: [0.15, 0.15, 0.2]
-            }});
-            
-            viewer.camera.eye = [-10, 5, 10];
-            viewer.camera.look = [0, 0, 0];
-            
-            const xktLoader = new XKTLoaderPlugin(viewer);
-            
-            const infoDiv = document.getElementById("info");
-            const xktUrl = "{xkt_urls[project_folder]}";
-            
-            infoDiv.innerHTML = `<strong>🏗️ Loading {selected_project}...</strong><br>Downloading model...`;
-            
-            const model = xktLoader.load({{
-                id: "{project_folder}",
-                src: xktUrl,
-                edges: true
-            }});
-            
-            model.on("loaded", () => {{
-                infoDiv.innerHTML = `<strong>✅ {selected_project} loaded!</strong><br>Click any element to highlight it`;
-                setTimeout(() => {{
-                    infoDiv.style.opacity = "0.5";
-                }}, 3000);
-            }});
-            
-            model.on("error", (error) => {{
-                infoDiv.innerHTML = `<strong>❌ Error loading model</strong><br>Check console for details`;
-                console.error("Load error:", error);
-            }});
-            
-            // Click to highlight
-            viewer.cameraControl.on("click", (e) => {{
-                const canvasRect = document.getElementById('myCanvas').getBoundingClientRect();
-                const pickResult = viewer.scene.pick({{
-                    canvasPos: [e.clientX - canvasRect.left, e.clientY - canvasRect.top]
-                }});
-                
-                if (pickResult && pickResult.object) {{
-                    viewer.scene.objects.forEach(obj => obj.highlighted = false);
-                    pickResult.object.highlighted = true;
-                    infoDiv.innerHTML = `<strong>✅ Selected:</strong> ${{pickResult.object.id}}`;
-                    infoDiv.style.opacity = "1";
-                    setTimeout(() => {{
-                        infoDiv.style.opacity = "0.5";
-                    }}, 2000);
-                }}
-            }});
-        </script>
-    </body>
-    </html>
-    '''
-    
-    # Display the viewer directly in Streamlit
-    components.html(viewer_html, height=700, width=1200)
-    
-    with st.expander("📖 Instructions", expanded=False):
+
+    server_running = False
+    try:
+        requests.get("http://localhost:8000", timeout=1)
+        server_running = True
+    except:
+        pass
+
+    if not server_running:
+        st.warning("⚠️ HTTP Server not running!")
         st.markdown("""
-        **🎮 Controls:**
-        - **Left click + drag**: Rotate the view
-        - **Right click + drag**: Pan around  
-        - **Scroll**: Zoom in/out
-        - **Click on any object**: Highlight it
-        
-        **💡 Note:** The first load may take 30-60 seconds as the model downloads from Google Drive.
+        **To use the 3D viewer, start the server in a separate Anaconda Prompt:**
         """)
+    else:
+        st.success("✅ 3D Server is running!")
+        iframe_url = f"http://localhost:8000/dashboard.html?building={project_folder}"
+        components.iframe(iframe_url, height=700, width=1200)
+        st.caption("💡 Tip: Click on any door or element to highlight it!")
 # =====================================================
 # EXCEL GRAPHS AND IMAGES
 # =====================================================
