@@ -1,0 +1,382 @@
+﻿Type,Family,Area,Width,Base Constraint,Top Constraint,Function,Structural Usage,Fire Rating,Volume,Length
+BEN714_EX-01-545,Basic Wall,16 m²,545,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,8.70 m³,678
+BEN714_EX-01-470,Basic Wall,229 m²,470,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,107.40 m³,8516
+BEN714_EX-01-470,Basic Wall,356 m²,470,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,167.28 m³,36965
+BEN714_EX-01-470,Basic Wall,66 m²,470,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,30.74 m³,2781
+BEN714_IN-01_215,Basic Wall,156 m²,215,-01_Basement Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,33.60 m³,7135
+BEN714_IN-01_215,Basic Wall,58 m²,215,-01_Basement Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,12.53 m³,2025
+BEN714_IN-01_215,Basic Wall,205 m²,215,-01_Basement Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,44.10 m³,7135
+BEN714_IN-01_215,Basic Wall,80 m²,215,-01_Basement Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,17.25 m³,2600
+BEN714_IN-02_175,Basic Wall,134 m²,175,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,23.43 m³,5234
+BEN714_IN-03_200,Basic Wall,175 m²,200,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,35.07 m³,6758
+BEN714_IN-06_150,Basic Wall,106 m²,150,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,15.86 m³,3938
+BEN714_IN-04_250,Basic Wall,27 m²,250,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,6.73 m³,930
+BEN714_IN-05_120,Basic Wall,68 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,8.11 m³,3853
+BEN714_IN-06_150,Basic Wall,16 m²,150,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,2.45 m³,735
+BEN714_IN-06_150,Basic Wall,19 m²,150,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,2.88 m³,1590
+BEN714_IN-03_200,Basic Wall,16 m²,200,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,3.26 m³,735
+BEN714_IN-06_150,Basic Wall,24 m²,150,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,3.58 m³,3714
+BEN714_IN-05_120,Basic Wall,19 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,2.28 m³,860
+BEN714_IN-05_120,Basic Wall,91 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,10.95 m³,6563
+BEN714_IN-06_150,Basic Wall,16 m²,150,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,2.42 m³,1524
+BEN714_IN-06_150,Basic Wall,9 m²,150,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,1.35 m³,168
+BEN714_PT_01-120,Basic Wall,11 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,1.27 m³,2657
+BEN714_PT_01-120,Basic Wall,5 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.62 m³,2050
+BEN714_PT_01-120,Basic Wall,30 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,3.56 m³,7534
+BEN714_PT_02-130,Basic Wall,11 m²,130,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,1.43 m³,2806
+BEN714_IN-01_215,Basic Wall,82 m²,215,-01_Basement Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,17.70 m³,2604
+BEN714_IN-01_215,Basic Wall,25 m²,215,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,5.43 m³,3219
+BEN714_PT_01-120,Basic Wall,3 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.36 m³,787
+BEN714_PT_01-120,Basic Wall,8 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.96 m³,2968
+BEN714_PT_01-120,Basic Wall,11 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,1.34 m³,3078
+BEN714_PT_01-120,Basic Wall,29 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,3.47 m³,8898
+BEN714_PT_01-120,Basic Wall,11 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,1.28 m³,3078
+BEN714_PT_01-120,Basic Wall,8 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,1.01 m³,3078
+BEN714_PT_01-120,Basic Wall,8 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,1.00 m³,2286
+BEN714_PT_01-120,Basic Wall,9 m²,120,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,1.03 m³,3078
+BEN714_PT_01-120,Basic Wall,33 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,3.97 m³,1244
+BEN714_PT_01-120,Basic Wall,18 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,2.16 m³,786
+BEN714_PT_02-130,Basic Wall,74 m²,130,00_Ground Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,9.59 m³,2885
+BEN714_PT_04-30,Basic Wall,26 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.78 m³,3378
+BEN714_PT_04-30,Basic Wall,2 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.07 m³,298
+BEN714_PT_04-30,Basic Wall,2 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.05 m³,213
+BEN714_PT_04-30,Basic Wall,1 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.03 m³,213
+BEN714_PT_04-30,Basic Wall,5 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.16 m³,778
+BEN714_PT_04-30,Basic Wall,5 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.14 m³,623
+BEN714_PT_04-30,Basic Wall,4 m²,30,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Interior,Non-bearing,,0.11 m³,138
+BEN714_PT_04-30,Basic Wall,7 m²,30,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Interior,Non-bearing,,0.20 m³,294
+BEN714_PT_04-30,Basic Wall,7 m²,30,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Interior,Non-bearing,,0.21 m³,306
+BEN714_PT_04-30,Basic Wall,10 m²,30,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Interior,Non-bearing,,0.31 m³,445
+BEN714_PT_04-30,Basic Wall,9 m²,30,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Interior,Non-bearing,,0.26 m³,391
+BEN714_IN-06_150,Basic Wall,130 m²,150,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,19.53 m³,4937
+BEN714_IN-05_120,Basic Wall,14 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,1.74 m³,547
+BEN714_IN-05_120,Basic Wall,73 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,8.73 m³,3457
+BEN714_IN-05_120,Basic Wall,45 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,5.39 m³,2536
+BEN714_IN-05_120,Basic Wall,91 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,10.90 m³,3636
+BEN714_IN-05_120,Basic Wall,72 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,8.61 m³,2638
+BEN714_IN-05_120,Basic Wall,20 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,2.43 m³,1040
+BEN714_IN-06_150,Basic Wall,9 m²,150,00_Ground Floor,Up to level: 01_First Floor,Exterior,Non-bearing,,1.42 m³,3089
+BEN714_PT_03-70,Basic Wall,7 m²,70,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.51 m³,1892
+BEN714_PT_04-30,Basic Wall,2 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.05 m³,495
+BEN714_PT_04-30,Basic Wall,2 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.05 m³,466
+BEN714_PT_04-30,Basic Wall,3 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.09 m³,823
+BEN714_PT_04-30,Basic Wall,27 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.80 m³,6955
+BEN714_PT_04-30,Basic Wall,3 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.09 m³,775
+BEN714_PT_04-30,Basic Wall,2 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.06 m³,525
+BEN714_PT_04-30,Basic Wall,5 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.14 m³,1360
+BEN714_EX-01-470,Basic Wall,179 m²,470,00_Ground Floor,Unconnected,Exterior,Non-bearing,,84.16 m³,20017
+BEN714_EX-01-470,Basic Wall,408 m²,470,00_Ground Floor,Unconnected,Exterior,Non-bearing,,191.93 m³,13419
+BEN714_EX-01-470,Basic Wall,115 m²,470,00_Ground Floor,Unconnected,Exterior,Non-bearing,,53.98 m³,3622
+BEN714_EX-01-470,Basic Wall,353 m²,470,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,165.74 m³,14569
+BEN714_EX-02-170,Basic Wall,24 m²,170,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,4.00 m³,890
+BEN714_EX-02-170,Basic Wall,17 m²,170,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,2.91 m³,721
+BEN714_EX-02-170,Basic Wall,15 m²,170,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,2.46 m³,602
+BEN714_EX-02-170,Basic Wall,19 m²,170,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,3.19 m³,710
+BEN714_EX-02-170,Basic Wall,13 m²,170,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,2.20 m³,721
+BEN714_EX-02-170,Basic Wall,9 m²,170,00_Ground Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,1.61 m³,317
+BEN714_EX-01-470,Basic Wall,184 m²,470,00_Ground Floor,Unconnected,Exterior,Non-bearing,,86.53 m³,10482
+BEN714_PT_05-20,Basic Wall,4 m²,20,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.08 m³,1107
+BEN714_PT_05-20,Basic Wall,4 m²,20,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.08 m³,1087
+BEN714_PT_05-20,Basic Wall,4 m²,20,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.08 m³,1113
+BEN714_PT_05-20,Basic Wall,4 m²,20,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.08 m³,1105
+BEN714_PT_05-20,Basic Wall,4 m²,20,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.08 m³,1087
+BEN714_PT_05-20,Basic Wall,4 m²,20,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.08 m³,1112
+BEN714_PT_05-20,Basic Wall,2 m²,20,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.04 m³,618
+BEN714_PT_05-20,Basic Wall,1 m²,20,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.02 m³,251
+BEN714_PT_05-20,Basic Wall,4 m²,20,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.08 m³,1129
+BEN714_EX-02-170,Basic Wall,2 m²,170,00_Ground Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.34 m³,677
+BEN714_EX-02-170,Basic Wall,1 m²,170,00_Ground Floor,Up to level: 01_First Floor,Exterior,Non-bearing,,0.24 m³,677
+BEN714_EX-02-170,Basic Wall,2 m²,170,00_Ground Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.30 m³,565
+BEN714_EX-02-170,Basic Wall,2 m²,170,00_Ground Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.30 m³,565
+DAR-GL03,Curtain Wall,55 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,7259
+BEN714_EX-03-260,Basic Wall,92 m²,270,02_Second Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,24.61 m³,6966
+BEN714_EX-02-170,Basic Wall,10 m²,170,02_Second Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,1.62 m³,480
+BEN714_EX-02-170,Basic Wall,23 m²,170,02_Second Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,3.92 m³,1400
+BEN714_EX-02-170,Basic Wall,27 m²,170,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,4.62 m³,3464
+BEN714_PT_04-30,Basic Wall,0 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.01 m³,90
+BEN714_IN-04_250,Basic Wall,8 m²,250,01_First Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,2.00 m³,2177
+BEN714_PT_02-130,Basic Wall,29 m²,130,01_First Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,3.71 m³,8418
+BEN714_PT_04-30,Basic Wall,2 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.06 m³,232
+BEN714_PT_04-30,Basic Wall,2 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.07 m³,297
+BEN714_PT_04-30,Basic Wall,26 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.78 m³,3362
+BEN714_PT_04-30,Basic Wall,2 m²,30,00_Ground Floor,Up to level: 02_Second Floor,Interior,Non-bearing,,0.05 m³,487
+BEN714_PT_04-30,Basic Wall,1 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.03 m³,204
+BEN714_PT_04-30,Basic Wall,12 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.35 m³,3038
+BEN714_PT_04-30,Basic Wall,4 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.11 m³,954
+BEN714_PT_04-30,Basic Wall,0 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.00 m³,106
+BEN714_PT_02-130,Basic Wall,55 m²,130,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,7.16 m³,2561
+BEN714_PT_02-130,Basic Wall,17 m²,130,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,2.19 m³,862
+BEN714_PT_02-130,Basic Wall,115 m²,130,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,15.01 m³,5752
+BEN714_PT_02-130,Basic Wall,116 m²,130,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,15.12 m³,6345
+BEN714_PT_02-130,Basic Wall,40 m²,130,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,5.21 m³,2561
+BEN714_PT_02-130,Basic Wall,34 m²,130,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,4.41 m³,1473
+BEN714_PT_02-130,Basic Wall,64 m²,130,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,8.27 m³,3191
+BEN714_PT_03-70,Basic Wall,39 m²,70,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,2.73 m³,1742
+BEN714_PT_03-70,Basic Wall,39 m²,70,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,2.73 m³,1742
+BEN714_PT_03-70,Basic Wall,35 m²,70,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,2.44 m³,2728
+BEN714_PT_04-30,Basic Wall,46 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,1.39 m³,2060
+BEN714_PT_04-30,Basic Wall,2 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.05 m³,78
+BEN714_PT_04-30,Basic Wall,20 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.59 m³,859
+BEN714_PT_04-30,Basic Wall,2 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.05 m³,78
+BEN714_PT_04-30,Basic Wall,18 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.55 m³,872
+BEN714_PT_04-30,Basic Wall,19 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.56 m³,861
+BEN714_PT_04-30,Basic Wall,2 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.05 m³,78
+BEN714_PT_04-30,Basic Wall,20 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.59 m³,859
+BEN714_PT_04-30,Basic Wall,2 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.05 m³,78
+BEN714_PT_04-30,Basic Wall,43 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,1.30 m³,1910
+BEN714_PT_04-30,Basic Wall,19 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.58 m³,882
+BEN714_PT_04-30,Basic Wall,19 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.56 m³,881
+BEN714_PT_04-30,Basic Wall,21 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.64 m³,1025
+BEN714_PT_04-30,Basic Wall,67 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,2.00 m³,3184
+BEN714_PT_03-70,Basic Wall,41 m²,70,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,2.89 m³,1894
+BEN714_PT_03-70,Basic Wall,41 m²,70,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,2.89 m³,1894
+BEN714_PT_04-30,Basic Wall,21 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.64 m³,1032
+BEN714_PT_04-30,Basic Wall,19 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.56 m³,881
+BEN714_PT_04-30,Basic Wall,19 m²,30,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.58 m³,882
+BEN714_PT_03-70,Basic Wall,35 m²,70,01_First Floor,Up to level: 07_Roof Floor,Interior,Non-bearing,,2.44 m³,2795
+DAR-GL03,Curtain Wall,54 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,6943
+DAR-GL03,Curtain Wall,93 m²,,00_Ground Floor,Unconnected,Exterior,Non-bearing,,,3381
+DAR-GL03,Curtain Wall,173 m²,,00_Ground Floor,Unconnected,Exterior,Non-bearing,,,7388
+DAR-GL03,Curtain Wall,45 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,6500
+DAR-GL03,Curtain Wall,45 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,45 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,45 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,6494
+DAR-GL03,Curtain Wall,36 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,5123
+DAR-GL03,Curtain Wall,19 m²,,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,,6500
+DAR-GL03,Curtain Wall,19 m²,,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,19 m²,,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,19 m²,,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,,6494
+DAR-GL03,Curtain Wall,15 m²,,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,,5123
+DAR-GL03,Curtain Wall,9 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,1342
+DAR-GL03,Curtain Wall,45 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,6504
+DAR-GL03,Curtain Wall,45 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,6453
+DAR-GL03,Curtain Wall,18 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,2618
+DAR-GL03,Curtain Wall,4 m²,,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,,1342
+DAR-GL03,Curtain Wall,19 m²,,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,,6504
+DAR-GL03,Curtain Wall,19 m²,,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,,6453
+DAR-GL03,Curtain Wall,8 m²,,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,,2618
+DAR-GL03,Curtain Wall,112 m²,,02_Second Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,7342
+DAR-LV02-CWA-BLACK,Curtain Wall,114 m²,,02_Second Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,7271
+DAR-GL03,Curtain Wall,15 m²,,02_Second Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,1045
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.07 m³,670
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.06 m³,540
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.07 m³,670
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.06 m³,540
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.05 m³,494
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.05 m³,495
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.05 m³,494
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.05 m³,495
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.05 m³,494
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.05 m³,495
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.05 m³,494
+BEN714_PT_04-30,Basic Wall,2 m²,30,02_Second Floor,Up to level: 03_Third Floor,Interior,Non-bearing,,0.05 m³,495
+BEN714_PT_04-30,Basic Wall,3 m²,30,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.08 m³,750
+BEN714_PT_04-30,Basic Wall,3 m²,30,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.10 m³,910
+BEN714_PT_04-30,Basic Wall,3 m²,30,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.08 m³,750
+DAR-GL03,Curtain Wall,15 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,2108
+DAR-GL03,Curtain Wall,7 m²,,00_Ground Floor,Up to level: 02_Second Floor,Exterior,Non-bearing,,,1000
+DAR-GL03,Curtain Wall,30 m²,,02_Second Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,2108
+BEN714_IN-01_215,Basic Wall,8 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.64 m³,4817
+BEN714_IN-01_215,Basic Wall,21 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,4.44 m³,9036
+BEN714_IN-01_215,Basic Wall,13 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,2.79 m³,4815
+BEN714_IN-01_215,Basic Wall,13 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,2.79 m³,4815
+BEN714_IN-06_150,Basic Wall,4 m²,150,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.66 m³,1693
+BEN714_IN-06_150,Basic Wall,38 m²,150,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,5.65 m³,14305
+BEN714_IN-06_150,Basic Wall,8 m²,150,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.22 m³,3122
+BEN714_Conc_300,Basic Wall,6 m²,300,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.73 m³,3122
+CRTN W_NO DIVISIONS,Curtain Wall,13 m²,,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,,5123
+DAR-GL03,Curtain Wall,10 m²,,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,11 m²,,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,8 m²,,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,,6500
+BEN714_EX-02-170,Basic Wall,24 m²,170,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,4.04 m³,7639
+BEN714_EX-02-170,Basic Wall,32 m²,170,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,5.41 m³,10505
+BEN714_PT_04-30,Basic Wall,3 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.10 m³,857
+BEN714_PT_04-30,Basic Wall,0 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.01 m³,119
+BEN714_PT_04-30,Basic Wall,0 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.01 m³,100
+BEN714_PT_04-30,Basic Wall,2 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.07 m³,581
+BEN714_PT_04-30,Basic Wall,0 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.01 m³,100
+BEN714_PT_04-30,Basic Wall,1 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.04 m³,328
+BEN714_PT_04-30,Basic Wall,0 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.01 m³,104
+BEN714_PT_04-30,Basic Wall,0 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.01 m³,95
+BEN714_PT_04-30,Basic Wall,10 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.31 m³,2718
+BEN714_PT_04-30,Basic Wall,3 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.10 m³,875
+BEN714_PT_04-30,Basic Wall,0 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.01 m³,80
+BEN714_PT_04-30,Basic Wall,3 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.08 m³,722
+BEN714_PT_04-30,Basic Wall,4 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.12 m³,1030
+BEN714_PT_04-30,Basic Wall,4 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.12 m³,1032
+BEN714_PT_04-30,Basic Wall,4 m²,30,00_Ground Floor,Up to level: 01_First Floor,Interior,Non-bearing,,0.11 m³,1010
+DAR-GL03,Curtain Wall,14 m²,,02_Second Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,1000
+BEN714_Conc_300,Basic Wall,21 m²,300,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,6.39 m³,7649
+BEN714_Conc_170,Basic Wall,8 m²,170,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.30 m³,2725
+BEN714_Conc_300,Basic Wall,16 m²,300,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,4.72 m³,5428
+BEN714_Conc_170,Basic Wall,8 m²,170,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.39 m³,2730
+BEN714_IN-01_215,Basic Wall,10 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,2.05 m³,3335
+BEN714_IN-01_215,Basic Wall,6 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.23 m³,2785
+BEN714_IN-01_215,Basic Wall,9 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.92 m³,3335
+BEN714_IN-01_215,Basic Wall,12 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,2.56 m³,4926
+BEN714_IN-01_215,Basic Wall,11 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,2.40 m³,3846
+BEN714_IN-01_215,Basic Wall,11 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,2.40 m³,4703
+BEN714_IN-01_215,Basic Wall,17 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,3.65 m³,6108
+BEN714_IN-01_215,Basic Wall,18 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,3.92 m³,7433
+BEN714_IN-01_215,Basic Wall,19 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,4.11 m³,7194
+BEN714_IN-01_215,Basic Wall,17 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,3.65 m³,6105
+BEN714_IN-01_215,Basic Wall,4 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.89 m³,1532
+BEN714_IN-01_215 with insulation,Basic Wall,22 m²,285,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,6.32 m³,7648
+BEN714_IN-01_215 with insulation,Basic Wall,7 m²,285,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,2.05 m³,4364
+BEN714_IN-01_140 with insulation,Basic Wall,7 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.48 m³,2435
+BEN714_IN-01_140 with insulation,Basic Wall,6 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.35 m³,2430
+BEN714_IN-01_140 with insulation,Basic Wall,1 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.23 m³,163
+BEN714_IN-01_140 with insulation,Basic Wall,2 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.32 m³,731
+BEN714_IN-01_140 with insulation,Basic Wall,1 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.23 m³,163
+BEN714_IN-01_140 with insulation,Basic Wall,10 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,2.20 m³,3826
+BEN714_IN-01_140 with insulation,Basic Wall,1 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.23 m³,162
+BEN714_IN-01_140 with insulation,Basic Wall,1 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.20 m³,436
+BEN714_IN-01_215,Basic Wall,8 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.80 m³,2927
+BEN714_IN-01_215,Basic Wall,7 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.41 m³,2477
+BEN714_IN-05_120,Basic Wall,20 m²,120,00_Ground Floor,Up to level: 07_Roof Floor,Exterior,Non-bearing,,2.43 m³,1100
+BEN714_IN-06_150,Basic Wall,2 m²,150,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Exterior,Non-bearing,,0.24 m³,492
+BEN714_IN-01_140 with insulation,Basic Wall,1 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.23 m³,173
+BEN714_IN-01_140 with insulation,Basic Wall,2 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.32 m³,730
+BEN714_IN-01_140 with insulation,Basic Wall,1 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.30 m³,284
+BEN714_IN-01_140 with insulation,Basic Wall,3 m²,210,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.66 m³,1326
+BEN714_IN-04_250,Basic Wall,9 m²,250,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,2.21 m³,4971
+BEN714_IN-04_250,Basic Wall,9 m²,250,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,2.29 m³,5141
+BEN714_IN-04_100,Basic Wall,3 m²,100,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,0.27 m³,605
+BEN714_IN-04_100,Basic Wall,4 m²,100,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,0.38 m³,1251
+BEN714_IN-04_100,Basic Wall,1 m²,100,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,0.06 m³,602
+BEN714_IN-04_100,Basic Wall,1 m²,100,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,0.13 m³,609
+BEN714_IN-04_100,Basic Wall,4 m²,100,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,0.38 m³,1242
+BEN714_IN-04_100,Basic Wall,1 m²,100,-01_Basement Floor,Unconnected,Exterior,Non-bearing,,0.06 m³,609
+BEN714_PT_04-30,Basic Wall,6 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.18 m³,2064
+BEN714_PT_04-30,Basic Wall,1 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.04 m³,466
+BEN714_PT_04-30,Basic Wall,3 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.08 m³,823
+BEN714_PT_04-30,Basic Wall,8 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.24 m³,2657
+BEN714_PT_04-30,Basic Wall,2 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.07 m³,914
+BEN714_PT_04-30,Basic Wall,9 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.27 m³,2867
+BEN714_PT_04-30,Basic Wall,0 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.01 m³,252
+BEN714_PT_04-30,Basic Wall,0 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.01 m³,252
+BEN714_IN-04_100,Basic Wall,5 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.55 m³,2054
+BEN714_IN-04_100,Basic Wall,9 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.86 m³,5435
+BEN714_IN-04_100,Basic Wall,5 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.55 m³,2054
+BEN714_IN-04_100,Basic Wall,5 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.55 m³,2054
+BEN714_Conc_170,Basic Wall,5 m²,170,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.93 m³,2054
+BEN714_IN-04_100,Basic Wall,6 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.60 m³,2164
+BEN714_IN-04_100,Basic Wall,4 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.40 m³,2770
+BEN714_IN-04_100,Basic Wall,6 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.57 m³,2164
+BEN714_IN-04_100,Basic Wall,6 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.60 m³,2214
+BEN714_IN-05_120,Basic Wall,9 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.11 m³,3282
+BEN714_IN-04_100,Basic Wall,1 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.13 m³,509
+BEN714_IN-05_120,Basic Wall,3 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.39 m³,1876
+BEN714_IN-05_120,Basic Wall,2 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.27 m³,847
+BEN714_IN-04_100,Basic Wall,6 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.61 m³,2225
+BEN714_IN-05_120,Basic Wall,5 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.58 m³,2435
+BEN714_IN-05_120,Basic Wall,6 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.78 m³,2435
+BEN714_IN-05_120,Basic Wall,3 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.40 m³,1896
+BEN714_IN-05_120,Basic Wall,9 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.07 m³,3282
+BEN714_IN-04_100,Basic Wall,1 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.13 m³,509
+BEN714_IN-05_120,Basic Wall,4 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.45 m³,2116
+BEN714_IN-05_120,Basic Wall,4 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.52 m³,1604
+BEN714_IN-05_120,Basic Wall,7 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.79 m³,3145
+BEN714_IN-04_100,Basic Wall,18 m²,100,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.76 m³,6108
+BEN714_IN-05_120,Basic Wall,2 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.23 m³,782
+BEN714_IN-01_215,Basic Wall,12 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,2.49 m³,3933
+BEN714_IN-01_215,Basic Wall,2 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.41 m³,702
+BEN714_IN-05_120,Basic Wall,4 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.45 m³,1451
+BEN714_IN-05_120,Basic Wall,5 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.59 m³,3665
+BEN714_IN-01_215,Basic Wall,2 m²,215,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.33 m³,702
+BEN714_PT_03-70,Basic Wall,18 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,1.24 m³,6715
+BEN714_PT_03-70,Basic Wall,1 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.08 m³,448
+BEN714_PT_03-70,Basic Wall,1 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.04 m³,140
+BEN714_PT_03-70,Basic Wall,8 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.59 m³,2801
+BEN714_PT_04-30,Basic Wall,24 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.71 m³,7856
+BEN714_PT_04-30,Basic Wall,3 m²,30,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.10 m³,1094
+BEN714_PT_03-70,Basic Wall,19 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,1.32 m³,7051
+BEN714_PT_03-70,Basic Wall,18 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,1.23 m³,5778
+BEN714_PT_03-70,Basic Wall,73 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,5.09 m³,23859
+BEN714_PT_03-70,Basic Wall,10 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.70 m³,3416
+BEN714_PT_03-70,Basic Wall,9 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.64 m³,3008
+BEN714_PT_03-70,Basic Wall,5 m²,70,-01_Basement Floor,Up to level: 00_Ground Floor,Interior,Non-bearing,,0.37 m³,2643
+BEN714_Conc_300,Basic Wall,1 m²,300,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.44 m³,557
+BEN714_Conc_300,Basic Wall,1 m²,300,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.44 m³,500
+BEN714_Conc_300,Basic Wall,1 m²,300,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.44 m³,500
+BEN714_Conc_300,Basic Wall,1 m²,300,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.44 m³,500
+BEN714_IN-01_140,Basic Wall,1 m²,140,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.17 m³,556
+BEN714_IN-01_140,Basic Wall,6 m²,140,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.90 m³,2364
+BEN714_IN-01_140,Basic Wall,2 m²,140,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.27 m³,660
+BEN714_IN-01_140,Basic Wall,1 m²,140,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.13 m³,260
+BEN714_IN-01_140,Basic Wall,1 m²,140,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.16 m³,239
+BEN714_IN-01_140,Basic Wall,1 m²,140,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.15 m³,227
+BEN714_IN-01_140,Basic Wall,1 m²,140,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.12 m³,589
+Storefront,Curtain Wall,10 m²,,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,,3560
+Storefront,Curtain Wall,21 m²,,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,,7265
+Storefront,Curtain Wall,4 m²,,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,,1410
+BEN714_IN-05_120,Basic Wall,3 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.32 m³,847
+BEN714_IN-05_120,Basic Wall,5 m²,120,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,0.58 m³,2435
+BEN714_Conc_170,Basic Wall,11 m²,170,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,1.92 m³,3966
+BEN714_PT_04-30,Basic Wall,4 m²,30,02_Second Floor,Up to level: 05_Fifth Floor,Interior,Non-bearing,,0.13 m³,380
+BEN714_PT_04-30,Basic Wall,4 m²,30,02_Second Floor,Up to level: 05_Fifth Floor,Interior,Non-bearing,,0.13 m³,380
+BEN714_PT_04-30,Basic Wall,4 m²,30,02_Second Floor,Up to level: 05_Fifth Floor,Interior,Non-bearing,,0.13 m³,380
+BEN714_PT_04-30,Basic Wall,4 m²,30,02_Second Floor,Up to level: 05_Fifth Floor,Interior,Non-bearing,,0.13 m³,380
+BEN714_Conc_300,Basic Wall,126 m²,300,-01_Basement Floor,Up to level: 00_Ground Floor,Exterior,Non-bearing,,37.65 m³,41075
+BEN714_EX-02-170,Basic Wall,3 m²,170,02_Second Floor,Up to level: 03_Third Floor,Exterior,Non-bearing,,0.56 m³,779
+DAR-GL03,Curtain Wall,19 m²,,03_Third Floor,Up to level: 04_Fourth Floor,Exterior,Non-bearing,,,6500
+DAR-GL03,Curtain Wall,19 m²,,03_Third Floor,Up to level: 04_Fourth Floor,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,19 m²,,04_Fourth Floor,Up to level: 05_Fifth Floor,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,19 m²,,03_Third Floor,Up to level: 04_Fourth Floor,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,19 m²,,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,19 m²,,04_Fourth Floor,Up to level: 05_Fifth Floor,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,19 m²,,04_Fourth Floor,Up to level: 05_Fifth Floor,Exterior,Non-bearing,,,6500
+DAR-GL03,Curtain Wall,19 m²,,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,6500
+DAR-GL03,Curtain Wall,19 m²,,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,6496
+DAR-GL03,Curtain Wall,19 m²,,03_Third Floor,Up to level: 04_Fourth Floor,Exterior,Non-bearing,,,6494
+DAR-GL03,Curtain Wall,19 m²,,04_Fourth Floor,Up to level: 05_Fifth Floor,Exterior,Non-bearing,,,6494
+DAR-GL03,Curtain Wall,19 m²,,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,6494
+DAR-GL03,Curtain Wall,15 m²,,03_Third Floor,Up to level: 04_Fourth Floor,Exterior,Non-bearing,,,5123
+DAR-GL03,Curtain Wall,15 m²,,04_Fourth Floor,Up to level: 05_Fifth Floor,Exterior,Non-bearing,,,5123
+DAR-GL03,Curtain Wall,15 m²,,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,5123
+DAR-GL03,Curtain Wall,4 m²,,03_Third Floor,Up to level: 04_Fourth Floor,Exterior,Non-bearing,,,1342
+DAR-GL03,Curtain Wall,19 m²,,03_Third Floor,Up to level: 04_Fourth Floor,Exterior,Non-bearing,,,6504
+DAR-GL03,Curtain Wall,19 m²,,03_Third Floor,Up to level: 04_Fourth Floor,Exterior,Non-bearing,,,6453
+DAR-GL03,Curtain Wall,8 m²,,03_Third Floor,Up to level: 04_Fourth Floor,Exterior,Non-bearing,,,2618
+DAR-GL03,Curtain Wall,19 m²,,04_Fourth Floor,Up to level: 05_Fifth Floor,Exterior,Non-bearing,,,6453
+DAR-GL03,Curtain Wall,8 m²,,04_Fourth Floor,Up to level: 05_Fifth Floor,Exterior,Non-bearing,,,2618
+DAR-GL03,Curtain Wall,19 m²,,04_Fourth Floor,Up to level: 05_Fifth Floor,Exterior,Non-bearing,,,6504
+DAR-GL03,Curtain Wall,19 m²,,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,6453
+DAR-GL03,Curtain Wall,19 m²,,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,6504
+DAR-GL03,Curtain Wall,8 m²,,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Non-bearing,,,2618
+DAR-GL03,Curtain Wall,4 m²,,04_Fourth Floor,Up to level: 05_Fifth Floor,Exterior,Non-bearing,,,1342
+BEN714_EX-02-170,Basic Wall,60 m²,170,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Bearing,,10.20 m³,15020
+BEN714_EX-02-170,Basic Wall,12 m²,170,05_Fifth Floor,Up to level: 06_Sixth Floor Layout,Exterior,Bearing,,2.08 m³,3148
+Storefront,Curtain Wall,168 m²,,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Exterior,Non-bearing,,,42139
+Exterior Glazing,Curtain Wall,42 m²,,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Exterior,Non-bearing,,,10900
+Exterior Glazing,Curtain Wall,60 m²,,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Exterior,Non-bearing,,,14969
+Exterior Glazing,Curtain Wall,32 m²,,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Exterior,Non-bearing,,,7809
+BEN714_PT_05-20,Basic Wall,4 m²,20,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Interior,Non-bearing,,0.09 m³,1362
+Exterior Glazing,Curtain Wall,84 m²,,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Exterior,Non-bearing,,,20400
+Storefront,Curtain Wall,41 m²,,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Exterior,Non-bearing,,,1900
+Storefront,Curtain Wall,48 m²,,06_Sixth Floor Layout,Up to level: 07_Roof Floor,Exterior,Non-bearing,,,1900
+BEN714_EX-02-170,Basic Wall,2 m²,170,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,0.28 m³,490
+BEN714_EX-02-170,Basic Wall,11 m²,170,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,1.85 m³,3816
+BEN714_EX-02-170,Basic Wall,9 m²,170,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,1.60 m³,4045
+BEN714-ROOF LOUVERS,Curtain Wall,20 m²,,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,,7817
+BEN714-ROOF LOUVERS,Curtain Wall,63 m²,,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,,24751
+BEN714-ROOF LOUVERS,Curtain Wall,28 m²,,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,,10869
+BEN714-ROOF LOUVERS,Curtain Wall,28 m²,,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,,11190
+BEN714_EX-02-170,Basic Wall,11 m²,170,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,1.80 m³,4394
+BEN714_IN-01_140,Basic Wall,1 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.13 m³,661
+BEN714_IN-01_140,Basic Wall,1 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.13 m³,661
+BEN714_IN-01_140,Basic Wall,8 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,1.14 m³,6650
+BEN714_IN-01_140,Basic Wall,5 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.67 m³,3863
+BEN714_IN-01_140,Basic Wall,4 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.50 m³,2961
+BEN714_IN-01_140,Basic Wall,1 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.10 m³,750
+BEN714_IN-05_120,Basic Wall,2 m²,120,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,0.26 m³,1040
+BEN714_EX-02-170,Basic Wall,2 m²,170,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,0.27 m³,569
+BEN714_EX-02-170,Basic Wall,14 m²,170,07_Roof Floor,Up to level: 08_Upper Roof,Exterior,Non-bearing,,2.32 m³,4962
+BEN714_IN-01_140,Basic Wall,1 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.17 m³,1140
+BEN714_IN-01_140,Basic Wall,1 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.17 m³,1140
+BEN714_IN-01_140,Basic Wall,9 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,1.24 m³,7400
+BEN714_IN-01_140,Basic Wall,9 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,1.21 m³,7073
+BEN714_IN-01_140,Basic Wall,9 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,1.21 m³,7073
+BEN714_IN-01_140,Basic Wall,2 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.30 m³,1950
+BEN714_IN-01_140,Basic Wall,2 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.30 m³,1950
+BEN714_IN-01_140,Basic Wall,1 m²,140,07_Roof Floor,Unconnected,Exterior,Non-bearing,,0.13 m³,901

@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IFC Building Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, sans-serif; }
+        #sidebar {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 280px;
+            height: 100vh;
+            background: rgba(30,30,40,0.95);
+            color: white;
+            padding: 20px;
+            z-index: 100;
+            box-shadow: 2px 0 10px rgba(0,0,0,0.3);
+            overflow-y: auto;
+        }
+        #viewer {
+            position: fixed;
+            right: 0;
+            top: 0;
+            width: calc(100% - 280px);
+            height: 100vh;
+        }
+        canvas { width: 100%; height: 100%; display: block; }
+        select, button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            background: #4a4a5a;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        select:hover, button:hover { background: #6a6a7a; }
+        h2 { margin-bottom: 20px; color: #4ecdc4; }
+        .info {
+            background: rgba(0,0,0,0.5);
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+            font-size: 12px;
+        }
+        .status {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: rgba(0,0,0,0.7);
+            color: #4ecdc4;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 12px;
+            z-index: 100;
+            pointer-events: none;
+        }
+        .property-panel {
+            background: rgba(0,0,0,0.6);
+            border-radius: 8px;
+            padding: 12px;
+            margin-top: 15px;
+            font-size: 11px;
+            max-height: 350px;
+            overflow-y: auto;
+        }
+        .property-title {
+            color: #4ecdc4;
+            font-weight: bold;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #4ecdc4;
+            padding-bottom: 4px;
+        }
+        .property-row {
+            margin: 6px 0;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .property-label {
+            font-weight: bold;
+            width: 100px;
+            color: #aaa;
+        }
+        .property-value {
+            flex: 1;
+            color: white;
+        }
+        .element-type {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 10px;
+            font-weight: bold;
+            margin-left: 8px;
+        }
+        .type-door { background: #4CAF50; }
+        .type-wall { background: #2196F3; }
+        .type-window { background: #FF9800; }
+        .type-other { background: #9E9E9E; }
+        .debug-panel {
+            background: rgba(0,0,0,0.4);
+            margin-top: 10px;
+            padding: 8px;
+            border-radius: 5px;
+            font-family: monospace;
+            font-size: 10px;
+            color: #4ecdc4;
+        }
+    </style>
+</head>
+<body>
+    <div id="sidebar">
+        <h2>🏗️ IFC Viewer</h2>
+        
+        <label>🏢 Select Building:</label>
+        <select id="buildingSelect">
+            <option value="town_hall">Town Hall (98 MB)</option>
+            <option value="apartment">Apartment (299 MB)</option>
+            <option value="office">Office (624 MB)</option>
+        </select>
+        
+        <button id="resetCamera">🎥 Reset Camera</button>
+        
+        <div class="info">
+            <strong>🎮 Controls:</strong><br>
+            • Left click + drag: Rotate<br>
+            • Right click + drag: Pan<br>
+            • Scroll: Zoom<br>
+            • Click objects: Inspect
+        </div>
+        
+        <div id="propertiesPanel" class="property-panel">
+            <div class="property-title">📋 ELEMENT PROPERTIES</div>
+            <div style="color: #aaa; text-align: center; padding: 20px;">
+                Click on a door, wall, or window<br>to see its properties
+            </div>
+        </div>
+        
+        <div id="debugPanel" class="debug-panel">
+            <strong>🔍 Debug:</strong><br>
+            Waiting for clicks...
+        </div>
+    </div>
+    
+    <div id="viewer">
+        <canvas id="myCanvas"></canvas>
+    </div>
+    
+    <div class="status" id="status">✅ Ready - Select a building</div>
+    
+    <script type="module">
+        import {Viewer, XKTLoaderPlugin} from "https://cdn.jsdelivr.net/npm/@xeokit/xeokit-sdk/dist/xeokit-sdk.es.min.js";
+        
+        console.log("xeokit loaded successfully");
+        
+        let viewer = null;
+        let currentModel = null;
+        let currentMetaModel = null;
+        
+        function updateDebug(message) {
+            const debugPanel = document.getElementById("debugPanel");
+            debugPanel.innerHTML = `<strong>🔍 Debug:</strong><br>${message}<br>${new Date().toLocaleTimeString()}`;
+            console.log(message);
+        }
+        
+        function getTypeBadge(type) {
+            if (type === "IfcDoor") return '<span class="element-type type-door">DOOR</span>';
+            if (type === "IfcWall") return '<span class="element-type type-wall">WALL</span>';
+            if (type === "IfcWindow") return '<span class="element-type type-window">WINDOW</span>';
+            return '<span class="element-type type-other">ELEMENT</span>';
+        }
+        
+        function displayElementProperties(obj, metaObject, type) {
+            const propsPanel = document.getElementById("propertiesPanel");
+            const elementName = metaObject?.name || obj.id || "Unknown";
+            const elementType = type || obj.type || "Unknown";
+            const typeBadge = getTypeBadge(elementType);
+            
+            let propertiesHtml = '';
+            
+            if (metaObject && metaObject.propertySets && metaObject.propertySets.length > 0) {
+                propertiesHtml = '<div class="property-title" style="margin-top: 10px;">📊 PROPERTIES</div>';
+                for (let ps of metaObject.propertySets) {
+                    if (ps.properties) {
+                        for (let prop of ps.properties) {
+                            if (prop.value !== null && prop.value !== undefined && prop.value !== "") {
+                                propertiesHtml += `
+                                    <div class="property-row">
+                                        <div class="property-label">${prop.name}:</div>
+                                        <div class="property-value">${prop.value}</div>
+                                    </div>
+                                `;
+                            }
+                        }
+                    }
+                }
+            } else {
+                propertiesHtml = '<div class="property-title" style="margin-top: 10px;">📊 PROPERTIES</div>';
+                propertiesHtml += '<div style="color: #aaa; padding: 10px 0;">No property set data available</div>';
+            }
+            
+            propsPanel.innerHTML = `
+                <div class="property-title">📋 ELEMENT PROPERTIES ${typeBadge}</div>
+                <div class="property-row">
+                    <div class="property-label">Name:</div>
+                    <div class="property-value">${elementName}</div>
+                </div>
+                <div class="property-row">
+                    <div class="property-label">IFC Type:</div>
+                    <div class="property-value">${elementType}</div>
+                </div>
+                <div class="property-row">
+                    <div class="property-label">Global ID:</div>
+                    <div class="property-value" style="font-size: 10px;">${obj.id || "N/A"}</div>
+                </div>
+                ${propertiesHtml}
+            `;
+        }
+        
+        try {
+            viewer = new Viewer({
+                canvasId: "myCanvas",
+                transparent: false,
+                backgroundColor: [0.15, 0.15, 0.2]
+            });
+            
+            viewer.camera.eye = [-10, 5, 10];
+            viewer.camera.look = [0, 0, 0];
+            
+            updateDebug("Viewer created, checking cameraControl...");
+            
+            // Check if cameraControl exists
+            if (!viewer.cameraControl) {
+                updateDebug("ERROR: cameraControl is null! Trying alternative approach...");
+            } else {
+                updateDebug("cameraControl exists, attaching click handler...");
+            }
+            
+            // Try BOTH click methods for compatibility
+            const canvas = document.getElementById('myCanvas');
+            
+            // Method 1: Using xeokit's cameraControl
+            if (viewer.cameraControl) {
+                viewer.cameraControl.on("click", (e) => {
+                    updateDebug(`CLICK DETECTED via cameraControl at (${e.clientX}, ${e.clientY})`);
+                    
+                    const canvasRect = canvas.getBoundingClientRect();
+                    const canvasX = e.clientX - canvasRect.left;
+                    const canvasY = e.clientY - canvasRect.top;
+                    
+                    updateDebug(`Canvas position: (${canvasX}, ${canvasY})`);
+                    
+                    const pickResult = viewer.scene.pick({
+                        canvasPos: [canvasX, canvasY]
+                    });
+                    
+                    updateDebug(`Pick result: ${pickResult ? "FOUND" : "NOTHING"}`);
+                    
+                    if (pickResult && pickResult.object) {
+                        viewer.scene.objects.forEach(obj => obj.highlighted = false);
+                        pickResult.object.highlighted = true;
+                        
+                        const obj = pickResult.object;
+                        let metaObject = null;
+                        let elementType = obj.type || "Unknown";
+                        
+                        if (currentMetaModel && currentMetaModel.metaObjects) {
+                            metaObject = currentMetaModel.metaObjects[obj.id];
+                            if (metaObject && metaObject.type) {
+                                elementType = metaObject.type;
+                            }
+                        }
+                        
+                        updateDebug(`Selected: ${obj.id} (${elementType})`);
+                        displayElementProperties(obj, metaObject, elementType);
+                        document.getElementById("status").innerHTML = `✅ Selected: ${elementType}`;
+                    } else {
+                        updateDebug("Click detected but no object picked");
+                    }
+                });
+            }
+            
+            // Method 2: Direct canvas click event (fallback)
+            canvas.addEventListener('click', (e) => {
+                updateDebug(`CANVAS CLICK at (${e.clientX}, ${e.clientY})`);
+                
+                const canvasRect = canvas.getBoundingClientRect();
+                const canvasX = e.clientX - canvasRect.left;
+                const canvasY = e.clientY - canvasRect.top;
+                
+                const pickResult = viewer.scene.pick({
+                    canvasPos: [canvasX, canvasY]
+                });
+                
+                if (pickResult && pickResult.object) {
+                    updateDebug(`Canvas pick SUCCESS! Object: ${pickResult.object.id}`);
+                    viewer.scene.objects.forEach(obj => obj.highlighted = false);
+                    pickResult.object.highlighted = true;
+                    
+                    let metaObject = null;
+                    let elementType = pickResult.object.type || "Unknown";
+                    
+                    if (currentMetaModel && currentMetaModel.metaObjects) {
+                        metaObject = currentMetaModel.metaObjects[pickResult.object.id];
+                        if (metaObject && metaObject.type) {
+                            elementType = metaObject.type;
+                        }
+                    }
+                    
+                    displayElementProperties(pickResult.object, metaObject, elementType);
+                    document.getElementById("status").innerHTML = `✅ Selected: ${elementType}`;
+                } else {
+                    updateDebug("Canvas click - no object under cursor");
+                }
+            });
+            
+            const xktLoader = new XKTLoaderPlugin(viewer);
+            
+            function loadBuilding(buildingName) {
+                if (currentModel) {
+                    currentModel.destroy();
+                }
+                
+                updateDebug(`Loading ${buildingName}...`);
+                document.getElementById("status").innerHTML = `⏳ Loading ${buildingName}...`;
+                document.getElementById("propertiesPanel").innerHTML = `
+                    <div class="property-title">📋 ELEMENT PROPERTIES</div>
+                    <div style="color: #aaa; text-align: center; padding: 20px;">
+                        Loading ${buildingName}...<br>Please wait
+                    </div>
+                `;
+                
+                const fileUrl = `./xeokit-simple-viewer-main/buildings/${buildingName}.xkt`;
+                
+                try {
+                    currentModel = xktLoader.load({
+                        id: buildingName,
+                        src: fileUrl,
+                        edges: true
+                    });
+                    
+                    currentModel.on("loaded", () => {
+                        updateDebug(`${buildingName} loaded, getting meta model...`);
+                        setTimeout(() => {
+                            if (viewer.metaScene && viewer.metaScene.metaModels) {
+                                currentMetaModel = viewer.metaScene.metaModels[buildingName];
+                                if (currentMetaModel) {
+                                    const objectCount = Object.keys(currentMetaModel.metaObjects || {}).length;
+                                    updateDebug(`Meta model loaded: ${objectCount} elements found`);
+                                }
+                            }
+                        }, 1000);
+                    });
+                    
+                    document.getElementById("status").innerHTML = `✅ Loaded: ${buildingName}`;
+                } catch(error) {
+                    console.error("Load error:", error);
+                    updateDebug(`ERROR: ${error.message}`);
+                    document.getElementById("status").innerHTML = `❌ Failed to load ${buildingName}`;
+                }
+            }
+            
+            function resetCamera() {
+                if (viewer) {
+                    viewer.camera.eye = [-10, 5, 10];
+                    viewer.camera.look = [0, 0, 0];
+                    updateDebug("Camera reset");
+                    document.getElementById("status").innerHTML = "🎥 Camera reset";
+                }
+            }
+            
+            document.getElementById("buildingSelect").addEventListener("change", (e) => {
+                loadBuilding(e.target.value);
+            });
+            
+            document.getElementById("resetCamera").addEventListener("click", resetCamera);
+            
+            const urlParams = new URLSearchParams(window.location.search);
+            const buildingParam = urlParams.get('building');
+            if (buildingParam && ['town_hall', 'apartment', 'office'].includes(buildingParam)) {
+                document.getElementById("buildingSelect").value = buildingParam;
+                loadBuilding(buildingParam);
+            } else {
+                loadBuilding("town_hall");
+            }
+            
+        } catch(error) {
+            console.error("Error creating viewer:", error);
+            updateDebug(`FATAL ERROR: ${error.message}`);
+            document.getElementById("status").innerHTML = "❌ Error creating viewer";
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,208 @@
+﻿Type,Family,Width,Height,Level,Mark
+D101,Door-Curtain-Wall-Single-Glass,950,2325,00_Ground Floor,1
+D102,M_Door-Single- Panel_Wood1,1200,2400,00_Ground Floor,2
+D103,M_Door-Single-Panel_Wood,850,2330,00_Ground Floor,3
+D104,M_Door-Dubble- Panel_Wood,1100,2200,00_Ground Floor,4
+D105,M_Door-Dubble- Panel_Wood,1100,2200,00_Ground Floor,5
+D106,Door-Passage-Uneven-Flush,1400,2032,00_Ground Floor,6
+D107,Door-Exterior-Revolving-Full Glass-Metal,2337,2350,00_Ground Floor,7
+D108,M_Door_Aluminum Louver_Double1,1800,2450,00_Ground Floor,8
+D109,DAR-DR-Int_Passenger Lift Door,1400,2400,00_Ground Floor,9
+D110,DAR-DR-Int_Passenger Lift Door,1400,2400,00_Ground Floor,10
+D111,DAR-DR-Int_Passenger Lift Door,1400,2400,00_Ground Floor,11
+D112,Door-Passage-Uneven-Flush,1400,2032,00_Ground Floor,12
+D113,M_Door_Aluminum Louver_Double1,1800,2450,00_Ground Floor,13
+D114,Door-Overhead-Rolling,4267,2400,-01_Basement Floor,14
+D115,Door-Curtain-Wall-Single-Glass,825,2025,-01_Basement Floor,15
+D116,Door-Curtain-Wall-Single-Glass,1298,2025,-01_Basement Floor,16
+D117,DAR_Door-Curtain-Wall-Double-Glass,1500,2025,-01_Basement Floor,17
+D118,Door-Curtain-Wall-Single-Glass,825,425,-01_Basement Floor,18
+D119,Door-Curtain-Wall-Single-Glass,1298,425,-01_Basement Floor,19
+D120,M_Door-Single-Panel_Wood,800,2330,00_Ground Floor,20
+D121,M_Door-Single-Panel_Wood,800,2330,00_Ground Floor,21
+D122,M_Door-Single-Panel_Wood,800,2330,00_Ground Floor,22
+D123,M_Door-Single-Panel_Wood,950,2330,00_Ground Floor,23
+D124,M_Door-Single-Panel_Wood,950,2330,00_Ground Floor,24
+D125,Door-Passage-Uneven-Flush,1200,2100,-01_Basement Floor,25
+D126,Door-Passage-Uneven-Flush,1200,2100,-01_Basement Floor,26
+D127,M_Door-Single-Panel_Wood,950,2330,-01_Basement Floor,27
+D128,M_Door-Single-Panel_Wood,950,2330,-01_Basement Floor,28
+D129,M_Door-Single-Panel_Wood,850,2330,-01_Basement Floor,29
+D130,M_Door-Single-Panel_Wood,850,2330,-01_Basement Floor,30
+D131,M_Door-Single-Panel_Wood,850,2330,-01_Basement Floor,31
+D132,M_Door-Single-Panel_Wood,850,2330,-01_Basement Floor,32
+D133,M_Door-Single-Panel_Wood,850,2330,-01_Basement Floor,33
+D134,M_Door-Single- Panel_Wood1,1200,2400,00_Ground Floor,34
+D135,M_Door-Dubble- Panel_Wood,1100,2200,00_Ground Floor,35
+D136,M_Door-Dubble- Panel_Wood,1100,2200,00_Ground Floor,36
+D137,M_Door-Single-Panel_Wood,500,2330,00_Ground Floor,37
+D138,DAR-DR-Int_Passenger Lift Door,1400,2400,01_First Floor,38
+D139,DAR-DR-Int_Passenger Lift Door,1400,2400,01_First Floor,39
+D140,DAR-DR-Int_Passenger Lift Door,1400,2400,01_First Floor,40
+D141,DAR-DR-Int_Passenger Lift Door,1400,2400,01_First Floor,41
+D142,M_Door-Single-Panel_Wood,900,2330,01_First Floor,42
+D143,M_Door-Dubble- Panel_Wood,1100,2200,00_Ground Floor,43
+D144,M_Door-Dubble- Panel_Wood,1100,2200,00_Ground Floor,44
+D145,M_Door-Dubble- Panel_Wood,1100,2200,01_First Floor,45
+D146,M_Door-Dubble- Panel_Wood,1100,2200,01_First Floor,46
+D147,Door-Passage-Uneven-Flush,1400,2032,01_First Floor,47
+D148,M_Door-Dubble- Panel_Wood,1100,2200,01_First Floor,48
+D149,M_Door-Dubble- Panel_Wood,1100,2200,01_First Floor,49
+D150,M_Door-Single-Panel_Wood,500,2330,01_First Floor,50
+D151,M_Door-Dubble- Panel_Wood,1100,2200,01_First Floor,51
+D152,M_Door-Dubble- Panel_Wood,1100,2200,01_First Floor,52
+D153,M_Door-Single- Panel_Wood1,1200,2400,01_First Floor,53
+D154,M_Door-Single-Panel_Wood,800,2330,01_First Floor,54
+D155,M_Door-Single-Panel_Wood,800,2330,01_First Floor,55
+D156,M_Door-Single- Panel_Wood1,1200,2400,01_First Floor,56
+D157,Door-Passage-Uneven-Flush,1400,2032,01_First Floor,57
+D158,M_Door-Single-Panel_Wood,500,2330,01_First Floor,58
+D159,M_Door-Single-Panel_Wood,500,2330,01_First Floor,59
+D160,M_Door-Single-Panel_Wood,500,2330,01_First Floor,60
+D161,M_Door-Single-Panel_Wood,500,2330,01_First Floor,61
+D162,M_Door-Single-Panel_Wood,500,2330,01_First Floor,62
+D163,M_Door-Single-Panel_Wood,500,2330,01_First Floor,63
+D164,M_Door-Single-Panel_Wood,500,2330,01_First Floor,64
+D165,DAR-DR-Int_Passenger Lift Door,1400,2400,-01_Basement Floor,65
+D166,M_Door-Single-Panel_Wood,700,2050,-01_Basement Floor,66
+D167,M_Door-Single-Panel_Wood,700,2050,-01_Basement Floor,67
+D168,M_Door-Single-Panel_Wood,700,2050,-01_Basement Floor,68
+D169,M_Door-Single-Panel_Wood,700,2050,-01_Basement Floor,69
+D170,M_Door-Single- Panel_Wood1,1200,2400,-01_Basement Floor,70
+D171,M_Door-Dubble- Panel_Wood,1100,2200,-01_Basement Floor,71
+D172,M_Door-Single-Panel_Wood,850,2330,-01_Basement Floor,72
+D173,M_Door-Single-Panel_Wood,700,2050,-01_Basement Floor,73
+D174,M_Door-Single-Panel_Wood,700,2050,-01_Basement Floor,74
+D175,Door-Curtain-Wall-Single-Glass,1035,2325,-01_Basement Floor,75
+D176,M_Door-Single-Panel_Wood,900,2050,-01_Basement Floor,76
+D177,M_Door-Single-Panel_Wood,900,2050,-01_Basement Floor,77
+D178,M_Door-Single-Panel_Wood,900,2050,-01_Basement Floor,78
+D179,M_Door-Single-Panel_Wood,900,2050,-01_Basement Floor,79
+D180,M_Door-Single-Panel_Wood,700,2050,-01_Basement Floor,80
+D181,M_Door-Single-Panel_Wood,700,2050,-01_Basement Floor,81
+D182,M_Door-Single-Panel_Wood,850,2330,-01_Basement Floor,82
+D183,M_Door-Dubble- Panel_Wood,1100,2200,02_Second Floor,83
+D184,M_Door-Dubble- Panel_Wood,1100,2200,02_Second Floor,84
+D185,M_Door-Dubble- Panel_Wood,1100,2200,02_Second Floor,85
+D186,M_Door-Dubble- Panel_Wood,1100,2200,02_Second Floor,86
+D187,M_Door-Single-Panel_Wood,500,2330,02_Second Floor,87
+D188,M_Door-Dubble- Panel_Wood,1100,2200,02_Second Floor,88
+D189,M_Door-Dubble- Panel_Wood,1100,2200,02_Second Floor,89
+D190,M_Door-Dubble- Panel_Wood,1100,2200,03_Third Floor,90
+D191,M_Door-Dubble- Panel_Wood,1100,2200,03_Third Floor,91
+D192,M_Door-Dubble- Panel_Wood,1100,2200,03_Third Floor,92
+D193,M_Door-Dubble- Panel_Wood,1100,2200,03_Third Floor,93
+D194,M_Door-Single-Panel_Wood,500,2330,03_Third Floor,94
+D195,M_Door-Dubble- Panel_Wood,1100,2200,03_Third Floor,95
+D196,M_Door-Dubble- Panel_Wood,1100,2200,03_Third Floor,96
+D197,M_Door-Dubble- Panel_Wood,1100,2200,04_Fourth Floor,97
+D198,M_Door-Dubble- Panel_Wood,1100,2200,04_Fourth Floor,98
+D199,M_Door-Dubble- Panel_Wood,1100,2200,04_Fourth Floor,99
+D200,M_Door-Dubble- Panel_Wood,1100,2200,04_Fourth Floor,100
+D201,M_Door-Single-Panel_Wood,500,2330,04_Fourth Floor,101
+D202,M_Door-Dubble- Panel_Wood,1100,2200,04_Fourth Floor,102
+D203,M_Door-Dubble- Panel_Wood,1100,2200,04_Fourth Floor,103
+D204,M_Door-Dubble- Panel_Wood,1100,2200,05_Fifth Floor,104
+D205,M_Door-Dubble- Panel_Wood,1100,2200,05_Fifth Floor,105
+D206,M_Door-Dubble- Panel_Wood,1100,2200,05_Fifth Floor,106
+D207,M_Door-Dubble- Panel_Wood,1100,2200,05_Fifth Floor,107
+D208,M_Door-Single-Panel_Wood,500,2330,05_Fifth Floor,108
+D209,M_Door-Dubble- Panel_Wood,1100,2200,05_Fifth Floor,109
+D210,M_Door-Dubble- Panel_Wood,1100,2200,05_Fifth Floor,110
+D211,M_Door-Dubble- Panel_Wood,1100,2200,06_Sixth Floor Layout,111
+D212,M_Door-Dubble- Panel_Wood,1100,2200,06_Sixth Floor Layout,112
+D213,M_Door-Dubble- Panel_Wood,1100,2200,06_Sixth Floor Layout,113
+D214,M_Door-Dubble- Panel_Wood,1100,2200,06_Sixth Floor Layout,114
+D215,M_Door-Dubble- Panel_Wood,1100,2200,06_Sixth Floor Layout,115
+D216,M_Door-Dubble- Panel_Wood,1100,2200,06_Sixth Floor Layout,116
+D217,DAR-DR-Int_Passenger Lift Door,1400,2400,02_Second Floor,117
+D218,DAR-DR-Int_Passenger Lift Door,1400,2400,02_Second Floor,118
+D219,DAR-DR-Int_Passenger Lift Door,1400,2400,02_Second Floor,119
+D220,DAR-DR-Int_Passenger Lift Door,1400,2400,02_Second Floor,120
+D221,DAR-DR-Int_Passenger Lift Door,1400,2400,03_Third Floor,121
+D222,DAR-DR-Int_Passenger Lift Door,1400,2400,03_Third Floor,122
+D223,DAR-DR-Int_Passenger Lift Door,1400,2400,03_Third Floor,123
+D224,DAR-DR-Int_Passenger Lift Door,1400,2400,03_Third Floor,124
+D225,DAR-DR-Int_Passenger Lift Door,1400,2400,04_Fourth Floor,125
+D226,DAR-DR-Int_Passenger Lift Door,1400,2400,04_Fourth Floor,126
+D227,DAR-DR-Int_Passenger Lift Door,1400,2400,04_Fourth Floor,127
+D228,DAR-DR-Int_Passenger Lift Door,1400,2400,04_Fourth Floor,128
+D229,DAR-DR-Int_Passenger Lift Door,1400,2400,05_Fifth Floor,129
+D230,DAR-DR-Int_Passenger Lift Door,1400,2400,05_Fifth Floor,130
+D231,DAR-DR-Int_Passenger Lift Door,1400,2400,05_Fifth Floor,131
+D232,DAR-DR-Int_Passenger Lift Door,1400,2400,05_Fifth Floor,132
+D233,DAR-DR-Int_Passenger Lift Door,1400,2400,06_Sixth Floor Layout,133
+D234,DAR-DR-Int_Passenger Lift Door,1400,2400,06_Sixth Floor Layout,134
+D235,DAR-DR-Int_Passenger Lift Door,1400,2400,06_Sixth Floor Layout,135
+D236,DAR-DR-Int_Passenger Lift Door,1400,2400,06_Sixth Floor Layout,136
+D237,M_Door-Single-Panel_Wood,900,2330,02_Second Floor,137
+D238,Door-Passage-Uneven-Flush,1400,2032,02_Second Floor,138
+D239,M_Door-Single- Panel_Wood1,1200,2400,02_Second Floor,139
+D240,M_Door-Single-Panel_Wood,800,2330,02_Second Floor,140
+D241,M_Door-Single-Panel_Wood,800,2330,02_Second Floor,141
+D242,M_Door-Single-Panel_Wood,500,2330,02_Second Floor,142
+D243,M_Door-Single-Panel_Wood,500,2330,02_Second Floor,143
+D244,M_Door-Single-Panel_Wood,500,2330,02_Second Floor,144
+D245,M_Door-Single-Panel_Wood,500,2330,02_Second Floor,145
+D246,M_Door-Single-Panel_Wood,500,2330,02_Second Floor,146
+D247,M_Door-Single-Panel_Wood,500,2330,02_Second Floor,147
+D248,M_Door-Single-Panel_Wood,500,2330,02_Second Floor,148
+D249,M_Door-Single-Panel_Wood,900,2330,03_Third Floor,149
+D250,Door-Passage-Uneven-Flush,1400,2032,03_Third Floor,150
+D251,M_Door-Single- Panel_Wood1,1200,2400,03_Third Floor,151
+D252,M_Door-Single-Panel_Wood,800,2330,03_Third Floor,152
+D253,M_Door-Single-Panel_Wood,800,2330,03_Third Floor,153
+D254,M_Door-Single-Panel_Wood,500,2330,03_Third Floor,154
+D255,M_Door-Single-Panel_Wood,500,2330,03_Third Floor,155
+D256,M_Door-Single-Panel_Wood,500,2330,03_Third Floor,156
+D257,M_Door-Single-Panel_Wood,500,2330,03_Third Floor,157
+D258,M_Door-Single-Panel_Wood,500,2330,03_Third Floor,158
+D259,M_Door-Single-Panel_Wood,500,2330,03_Third Floor,159
+D260,M_Door-Single-Panel_Wood,500,2330,03_Third Floor,160
+D261,M_Door-Single-Panel_Wood,900,2330,04_Fourth Floor,161
+D262,Door-Passage-Uneven-Flush,1400,2032,04_Fourth Floor,162
+D263,M_Door-Single- Panel_Wood1,1200,2400,04_Fourth Floor,163
+D264,M_Door-Single-Panel_Wood,800,2330,04_Fourth Floor,164
+D265,M_Door-Single-Panel_Wood,800,2330,04_Fourth Floor,165
+D266,M_Door-Single-Panel_Wood,500,2330,04_Fourth Floor,166
+D267,M_Door-Single-Panel_Wood,500,2330,04_Fourth Floor,167
+D268,M_Door-Single-Panel_Wood,500,2330,04_Fourth Floor,168
+D269,M_Door-Single-Panel_Wood,500,2330,04_Fourth Floor,169
+D270,M_Door-Single-Panel_Wood,500,2330,04_Fourth Floor,170
+D271,M_Door-Single-Panel_Wood,500,2330,04_Fourth Floor,171
+D272,M_Door-Single-Panel_Wood,500,2330,04_Fourth Floor,172
+D273,M_Door-Single-Panel_Wood,900,2330,05_Fifth Floor,173
+D274,Door-Passage-Uneven-Flush,1400,2032,05_Fifth Floor,174
+D275,M_Door-Single- Panel_Wood1,1200,2400,05_Fifth Floor,175
+D276,M_Door-Single-Panel_Wood,800,2330,05_Fifth Floor,176
+D277,M_Door-Single-Panel_Wood,800,2330,05_Fifth Floor,177
+D278,M_Door-Single-Panel_Wood,500,2330,05_Fifth Floor,178
+D279,M_Door-Single-Panel_Wood,500,2330,05_Fifth Floor,179
+D280,M_Door-Single-Panel_Wood,500,2330,05_Fifth Floor,180
+D281,M_Door-Single-Panel_Wood,500,2330,05_Fifth Floor,181
+D282,M_Door-Single-Panel_Wood,500,2330,05_Fifth Floor,182
+D283,M_Door-Single-Panel_Wood,500,2330,05_Fifth Floor,183
+D284,M_Door-Single-Panel_Wood,500,2330,05_Fifth Floor,184
+D285,M_Door-Single-Panel_Wood,900,2330,06_Sixth Floor Layout,185
+D286,Door-Passage-Uneven-Flush,1400,2032,06_Sixth Floor Layout,186
+D287,M_Door-Single- Panel_Wood1,1200,2400,06_Sixth Floor Layout,187
+D288,M_Door-Single-Panel_Wood,800,2330,06_Sixth Floor Layout,188
+D289,M_Door-Single-Panel_Wood,800,2330,06_Sixth Floor Layout,189
+D290,M_Door-Single-Panel_Wood,500,2330,06_Sixth Floor Layout,190
+D291,M_Door-Single-Panel_Wood,500,2330,06_Sixth Floor Layout,191
+D292,M_Door-Single-Panel_Wood,500,2330,06_Sixth Floor Layout,192
+D293,M_Door-Single-Panel_Wood,500,2330,06_Sixth Floor Layout,193
+D294,M_Door-Single-Panel_Wood,500,2330,06_Sixth Floor Layout,194
+D295,M_Door-Single-Panel_Wood,500,2330,06_Sixth Floor Layout,195
+D296,M_Door-Single-Panel_Wood,500,2330,06_Sixth Floor Layout,196
+D297,M_Door-Single- Panel_Wood1,1200,2400,02_Second Floor,197
+D298,Door-Passage-Uneven-Flush,1400,2032,02_Second Floor,198
+D299,M_Door-Single- Panel_Wood1,1200,2400,03_Third Floor,199
+D300,Door-Passage-Uneven-Flush,1400,2032,03_Third Floor,200
+D301,M_Door-Single- Panel_Wood1,1200,2400,04_Fourth Floor,201
+D302,Door-Passage-Uneven-Flush,1400,2032,04_Fourth Floor,202
+D303,M_Door-Single- Panel_Wood1,1200,2400,05_Fifth Floor,203
+D304,Door-Passage-Uneven-Flush,1400,2032,05_Fifth Floor,204
+D305,M_Door-Single- Panel_Wood1,1200,2400,06_Sixth Floor Layout,205
+D306,Door-Passage-Uneven-Flush,1400,2032,06_Sixth Floor Layout,206
+D307,M_Single-Flush,900,2100,07_Roof Floor,207

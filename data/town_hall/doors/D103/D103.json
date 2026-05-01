@@ -1,0 +1,17 @@
+{
+  "id": "D103",
+  "name": "Fire Door – Corridor Level 1",
+  "project": "SAE Project",
+  "level": "Level 01",
+  "type": "Fire-rated internal door",
+  "width_mm": 900,
+  "height_mm": 2100,
+  "fire_rating": "FD60",
+  "ifc": "D103.ifc",
+  "image": "D103.jpg",
+  "video": {
+    "type": "youtube",
+    "src": "https://youtu.be/EUPCPxo3Urc"
+  },
+  "description": "Fire-rated door forming part of the protected escape route."
+}

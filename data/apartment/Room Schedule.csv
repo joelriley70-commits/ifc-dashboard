@@ -1,0 +1,611 @@
+﻿Name,Number,Area,Level
+Cafe,1,225 m²,Ground Floor Plan
+Bar,2,104 m²,Ground Floor Plan
+Gym,5,237 m²,Ground Floor Plan
+Bike Storage,4,68 m²,Ground Floor Plan
+Bin Storage,6,44 m²,Ground Floor Plan
+Retail Unit 4,7,161 m²,Ground Floor Plan
+Book Shop,9,86 m²,Ground Floor Plan
+Stair Core/ Lift,8,43 m²,Ground Floor Plan
+Reception,10,240 m²,Ground Floor Plan
+Retail Unit 6,11,Not Placed,Not Placed
+Stair Core/ Lift,3,38 m²,Ground Floor Plan
+Open Plan,12,38 m²,1st Floor Level
+Open Plan,13,39 m²,1st Floor Level
+Bed 1,14,12 m²,1st Floor Level
+Bed 2,15,9 m²,1st Floor Level
+Bathroom,16,7 m²,1st Floor Level
+Bed 3,17,16 m²,1st Floor Level
+Bed 1,18,12 m²,1st Floor Level
+Bed 1,19,14 m²,1st Floor Level
+Bathroom,20,7 m²,1st Floor Level
+Bathroom,21,7 m²,1st Floor Level
+Open Plan,22,49 m²,1st Floor Level
+Open Plan,23,35 m²,1st Floor Level
+Bed 1,24,10 m²,1st Floor Level
+Cloaks,25,6 m²,1st Floor Level
+Bed 2,26,9 m²,1st Floor Level
+Bathroom,27,7 m²,1st Floor Level
+Bed 3,28,17 m²,1st Floor Level
+Stair Core/ Lift,29,38 m²,1st Floor Level
+Open Plan,30,40 m²,1st Floor Level
+Cloaks,31,4 m²,1st Floor Level
+Bed 1,32,10 m²,1st Floor Level
+Bed 2,33,8 m²,1st Floor Level
+Open Plan,34,44 m²,1st Floor Level
+Cloaks,35,4 m²,1st Floor Level
+Bed 2,36,8 m²,1st Floor Level
+Bed 1,37,10 m²,1st Floor Level
+Bed 3,38,16 m²,1st Floor Level
+Bed 3,39,16 m²,1st Floor Level
+Open Plan,40,45 m²,1st Floor Level
+Bathroom,41,8 m²,1st Floor Level
+Bed 1,42,21 m²,1st Floor Level
+Bathroom,43,9 m²,1st Floor Level
+Open Plan,44,49 m²,1st Floor Level
+Bed 1,45,17 m²,1st Floor Level
+Bed 2,46,13 m²,1st Floor Level
+Open Plan,47,38 m²,1st Floor Level
+Bathroom,48,7 m²,1st Floor Level
+Bed 2,49,17 m²,1st Floor Level
+Bed 1,50,17 m²,1st Floor Level
+En-Suite,51,4 m²,1st Floor Level
+Open Plan,52,42 m²,1st Floor Level
+Bed 1,53,14 m²,1st Floor Level
+Bed 2,54,17 m²,1st Floor Level
+Bed 3,55,14 m²,1st Floor Level
+Bathroom,56,10 m²,1st Floor Level
+Stair Core/ Lift,57,17 m²,1st Floor Level
+Bed 1,58,14 m²,1st Floor Level
+Bed 2,59,11 m²,1st Floor Level
+Open Plan,60,38 m²,1st Floor Level
+Bathroom,61,4 m²,1st Floor Level
+Stair Core,62,14 m²,1st Floor Level
+Stair Core/ Lift,63,31 m²,1st Floor Level
+Open Plan,64,35 m²,1st Floor Level
+Bed 1,65,17 m²,1st Floor Level
+Bed 2,66,12 m²,1st Floor Level
+Bathroom,67,7 m²,1st Floor Level
+Open Plan,68,58 m²,1st Floor Level
+Open Plan,69,50 m²,1st Floor Level
+Bathroom,70,7 m²,1st Floor Level
+Bed 1,71,9 m²,1st Floor Level
+Bathroom,72,8 m²,1st Floor Level
+Bed 1,73,9 m²,1st Floor Level
+Bed 2,74,11 m²,1st Floor Level
+Bed 2,75,11 m²,1st Floor Level
+Open Plan,76,53 m²,1st Floor Level
+Open Plan,77,34 m²,1st Floor Level
+Bathroom,78,6 m²,1st Floor Level
+Bed 1,79,10 m²,1st Floor Level
+Bed 1,80,8 m²,1st Floor Level
+Bathroom,81,7 m²,1st Floor Level
+Open Plan,82,27 m²,1st Floor Level
+Bed 2,83,16 m²,1st Floor Level
+Bed 1,84,9 m²,1st Floor Level
+Bathroom,85,5 m²,1st Floor Level
+Stair Core/ Lift,86,22 m²,1st Floor Level
+Bed 2,87,10 m²,1st Floor Level
+Open Plan,88,38 m²,2nd Floor Level
+Open Plan,89,39 m²,2nd Floor Level
+Bed 1,90,12 m²,2nd Floor Level
+Bed 2,91,9 m²,2nd Floor Level
+Bed 3,92,7 m²,2nd Floor Level
+Room,93,16 m²,2nd Floor Level
+Bed 1,94,12 m²,2nd Floor Level
+Bed 1,95,13 m²,2nd Floor Level
+Bathroom,96,6 m²,2nd Floor Level
+Bathroom,97,8 m²,2nd Floor Level
+Open Plan,98,49 m²,2nd Floor Level
+Open Plan,99,35 m²,2nd Floor Level
+Bed 1,100,10 m²,2nd Floor Level
+Cloaks,101,6 m²,2nd Floor Level
+Bed 2,102,9 m²,2nd Floor Level
+Bathroom,103,7 m²,2nd Floor Level
+Bed 3,104,17 m²,2nd Floor Level
+Stair Core/ Lift,105,38 m²,2nd Floor Level
+Open Plan,106,40 m²,2nd Floor Level
+Cloaks,107,4 m²,2nd Floor Level
+Bed 1,108,10 m²,2nd Floor Level
+Bed 2,109,8 m²,2nd Floor Level
+Open Plan,110,44 m²,2nd Floor Level
+Cloaks,111,4 m²,2nd Floor Level
+Bathroom,112,8 m²,2nd Floor Level
+Bed 1,113,10 m²,2nd Floor Level
+Bed 3,114,16 m²,2nd Floor Level
+Bed 3,115,16 m²,2nd Floor Level
+Open Plan,116,45 m²,2nd Floor Level
+Bathroom,117,8 m²,2nd Floor Level
+Bed 1,118,21 m²,2nd Floor Level
+Bathroom,119,9 m²,2nd Floor Level
+Open Plan,120,49 m²,2nd Floor Level
+Bed 1,121,17 m²,2nd Floor Level
+Bed 2,122,13 m²,2nd Floor Level
+Open Plan,123,38 m²,2nd Floor Level
+Bathroom,124,7 m²,2nd Floor Level
+Bed 2,125,17 m²,2nd Floor Level
+Bed 1,126,17 m²,2nd Floor Level
+En-Suite,127,4 m²,2nd Floor Level
+Open Plan,128,42 m²,2nd Floor Level
+Bed 1,129,14 m²,2nd Floor Level
+Bed 2,130,17 m²,2nd Floor Level
+Bed 3,131,14 m²,2nd Floor Level
+Bathroom,132,10 m²,2nd Floor Level
+Stair Core/ Lift,133,13 m²,2nd Floor Level
+Bed 1,134,14 m²,2nd Floor Level
+Bed 2,135,11 m²,2nd Floor Level
+Open Plan,136,38 m²,2nd Floor Level
+Bathroom,137,4 m²,2nd Floor Level
+Stair Core,138,14 m²,2nd Floor Level
+Stair Core/ Lift,139,32 m²,2nd Floor Level
+Open Plan,140,35 m²,2nd Floor Level
+Bed 1,141,17 m²,2nd Floor Level
+Bed 2,142,12 m²,2nd Floor Level
+Bathroom,143,7 m²,2nd Floor Level
+Open Plan,144,58 m²,2nd Floor Level
+Open Plan,145,50 m²,2nd Floor Level
+Bathroom,146,7 m²,2nd Floor Level
+Bed 1,147,9 m²,2nd Floor Level
+Bathroom,148,8 m²,2nd Floor Level
+Bed 1,149,9 m²,2nd Floor Level
+Bed 2,150,11 m²,2nd Floor Level
+Bed 2,151,11 m²,2nd Floor Level
+Open Plan,152,53 m²,2nd Floor Level
+Open Plan,153,34 m²,2nd Floor Level
+Bathroom,154,6 m²,2nd Floor Level
+Bed 1,155,10 m²,2nd Floor Level
+Bed 1,156,Not Enclosed,2nd Floor Level
+Bathroom,157,7 m²,2nd Floor Level
+Open Plan,158,27 m²,2nd Floor Level
+Bed 2,159,28 m²,2nd Floor Level
+Bed 1,160,9 m²,2nd Floor Level
+Bathroom,161,5 m²,2nd Floor Level
+Stair Core/ Lift,162,22 m²,2nd Floor Level
+Bed 2,163,10 m²,2nd Floor Level
+Open Plan,164,38 m²,3rd Floor Level
+Open Plan,165,39 m²,3rd Floor Level
+Bed 1,166,12 m²,3rd Floor Level
+Bed 2,167,9 m²,3rd Floor Level
+Bed 3,168,7 m²,3rd Floor Level
+Room,169,16 m²,3rd Floor Level
+Bed 1,170,12 m²,3rd Floor Level
+Bed 1,171,13 m²,3rd Floor Level
+Bathroom,172,6 m²,3rd Floor Level
+Bathroom,173,8 m²,3rd Floor Level
+Open Plan,174,49 m²,3rd Floor Level
+Open Plan,175,35 m²,3rd Floor Level
+Bed 1,176,10 m²,3rd Floor Level
+Cloaks,177,6 m²,3rd Floor Level
+Bed 2,178,9 m²,3rd Floor Level
+Bathroom,179,7 m²,3rd Floor Level
+Bed 3,180,17 m²,3rd Floor Level
+Stair Core/ Lift,181,38 m²,3rd Floor Level
+Open Plan,182,40 m²,3rd Floor Level
+Cloaks,183,4 m²,3rd Floor Level
+Bed 1,184,10 m²,3rd Floor Level
+Bed 2,185,8 m²,3rd Floor Level
+Open Plan,186,44 m²,3rd Floor Level
+Cloaks,187,4 m²,3rd Floor Level
+Bed 2,188,8 m²,3rd Floor Level
+Bed 1,189,10 m²,3rd Floor Level
+Bed 3,190,16 m²,3rd Floor Level
+Bed 3,191,16 m²,3rd Floor Level
+Open Plan,192,45 m²,3rd Floor Level
+Bathroom,193,8 m²,3rd Floor Level
+Bed 1,194,21 m²,3rd Floor Level
+Bathroom,195,9 m²,3rd Floor Level
+Open Plan,196,49 m²,3rd Floor Level
+Bed 1,197,17 m²,3rd Floor Level
+Bed 2,198,13 m²,3rd Floor Level
+Open Plan,199,38 m²,3rd Floor Level
+Bathroom,200,7 m²,3rd Floor Level
+Bed 2,201,17 m²,3rd Floor Level
+Bed 1,202,17 m²,3rd Floor Level
+En-Suite,203,4 m²,3rd Floor Level
+Open Plan,204,42 m²,3rd Floor Level
+Bed 1,205,14 m²,3rd Floor Level
+Bed 2,206,17 m²,3rd Floor Level
+Bed 3,207,14 m²,3rd Floor Level
+Bathroom,208,10 m²,3rd Floor Level
+Stair Core/ Lift,209,13 m²,3rd Floor Level
+Bed 1,210,14 m²,3rd Floor Level
+Bed 2,211,11 m²,3rd Floor Level
+Open Plan,212,38 m²,3rd Floor Level
+Bathroom,213,4 m²,3rd Floor Level
+Stair Core,214,14 m²,3rd Floor Level
+Stair Core/ Lift,215,32 m²,3rd Floor Level
+Open Plan,216,35 m²,3rd Floor Level
+Bed 1,217,17 m²,3rd Floor Level
+Bed 2,218,12 m²,3rd Floor Level
+Bathroom,219,7 m²,3rd Floor Level
+Open Plan,220,58 m²,3rd Floor Level
+Open Plan,221,50 m²,3rd Floor Level
+Bathroom,222,7 m²,3rd Floor Level
+Bed 1,223,9 m²,3rd Floor Level
+Bathroom,224,8 m²,3rd Floor Level
+Bed 1,225,9 m²,3rd Floor Level
+Bed 2,226,11 m²,3rd Floor Level
+Bed 2,227,11 m²,3rd Floor Level
+Open Plan,228,53 m²,3rd Floor Level
+Open Plan,229,34 m²,3rd Floor Level
+Bthroom,230,6 m²,3rd Floor Level
+Bed 1,231,10 m²,3rd Floor Level
+Bed 1,232,Not Enclosed,3rd Floor Level
+Bathroom,233,7 m²,3rd Floor Level
+Open Plan,234,27 m²,3rd Floor Level
+Bed 2,235,28 m²,3rd Floor Level
+Bed 1,236,9 m²,3rd Floor Level
+Bathroom,237,5 m²,3rd Floor Level
+Stair Core/ Lift,238,22 m²,3rd Floor Level
+Bed 2,239,10 m²,3rd Floor Level
+Open Plan,240,38 m²,4th Floor Level
+Open Plan,241,39 m²,4th Floor Level
+Bed 1,242,12 m²,4th Floor Level
+Bed 2,243,9 m²,4th Floor Level
+Bed 3,244,7 m²,4th Floor Level
+Room,245,16 m²,4th Floor Level
+Bed 1,246,12 m²,4th Floor Level
+Bed 1,247,13 m²,4th Floor Level
+Bathroom,248,6 m²,4th Floor Level
+Bathroom,249,8 m²,4th Floor Level
+Open Plan,250,49 m²,4th Floor Level
+Open Plan,251,35 m²,4th Floor Level
+Bed 1,252,10 m²,4th Floor Level
+Cloaks,253,6 m²,4th Floor Level
+Bed 2,254,9 m²,4th Floor Level
+Bathroom,255,7 m²,4th Floor Level
+Bed 3,256,17 m²,4th Floor Level
+Stair Core/ Lift,257,38 m²,4th Floor Level
+Open Plan,258,40 m²,4th Floor Level
+Cloaks,259,4 m²,4th Floor Level
+Bed 1,260,10 m²,4th Floor Level
+Bed 2,261,8 m²,4th Floor Level
+Open Plan,262,44 m²,4th Floor Level
+Cloaks,263,4 m²,4th Floor Level
+Bed 2,264,8 m²,4th Floor Level
+Bed 1,265,10 m²,4th Floor Level
+Bed 3,266,16 m²,4th Floor Level
+Bed 3,267,16 m²,4th Floor Level
+Open Plan,268,45 m²,4th Floor Level
+Bathroom,269,8 m²,4th Floor Level
+Bed 1,270,21 m²,4th Floor Level
+Bathroom,271,9 m²,4th Floor Level
+Open Plan,272,49 m²,4th Floor Level
+Bed 1,273,17 m²,4th Floor Level
+Bed 2,274,13 m²,4th Floor Level
+Open Plan,275,38 m²,4th Floor Level
+Bathroom,276,7 m²,4th Floor Level
+Bed 2,277,17 m²,4th Floor Level
+Bed 1,278,17 m²,4th Floor Level
+En-Suite,279,4 m²,4th Floor Level
+Open Plan,280,42 m²,4th Floor Level
+Bed 1,281,14 m²,4th Floor Level
+Bed 2,282,17 m²,4th Floor Level
+Bed 3,283,14 m²,4th Floor Level
+Bathroom,284,10 m²,4th Floor Level
+Stair Core/ Lift,285,13 m²,4th Floor Level
+Bed 1,286,14 m²,4th Floor Level
+Bed 2,287,11 m²,4th Floor Level
+Open Plan,288,38 m²,4th Floor Level
+Bathroom,289,4 m²,4th Floor Level
+Stair Core,290,14 m²,4th Floor Level
+Stair Core/ Lift,291,32 m²,4th Floor Level
+Open Plan,292,35 m²,4th Floor Level
+Bed 1,293,17 m²,4th Floor Level
+Bed 2,294,12 m²,4th Floor Level
+Bathroom,295,7 m²,4th Floor Level
+Open Plan,296,58 m²,4th Floor Level
+Open Plan,297,50 m²,4th Floor Level
+Bathroom,298,7 m²,4th Floor Level
+Bed 1,299,9 m²,4th Floor Level
+Bathroom,300,8 m²,4th Floor Level
+Bed 1,301,9 m²,4th Floor Level
+Bed 2,302,11 m²,4th Floor Level
+Bed 2,303,11 m²,4th Floor Level
+Open Plan,304,53 m²,4th Floor Level
+Open Plan,305,34 m²,4th Floor Level
+Bthroom,306,6 m²,4th Floor Level
+Bed 1,307,10 m²,4th Floor Level
+Bed 1,308,Not Enclosed,4th Floor Level
+Bathroom,309,7 m²,4th Floor Level
+Open Plan,310,27 m²,4th Floor Level
+Bed 2,311,28 m²,4th Floor Level
+Bed 1,312,9 m²,4th Floor Level
+Bathroom,313,5 m²,4th Floor Level
+Stair Core/ Lift,314,22 m²,4th Floor Level
+Bed 2,315,10 m²,4th Floor Level
+Open Plan,316,38 m²,5th Floor Level
+Open Plan,317,39 m²,5th Floor Level
+Bed 1,318,12 m²,5th Floor Level
+Bed 2,319,9 m²,5th Floor Level
+Bed 3,320,7 m²,5th Floor Level
+Room,321,16 m²,5th Floor Level
+Bed 1,322,12 m²,5th Floor Level
+Bed 1,323,13 m²,5th Floor Level
+Bathroom,324,6 m²,5th Floor Level
+Bathroom,325,8 m²,5th Floor Level
+Open Plan,326,49 m²,5th Floor Level
+Open Plan,327,35 m²,5th Floor Level
+Bed 1,328,10 m²,5th Floor Level
+Cloaks,329,6 m²,5th Floor Level
+Bed 2,330,9 m²,5th Floor Level
+Bathroom,331,7 m²,5th Floor Level
+Bed 3,332,17 m²,5th Floor Level
+Stair Core/ Lift,333,38 m²,5th Floor Level
+Open Plan,334,40 m²,5th Floor Level
+Cloaks,335,4 m²,5th Floor Level
+Bed 1,336,10 m²,5th Floor Level
+Bed 2,337,8 m²,5th Floor Level
+Open Plan,338,44 m²,5th Floor Level
+Cloaks,339,4 m²,5th Floor Level
+Bed 2,340,8 m²,5th Floor Level
+Bed 1,341,10 m²,5th Floor Level
+Bed 3,342,16 m²,5th Floor Level
+Bed 3,343,16 m²,5th Floor Level
+Open Plan,344,45 m²,5th Floor Level
+Bathroom,345,8 m²,5th Floor Level
+Bed 1,346,21 m²,5th Floor Level
+Bathroom,347,9 m²,5th Floor Level
+Open Plan,348,49 m²,5th Floor Level
+Bed 1,349,17 m²,5th Floor Level
+Bed 2,350,13 m²,5th Floor Level
+Open Plan,351,38 m²,5th Floor Level
+Bathroom,352,7 m²,5th Floor Level
+Bed 2,353,17 m²,5th Floor Level
+Bed 1,354,17 m²,5th Floor Level
+En-Suite,355,4 m²,5th Floor Level
+Open Plan,356,42 m²,5th Floor Level
+Bed 1,357,14 m²,5th Floor Level
+Bed 2,358,17 m²,5th Floor Level
+Bed 3,359,14 m²,5th Floor Level
+Bathroom,360,10 m²,5th Floor Level
+Stair Core/ Lift,361,13 m²,5th Floor Level
+Bed 1,362,14 m²,5th Floor Level
+Bed 2,363,11 m²,5th Floor Level
+Open Plan,364,38 m²,5th Floor Level
+Bathroom,365,4 m²,5th Floor Level
+Stair Core,366,14 m²,5th Floor Level
+Stair Core/ Lift,367,32 m²,5th Floor Level
+Open Plan,368,35 m²,5th Floor Level
+Bed 1,369,17 m²,5th Floor Level
+Bed 2,370,12 m²,5th Floor Level
+Bathroom,371,7 m²,5th Floor Level
+Open Plan,372,58 m²,5th Floor Level
+Open Plan,373,50 m²,5th Floor Level
+Bathroom,374,7 m²,5th Floor Level
+Bed 1,375,9 m²,5th Floor Level
+Bathroom,376,8 m²,5th Floor Level
+Bed 1,377,9 m²,5th Floor Level
+Bed 2,378,11 m²,5th Floor Level
+Bed 2,379,11 m²,5th Floor Level
+Open Plan,380,53 m²,5th Floor Level
+Open Plan,381,34 m²,5th Floor Level
+Bthroom,382,6 m²,5th Floor Level
+Bed 1,383,10 m²,5th Floor Level
+Bed 1,384,Not Enclosed,5th Floor Level
+Bathroom,385,7 m²,5th Floor Level
+Open Plan,386,27 m²,5th Floor Level
+Bed 2,387,28 m²,5th Floor Level
+Bed 1,388,9 m²,5th Floor Level
+Bathroom,389,5 m²,5th Floor Level
+Stair Core/ Lift,390,22 m²,5th Floor Level
+Bed 2,391,10 m²,5th Floor Level
+Open Plan,392,38 m²,6th Floor Level
+Open Plan,393,39 m²,6th Floor Level
+Bed 1,394,12 m²,6th Floor Level
+Bed 2,395,9 m²,6th Floor Level
+Bed 3,396,7 m²,6th Floor Level
+Room,397,16 m²,6th Floor Level
+Bed 1,398,12 m²,6th Floor Level
+Bed 1,399,13 m²,6th Floor Level
+Bathroom,400,6 m²,6th Floor Level
+Bathroom,401,8 m²,6th Floor Level
+Open Plan,402,49 m²,6th Floor Level
+Open Plan,403,35 m²,6th Floor Level
+Bed 1,404,10 m²,6th Floor Level
+Cloaks,405,6 m²,6th Floor Level
+Bed 2,406,9 m²,6th Floor Level
+Bathroom,407,7 m²,6th Floor Level
+Bed 3,408,17 m²,6th Floor Level
+Stair Core/ Lift,409,38 m²,6th Floor Level
+Open Plan,410,40 m²,6th Floor Level
+Cloaks,411,4 m²,6th Floor Level
+Bed 1,412,10 m²,6th Floor Level
+Bed 2,413,8 m²,6th Floor Level
+Open Plan,414,44 m²,6th Floor Level
+Cloaks,415,4 m²,6th Floor Level
+Bed 2,416,8 m²,6th Floor Level
+Bed 1,417,10 m²,6th Floor Level
+Bed 3,418,16 m²,6th Floor Level
+Bed 3,419,16 m²,6th Floor Level
+Open Plan,420,45 m²,6th Floor Level
+Bathroom,421,8 m²,6th Floor Level
+Bed 1,422,21 m²,6th Floor Level
+Bathroom,423,9 m²,6th Floor Level
+Open Plan,424,49 m²,6th Floor Level
+Bed 1,425,17 m²,6th Floor Level
+Bed 2,426,13 m²,6th Floor Level
+Open Plan,427,38 m²,6th Floor Level
+Bathroom,428,7 m²,6th Floor Level
+Bed 2,429,17 m²,6th Floor Level
+Bed 1,430,17 m²,6th Floor Level
+En-Suite,431,4 m²,6th Floor Level
+Open Plan,432,42 m²,6th Floor Level
+Bed 1,433,14 m²,6th Floor Level
+Bed 2,434,17 m²,6th Floor Level
+Bed 3,435,14 m²,6th Floor Level
+Bathroom,436,10 m²,6th Floor Level
+Stair Core/ Lift,437,13 m²,6th Floor Level
+Bed 1,438,14 m²,6th Floor Level
+Bed 2,439,11 m²,6th Floor Level
+Open Plan,440,38 m²,6th Floor Level
+Bathroom,441,4 m²,6th Floor Level
+Stair Core,442,14 m²,6th Floor Level
+Stair Core/ Lift,443,32 m²,6th Floor Level
+Open Plan,444,35 m²,6th Floor Level
+Bed 1,445,17 m²,6th Floor Level
+Bed 2,446,12 m²,6th Floor Level
+Bathroom,447,7 m²,6th Floor Level
+Open Plan,448,58 m²,6th Floor Level
+Open Plan,449,50 m²,6th Floor Level
+Bathroom,450,7 m²,6th Floor Level
+Bed 1,451,9 m²,6th Floor Level
+Bathroom,452,8 m²,6th Floor Level
+Bed 1,453,9 m²,6th Floor Level
+Bed 2,454,11 m²,6th Floor Level
+Bed 2,455,11 m²,6th Floor Level
+Open Plan,456,53 m²,6th Floor Level
+Open Plan,457,34 m²,6th Floor Level
+Bthroom,458,6 m²,6th Floor Level
+Bed 1,459,10 m²,6th Floor Level
+Bed 1,460,Not Enclosed,6th Floor Level
+Bathroom,461,7 m²,6th Floor Level
+Open Plan,462,27 m²,6th Floor Level
+Bed 2,463,28 m²,6th Floor Level
+Bed 1,464,9 m²,6th Floor Level
+Bathroom,465,5 m²,6th Floor Level
+Stair Core/ Lift,466,22 m²,6th Floor Level
+Bed 2,467,10 m²,6th Floor Level
+Open Plan,468,38 m²,7th Floor Level
+Open Plan,469,39 m²,7th Floor Level
+Bed 1,470,12 m²,7th Floor Level
+Bed 2,471,9 m²,7th Floor Level
+Bed 3,472,7 m²,7th Floor Level
+Room,473,16 m²,7th Floor Level
+Bed 1,474,12 m²,7th Floor Level
+Bed 1,475,13 m²,7th Floor Level
+Bathroom,476,6 m²,7th Floor Level
+Bathroom,477,8 m²,7th Floor Level
+Open Plan,478,49 m²,7th Floor Level
+Open Plan,479,35 m²,7th Floor Level
+Bed 1,480,10 m²,7th Floor Level
+Cloaks,481,6 m²,7th Floor Level
+Bed 2,482,9 m²,7th Floor Level
+Bathroom,483,7 m²,7th Floor Level
+Bed 3,484,17 m²,7th Floor Level
+Stair Core/ Lift,485,38 m²,7th Floor Level
+Open Plan,486,40 m²,7th Floor Level
+Cloaks,487,4 m²,7th Floor Level
+Bed 1,488,10 m²,7th Floor Level
+Bed 2,489,8 m²,7th Floor Level
+Open Plan,490,44 m²,7th Floor Level
+Cloaks,491,4 m²,7th Floor Level
+Bed 2,492,8 m²,7th Floor Level
+Bed 1,493,10 m²,7th Floor Level
+Bed 3,494,16 m²,7th Floor Level
+Bed 3,495,16 m²,7th Floor Level
+Open Plan,496,45 m²,7th Floor Level
+Bathroom,497,8 m²,7th Floor Level
+Bed 1,498,21 m²,7th Floor Level
+Bathroom,499,9 m²,7th Floor Level
+Open Plan,500,49 m²,7th Floor Level
+Bed 1,501,17 m²,7th Floor Level
+Bed 2,502,13 m²,7th Floor Level
+Open Plan,503,38 m²,7th Floor Level
+Bathroom,504,7 m²,7th Floor Level
+Bed 2,505,17 m²,7th Floor Level
+Bed 1,506,17 m²,7th Floor Level
+En-Suite,507,4 m²,7th Floor Level
+Open Plan,508,42 m²,7th Floor Level
+Bed 1,509,14 m²,7th Floor Level
+Bed 2,510,17 m²,7th Floor Level
+Bed 3,511,14 m²,7th Floor Level
+Bathroom,512,10 m²,7th Floor Level
+Stair Core/ Lift,513,13 m²,7th Floor Level
+Bed 1,514,14 m²,7th Floor Level
+Bed 2,515,11 m²,7th Floor Level
+Open Plan,516,38 m²,7th Floor Level
+Bathroom,517,4 m²,7th Floor Level
+Stair Core,518,14 m²,7th Floor Level
+Stair Core/ Lift,519,32 m²,7th Floor Level
+Open Plan,520,35 m²,7th Floor Level
+Bed 1,521,17 m²,7th Floor Level
+Bed 2,522,12 m²,7th Floor Level
+Bathroom,523,7 m²,7th Floor Level
+Open Plan,524,58 m²,7th Floor Level
+Open Plan,525,50 m²,7th Floor Level
+Bathroom,526,7 m²,7th Floor Level
+Bed 1,527,9 m²,7th Floor Level
+Bathroom,528,8 m²,7th Floor Level
+Bed 1,529,9 m²,7th Floor Level
+Bed 2,530,11 m²,7th Floor Level
+Bed 2,531,11 m²,7th Floor Level
+Open Plan,532,53 m²,7th Floor Level
+Open Plan,533,34 m²,7th Floor Level
+Bthroom,534,6 m²,7th Floor Level
+Bed 1,535,10 m²,7th Floor Level
+Bed 1,536,Not Enclosed,7th Floor Level
+Bathroom,537,7 m²,7th Floor Level
+Open Plan,538,27 m²,7th Floor Level
+Bed 2,539,28 m²,7th Floor Level
+Bed 1,540,9 m²,7th Floor Level
+Bathroom,541,5 m²,7th Floor Level
+Stair Core/ Lift,542,22 m²,7th Floor Level
+Bed 2,543,10 m²,7th Floor Level
+Open Plan,544,33 m²,8th Floor Level
+Bed 1,545,11 m²,8th Floor Level
+En-suite,546,6 m²,8th Floor Level
+Bed 1,547,10 m²,8th Floor Level
+En-Suite,548,Not Placed,Not Placed
+Open Plan,549,27 m²,8th Floor Level
+Bed 1,550,Not Placed,Not Placed
+Bathroom,551,Not Placed,Not Placed
+Open Plan,552,Not Placed,Not Placed
+Bed 1,553,17 m²,8th Floor Level
+Bathroom,554,6 m²,8th Floor Level
+Open Plan,555,37 m²,8th Floor Level
+Bed 1,556,13 m²,8th Floor Level
+En-suite,557,6 m²,8th Floor Level
+Stair Core,558,20 m²,8th Floor Level
+Bathroom,559,5 m²,8th Floor Level
+Open Plan,560,49 m²,8th Floor Level
+Female Toilet,561,6 m²,Ground Floor Plan
+Male Toilet,562,6 m²,Ground Floor Plan
+Stair Core/ Lift,563,36 m²,Ground Floor Plan
+Stair Core/ Lift,564,24 m²,Ground Floor Plan
+Plant Room,565,Not Placed,Not Placed
+Kitchen,566,53 m²,Ground Floor Plan
+Kitchen,567,56 m²,Ground Floor Plan
+Bedroom,568,12 m²,Ground Floor Plan
+Bedroom,569,14 m²,Ground Floor Plan
+Mud Room,570,4 m²,Ground Floor Plan
+Mud Room,571,5 m²,Ground Floor Plan
+Stair Core/ Lift,572,21 m²,Ground Floor Plan
+Kitchen,573,14 m²,Ground Floor Plan
+Bathroom,574,8 m²,1st Floor Level
+Bed 1,575,12 m²,1st Floor Level
+Bed 2,576,12 m²,1st Floor Level
+Landing,577,16 m²,1st Floor Level
+Bed 3,578,18 m²,1st Floor Level
+En-Suite,579,9 m²,1st Floor Level
+Bed 1,580,18 m²,1st Floor Level
+En-Suite,581,8 m²,1st Floor Level
+Bathroom,582,7 m²,1st Floor Level
+Landing,583,16 m²,1st Floor Level
+Bed 2,584,11 m²,1st Floor Level
+Bed 3,585,10 m²,1st Floor Level
+Hall,586,18 m²,1st Floor Level
+Hall,587,42 m²,1st Floor Level
+Hall,588,12 m²,1st Floor Level
+Hall,589,23 m²,1st Floor Level
+Hall,590,33 m²,1st Floor Level
+Hall,591,33 m²,1st Floor Level
+Hall,592,12 m²,1st Floor Level
+Hall,593,20 m²,1st Floor Level
+Bathroom,594,4 m²,1st Floor Level
+En-Suite,595,4 m²,1st Floor Level
+Open Plan,596,33 m²,9th Floor Level
+Bed 1,597,11 m²,9th Floor Level
+En-Suite,598,6 m²,9th Floor Level
+Bed 1,599,13 m²,9th Floor Level
+Open Plan,600,37 m²,9th Floor Level
+En-Suite,601,6 m²,9th Floor Level
+Stair Core/ Lift,602,20 m²,9th Floor Level
+Open Plan,603,49 m²,9th Floor Level
+Open Plan,604,17 m²,9th Floor Level
+En-Suite,605,6 m²,9th Floor Level
+Stair Core,606,21 m²,9th Floor Level
+Open Plan,607,24 m²,9th Floor Level
+Bed 1,608,14 m²,9th Floor Level
+Ensuite,609,11 m²,9th Floor Level
+Hall,610,27 m²,9th Floor Level

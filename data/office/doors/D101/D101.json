@@ -1,0 +1,17 @@
+{
+  "id": "D101",
+  "name": "Fire Door – Corridor Level 1",
+  "project": "Office Block",
+  "level": "Level 01",
+  "type": "Fire-rated internal door",
+  "width_mm": 900,
+  "height_mm": 2100,
+  "fire_rating": "FD60",
+  "ifc": "D101.ifc",
+  "image": "D101.jpg",
+  "video": {
+    "type": "youtube",
+    "src": "https://youtu.be/6RRkmFYTRM4"
+  },
+  "description": "Fire-rated door forming part of the protected escape route."
+}

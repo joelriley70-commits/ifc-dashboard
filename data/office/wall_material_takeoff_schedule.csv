@@ -1,0 +1,459 @@
+﻿Material: Name,Material: Area,Material: Volume,Type,Family,Function,Width,Length,Volume
+Concrete Masonry Units,16 m²,3.43 m³,BEN714_EX-01-545,Basic Wall,Exterior,545,678,8.70 m³
+Air,16 m²,1.12 m³,BEN714_EX-01-545,Basic Wall,Exterior,545,678,8.70 m³
+Insulation-Rockwool,16 m²,2.55 m³,BEN714_EX-01-545,Basic Wall,Exterior,545,678,8.70 m³
+Cladding,16 m²,1.60 m³,BEN714_EX-01-545,Basic Wall,Exterior,545,678,8.70 m³
+EXTERIOR WALL PAINT,16 m²,0.00 m³,BEN714_EX-01-545,Basic Wall,Exterior,545,678,8.70 m³
+Concrete Masonry Units,229 m²,31.99 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,8516,107.40 m³
+Air,229 m²,16.00 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,8516,107.40 m³
+Insulation-Rockwool,229 m²,36.56 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,8516,107.40 m³
+Cladding,229 m²,22.85 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,8516,107.40 m³
+EXTERIOR WALL PAINT,229 m²,0.00 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,8516,107.40 m³
+Concrete Masonry Units,356 m²,49.83 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,36965,167.28 m³
+Air,356 m²,24.91 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,36965,167.28 m³
+Insulation-Rockwool,356 m²,56.95 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,36965,167.28 m³
+Cladding,356 m²,35.59 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,36965,167.28 m³
+EXTERIOR WALL PAINT,356 m²,0.00 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,36965,167.28 m³
+Concrete Masonry Units,66 m²,9.17 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,2781,30.74 m³
+Air,65 m²,4.57 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,2781,30.74 m³
+Insulation-Rockwool,65 m²,10.46 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,2781,30.74 m³
+Cladding,65 m²,6.53 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,2781,30.74 m³
+EXTERIOR WALL PAINT,65 m²,0.00 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,2781,30.74 m³
+Concrete Masonry Units,156 m²,33.60 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,7135,33.60 m³
+Concrete Masonry Units,58 m²,12.53 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,2025,12.53 m³
+Concrete Masonry Units,205 m²,44.10 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,7135,44.10 m³
+Concrete Masonry Units,80 m²,17.25 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,2600,17.25 m³
+Concrete Masonry Units,134 m²,23.43 m³,BEN714_IN-02_175,Basic Wall,Exterior,175,5234,23.43 m³
+Concrete Masonry Units,175 m²,35.07 m³,BEN714_IN-03_200,Basic Wall,Exterior,200,6758,35.07 m³
+Concrete Masonry Units,106 m²,15.86 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,3938,15.86 m³
+Concrete Masonry Units,27 m²,6.73 m³,BEN714_IN-04_250,Basic Wall,Exterior,250,930,6.73 m³
+Concrete Masonry Units,68 m²,8.11 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,3853,8.11 m³
+Concrete Masonry Units,16 m²,2.45 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,735,2.45 m³
+Concrete Masonry Units,19 m²,2.88 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,1590,2.88 m³
+Concrete Masonry Units,16 m²,3.26 m³,BEN714_IN-03_200,Basic Wall,Exterior,200,735,3.26 m³
+Concrete Masonry Units,24 m²,3.58 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,3714,3.58 m³
+Concrete Masonry Units,19 m²,2.28 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,860,2.28 m³
+Concrete Masonry Units,91 m²,10.95 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,6563,10.95 m³
+Concrete Masonry Units,16 m²,2.42 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,1524,2.42 m³
+Concrete Masonry Units,9 m²,1.35 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,168,1.35 m³
+Air,11 m²,0.74 m³,BEN714_PT_01-120,Basic Wall,Interior,120,2657,1.27 m³
+Gypsum Wall Board,21 m²,0.53 m³,BEN714_PT_01-120,Basic Wall,Interior,120,2657,1.27 m³
+Air,5 m²,0.36 m³,BEN714_PT_01-120,Basic Wall,Interior,120,2050,0.62 m³
+Gypsum Wall Board,10 m²,0.26 m³,BEN714_PT_01-120,Basic Wall,Interior,120,2050,0.62 m³
+Air,30 m²,2.08 m³,BEN714_PT_01-120,Basic Wall,Interior,120,7534,3.56 m³
+Gypsum Wall Board,59 m²,1.48 m³,BEN714_PT_01-120,Basic Wall,Interior,120,7534,3.56 m³
+Air,11 m²,0.77 m³,BEN714_PT_02-130,Basic Wall,Interior,130,2806,1.43 m³
+Gypsum Wall Board,22 m²,0.66 m³,BEN714_PT_02-130,Basic Wall,Interior,130,2806,1.43 m³
+Concrete Masonry Units,82 m²,17.70 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,2604,17.70 m³
+Concrete Masonry Units,25 m²,5.43 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,3219,5.43 m³
+Air,3 m²,0.21 m³,BEN714_PT_01-120,Basic Wall,Interior,120,787,0.36 m³
+Gypsum Wall Board,6 m²,0.15 m³,BEN714_PT_01-120,Basic Wall,Interior,120,787,0.36 m³
+Air,8 m²,0.56 m³,BEN714_PT_01-120,Basic Wall,Interior,120,2968,0.96 m³
+Gypsum Wall Board,16 m²,0.40 m³,BEN714_PT_01-120,Basic Wall,Interior,120,2968,0.96 m³
+Air,11 m²,0.78 m³,BEN714_PT_01-120,Basic Wall,Interior,120,3078,1.34 m³
+Gypsum Wall Board,22 m²,0.56 m³,BEN714_PT_01-120,Basic Wall,Interior,120,3078,1.34 m³
+Air,29 m²,2.02 m³,BEN714_PT_01-120,Basic Wall,Interior,120,8898,3.47 m³
+Gypsum Wall Board,58 m²,1.44 m³,BEN714_PT_01-120,Basic Wall,Interior,120,8898,3.47 m³
+Air,11 m²,0.75 m³,BEN714_PT_01-120,Basic Wall,Interior,120,3078,1.28 m³
+Gypsum Wall Board,21 m²,0.53 m³,BEN714_PT_01-120,Basic Wall,Interior,120,3078,1.28 m³
+Air,8 m²,0.59 m³,BEN714_PT_01-120,Basic Wall,Interior,120,3078,1.01 m³
+Gypsum Wall Board,17 m²,0.42 m³,BEN714_PT_01-120,Basic Wall,Interior,120,3078,1.01 m³
+Air,8 m²,0.58 m³,BEN714_PT_01-120,Basic Wall,Interior,120,2286,1.00 m³
+Gypsum Wall Board,17 m²,0.42 m³,BEN714_PT_01-120,Basic Wall,Interior,120,2286,1.00 m³
+Air,9 m²,0.60 m³,BEN714_PT_01-120,Basic Wall,Interior,120,3078,1.03 m³
+Gypsum Wall Board,17 m²,0.43 m³,BEN714_PT_01-120,Basic Wall,Interior,120,3078,1.03 m³
+Air,33 m²,2.32 m³,BEN714_PT_01-120,Basic Wall,Interior,120,1244,3.97 m³
+Gypsum Wall Board,66 m²,1.65 m³,BEN714_PT_01-120,Basic Wall,Interior,120,1244,3.97 m³
+Air,18 m²,1.26 m³,BEN714_PT_01-120,Basic Wall,Interior,120,786,2.16 m³
+Gypsum Wall Board,36 m²,0.90 m³,BEN714_PT_01-120,Basic Wall,Interior,120,786,2.16 m³
+Air,74 m²,5.16 m³,BEN714_PT_02-130,Basic Wall,Interior,130,2885,9.59 m³
+Gypsum Wall Board,148 m²,4.43 m³,BEN714_PT_02-130,Basic Wall,Interior,130,2885,9.59 m³
+Gypsum Wall Board,26 m²,0.78 m³,BEN714_PT_04-30,Basic Wall,Interior,30,3378,0.78 m³
+Gypsum Wall Board,2 m²,0.07 m³,BEN714_PT_04-30,Basic Wall,Interior,30,298,0.07 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,213,0.05 m³
+Gypsum Wall Board,1 m²,0.03 m³,BEN714_PT_04-30,Basic Wall,Interior,30,213,0.03 m³
+Gypsum Wall Board,5 m²,0.16 m³,BEN714_PT_04-30,Basic Wall,Interior,30,778,0.16 m³
+Gypsum Wall Board,5 m²,0.14 m³,BEN714_PT_04-30,Basic Wall,Interior,30,623,0.14 m³
+Gypsum Wall Board,4 m²,0.11 m³,BEN714_PT_04-30,Basic Wall,Interior,30,138,0.11 m³
+Gypsum Wall Board,7 m²,0.20 m³,BEN714_PT_04-30,Basic Wall,Interior,30,294,0.20 m³
+Gypsum Wall Board,7 m²,0.21 m³,BEN714_PT_04-30,Basic Wall,Interior,30,306,0.21 m³
+Gypsum Wall Board,10 m²,0.31 m³,BEN714_PT_04-30,Basic Wall,Interior,30,445,0.31 m³
+Gypsum Wall Board,9 m²,0.26 m³,BEN714_PT_04-30,Basic Wall,Interior,30,391,0.26 m³
+Concrete Masonry Units,130 m²,19.53 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,4937,19.53 m³
+Concrete Masonry Units,14 m²,1.74 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,547,1.74 m³
+Concrete Masonry Units,73 m²,8.73 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,3457,8.73 m³
+Concrete Masonry Units,45 m²,5.39 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,2536,5.39 m³
+Concrete Masonry Units,91 m²,10.90 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,3636,10.90 m³
+Concrete Masonry Units,72 m²,8.61 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,2638,8.61 m³
+Concrete Masonry Units,20 m²,2.43 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,1040,2.43 m³
+Concrete Masonry Units,9 m²,1.42 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,3089,1.42 m³
+Air,7 m²,0.36 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1892,0.51 m³
+Gypsum Wall Board,15 m²,0.15 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1892,0.51 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,495,0.05 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,466,0.05 m³
+Gypsum Wall Board,3 m²,0.09 m³,BEN714_PT_04-30,Basic Wall,Interior,30,823,0.09 m³
+Gypsum Wall Board,27 m²,0.80 m³,BEN714_PT_04-30,Basic Wall,Interior,30,6955,0.80 m³
+Gypsum Wall Board,3 m²,0.09 m³,BEN714_PT_04-30,Basic Wall,Interior,30,775,0.09 m³
+Gypsum Wall Board,2 m²,0.06 m³,BEN714_PT_04-30,Basic Wall,Interior,30,525,0.06 m³
+Gypsum Wall Board,5 m²,0.14 m³,BEN714_PT_04-30,Basic Wall,Interior,30,1360,0.14 m³
+Concrete Masonry Units,179 m²,25.07 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,20017,84.16 m³
+Air,179 m²,12.53 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,20017,84.16 m³
+Insulation-Rockwool,179 m²,28.65 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,20017,84.16 m³
+Cladding,179 m²,17.91 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,20017,84.16 m³
+EXTERIOR WALL PAINT,179 m²,0.00 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,20017,84.16 m³
+Concrete Masonry Units,408 m²,57.17 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,13419,191.93 m³
+Air,408 m²,28.58 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,13419,191.93 m³
+Insulation-Rockwool,408 m²,65.34 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,13419,191.93 m³
+Cladding,408 m²,40.84 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,13419,191.93 m³
+EXTERIOR WALL PAINT,408 m²,0.00 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,13419,191.93 m³
+Concrete Masonry Units,115 m²,16.08 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,3622,53.98 m³
+Air,115 m²,8.04 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,3622,53.98 m³
+Insulation-Rockwool,115 m²,18.37 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,3622,53.98 m³
+Cladding,115 m²,11.48 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,3622,53.98 m³
+EXTERIOR WALL PAINT,115 m²,0.00 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,3622,53.98 m³
+Concrete Masonry Units,353 m²,49.35 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,14569,165.74 m³
+Air,353 m²,24.69 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,14569,165.74 m³
+Insulation-Rockwool,353 m²,56.42 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,14569,165.74 m³
+Cladding,353 m²,35.28 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,14569,165.74 m³
+EXTERIOR WALL PAINT,353 m²,0.00 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,14569,165.74 m³
+Air,24 m²,1.65 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,890,4.00 m³
+Cladding,24 m²,2.35 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,890,4.00 m³
+EXTERIOR WALL PAINT,24 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,890,4.00 m³
+Air,17 m²,1.20 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,721,2.91 m³
+Cladding,17 m²,1.71 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,721,2.91 m³
+EXTERIOR WALL PAINT,17 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,721,2.91 m³
+Air,14 m²,1.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,602,2.46 m³
+Cladding,15 m²,1.46 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,602,2.46 m³
+EXTERIOR WALL PAINT,15 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,602,2.46 m³
+Air,19 m²,1.31 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,710,3.19 m³
+Cladding,19 m²,1.88 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,710,3.19 m³
+EXTERIOR WALL PAINT,19 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,710,3.19 m³
+Air,13 m²,0.91 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,721,2.20 m³
+Cladding,13 m²,1.29 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,721,2.20 m³
+EXTERIOR WALL PAINT,13 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,721,2.20 m³
+Air,9 m²,0.66 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,317,1.61 m³
+Cladding,9 m²,0.94 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,317,1.61 m³
+EXTERIOR WALL PAINT,13 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,317,1.61 m³
+Concrete Masonry Units,184 m²,25.78 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,10482,86.53 m³
+Air,184 m²,12.89 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,10482,86.53 m³
+Insulation-Rockwool,184 m²,29.46 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,10482,86.53 m³
+Cladding,184 m²,18.41 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,10482,86.53 m³
+EXTERIOR WALL PAINT,184 m²,0.00 m³,BEN714_EX-01-470,Basic Wall,Exterior,470,10482,86.53 m³
+Gypsum Wall Board,4 m²,0.08 m³,BEN714_PT_05-20,Basic Wall,Interior,20,1107,0.08 m³
+Gypsum Wall Board,4 m²,0.08 m³,BEN714_PT_05-20,Basic Wall,Interior,20,1087,0.08 m³
+Gypsum Wall Board,4 m²,0.08 m³,BEN714_PT_05-20,Basic Wall,Interior,20,1113,0.08 m³
+Gypsum Wall Board,4 m²,0.08 m³,BEN714_PT_05-20,Basic Wall,Interior,20,1105,0.08 m³
+Gypsum Wall Board,4 m²,0.08 m³,BEN714_PT_05-20,Basic Wall,Interior,20,1087,0.08 m³
+Gypsum Wall Board,4 m²,0.08 m³,BEN714_PT_05-20,Basic Wall,Interior,20,1112,0.08 m³
+Gypsum Wall Board,2 m²,0.04 m³,BEN714_PT_05-20,Basic Wall,Interior,20,618,0.04 m³
+Gypsum Wall Board,1 m²,0.02 m³,BEN714_PT_05-20,Basic Wall,Interior,20,251,0.02 m³
+Gypsum Wall Board,4 m²,0.08 m³,BEN714_PT_05-20,Basic Wall,Interior,20,1129,0.08 m³
+Air,2 m²,0.14 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,677,0.34 m³
+Cladding,2 m²,0.20 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,677,0.34 m³
+EXTERIOR WALL PAINT,2 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,677,0.34 m³
+Air,1 m²,0.10 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,677,0.24 m³
+Cladding,1 m²,0.14 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,677,0.24 m³
+Air,2 m²,0.12 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,565,0.30 m³
+Cladding,2 m²,0.17 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,565,0.30 m³
+EXTERIOR WALL PAINT,2 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,565,0.30 m³
+Air,2 m²,0.12 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,565,0.30 m³
+Cladding,2 m²,0.17 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,565,0.30 m³
+EXTERIOR WALL PAINT,2 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,565,0.30 m³
+Air,91 m²,15.47 m³,BEN714_EX-03-260,Basic Wall,Exterior,270,6966,24.61 m³
+Cladding,92 m²,9.14 m³,BEN714_EX-03-260,Basic Wall,Exterior,270,6966,24.61 m³
+EXTERIOR WALL PAINT,92 m²,0.00 m³,BEN714_EX-03-260,Basic Wall,Exterior,270,6966,24.61 m³
+Air,10 m²,0.67 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,480,1.62 m³
+Cladding,10 m²,0.95 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,480,1.62 m³
+EXTERIOR WALL PAINT,9 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,480,1.62 m³
+Air,23 m²,1.62 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,1400,3.92 m³
+Cladding,23 m²,2.30 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,1400,3.92 m³
+EXTERIOR WALL PAINT,23 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,1400,3.92 m³
+Air,27 m²,1.90 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,3464,4.62 m³
+Cladding,27 m²,2.72 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,3464,4.62 m³
+EXTERIOR WALL PAINT,27 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,3464,4.62 m³
+Gypsum Wall Board,0 m²,0.01 m³,BEN714_PT_04-30,Basic Wall,Interior,30,90,0.01 m³
+Concrete Masonry Units,8 m²,2.00 m³,BEN714_IN-04_250,Basic Wall,Exterior,250,2177,2.00 m³
+Air,29 m²,2.00 m³,BEN714_PT_02-130,Basic Wall,Interior,130,8418,3.71 m³
+Gypsum Wall Board,57 m²,1.71 m³,BEN714_PT_02-130,Basic Wall,Interior,130,8418,3.71 m³
+Gypsum Wall Board,2 m²,0.06 m³,BEN714_PT_04-30,Basic Wall,Interior,30,232,0.06 m³
+Gypsum Wall Board,2 m²,0.07 m³,BEN714_PT_04-30,Basic Wall,Interior,30,297,0.07 m³
+Gypsum Wall Board,26 m²,0.78 m³,BEN714_PT_04-30,Basic Wall,Interior,30,3362,0.78 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,487,0.05 m³
+Gypsum Wall Board,1 m²,0.03 m³,BEN714_PT_04-30,Basic Wall,Interior,30,204,0.03 m³
+Gypsum Wall Board,12 m²,0.35 m³,BEN714_PT_04-30,Basic Wall,Interior,30,3038,0.35 m³
+Gypsum Wall Board,4 m²,0.11 m³,BEN714_PT_04-30,Basic Wall,Interior,30,954,0.11 m³
+Gypsum Wall Board,0 m²,0.00 m³,BEN714_PT_04-30,Basic Wall,Interior,30,106,0.00 m³
+Air,55 m²,3.85 m³,BEN714_PT_02-130,Basic Wall,Interior,130,2561,7.16 m³
+Gypsum Wall Board,110 m²,3.30 m³,BEN714_PT_02-130,Basic Wall,Interior,130,2561,7.16 m³
+Air,17 m²,1.18 m³,BEN714_PT_02-130,Basic Wall,Interior,130,862,2.19 m³
+Gypsum Wall Board,34 m²,1.01 m³,BEN714_PT_02-130,Basic Wall,Interior,130,862,2.19 m³
+Air,115 m²,8.08 m³,BEN714_PT_02-130,Basic Wall,Interior,130,5752,15.01 m³
+Gypsum Wall Board,231 m²,6.93 m³,BEN714_PT_02-130,Basic Wall,Interior,130,5752,15.01 m³
+Air,116 m²,8.14 m³,BEN714_PT_02-130,Basic Wall,Interior,130,6345,15.12 m³
+Gypsum Wall Board,233 m²,6.98 m³,BEN714_PT_02-130,Basic Wall,Interior,130,6345,15.12 m³
+Air,40 m²,2.81 m³,BEN714_PT_02-130,Basic Wall,Interior,130,2561,5.21 m³
+Gypsum Wall Board,80 m²,2.40 m³,BEN714_PT_02-130,Basic Wall,Interior,130,2561,5.21 m³
+Air,34 m²,2.38 m³,BEN714_PT_02-130,Basic Wall,Interior,130,1473,4.41 m³
+Gypsum Wall Board,68 m²,2.04 m³,BEN714_PT_02-130,Basic Wall,Interior,130,1473,4.41 m³
+Air,64 m²,4.45 m³,BEN714_PT_02-130,Basic Wall,Interior,130,3191,8.27 m³
+Gypsum Wall Board,127 m²,3.82 m³,BEN714_PT_02-130,Basic Wall,Interior,130,3191,8.27 m³
+Air,39 m²,1.95 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1742,2.73 m³
+Gypsum Wall Board,78 m²,0.78 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1742,2.73 m³
+Air,39 m²,1.95 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1742,2.73 m³
+Gypsum Wall Board,78 m²,0.78 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1742,2.73 m³
+Air,35 m²,1.74 m³,BEN714_PT_03-70,Basic Wall,Interior,70,2728,2.44 m³
+Gypsum Wall Board,70 m²,0.70 m³,BEN714_PT_03-70,Basic Wall,Interior,70,2728,2.44 m³
+Gypsum Wall Board,46 m²,1.39 m³,BEN714_PT_04-30,Basic Wall,Interior,30,2060,1.39 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,78,0.05 m³
+Gypsum Wall Board,20 m²,0.59 m³,BEN714_PT_04-30,Basic Wall,Interior,30,859,0.59 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,78,0.05 m³
+Gypsum Wall Board,18 m²,0.55 m³,BEN714_PT_04-30,Basic Wall,Interior,30,872,0.55 m³
+Gypsum Wall Board,19 m²,0.56 m³,BEN714_PT_04-30,Basic Wall,Interior,30,861,0.56 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,78,0.05 m³
+Gypsum Wall Board,20 m²,0.59 m³,BEN714_PT_04-30,Basic Wall,Interior,30,859,0.59 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,78,0.05 m³
+Gypsum Wall Board,43 m²,1.30 m³,BEN714_PT_04-30,Basic Wall,Interior,30,1910,1.30 m³
+Gypsum Wall Board,19 m²,0.58 m³,BEN714_PT_04-30,Basic Wall,Interior,30,882,0.58 m³
+Gypsum Wall Board,19 m²,0.56 m³,BEN714_PT_04-30,Basic Wall,Interior,30,881,0.56 m³
+Gypsum Wall Board,21 m²,0.64 m³,BEN714_PT_04-30,Basic Wall,Interior,30,1025,0.64 m³
+Gypsum Wall Board,67 m²,2.00 m³,BEN714_PT_04-30,Basic Wall,Interior,30,3184,2.00 m³
+Air,41 m²,2.07 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1894,2.89 m³
+Gypsum Wall Board,83 m²,0.83 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1894,2.89 m³
+Air,41 m²,2.07 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1894,2.89 m³
+Gypsum Wall Board,83 m²,0.83 m³,BEN714_PT_03-70,Basic Wall,Interior,70,1894,2.89 m³
+Gypsum Wall Board,21 m²,0.64 m³,BEN714_PT_04-30,Basic Wall,Interior,30,1032,0.64 m³
+Gypsum Wall Board,19 m²,0.56 m³,BEN714_PT_04-30,Basic Wall,Interior,30,881,0.56 m³
+Gypsum Wall Board,19 m²,0.58 m³,BEN714_PT_04-30,Basic Wall,Interior,30,882,0.58 m³
+Air,35 m²,1.75 m³,BEN714_PT_03-70,Basic Wall,Interior,70,2795,2.44 m³
+Gypsum Wall Board,70 m²,0.70 m³,BEN714_PT_03-70,Basic Wall,Interior,70,2795,2.44 m³
+Gypsum Wall Board,2 m²,0.07 m³,BEN714_PT_04-30,Basic Wall,Interior,30,670,0.07 m³
+Gypsum Wall Board,2 m²,0.06 m³,BEN714_PT_04-30,Basic Wall,Interior,30,540,0.06 m³
+Gypsum Wall Board,2 m²,0.07 m³,BEN714_PT_04-30,Basic Wall,Interior,30,670,0.07 m³
+Gypsum Wall Board,2 m²,0.06 m³,BEN714_PT_04-30,Basic Wall,Interior,30,540,0.06 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,494,0.05 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,495,0.05 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,494,0.05 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,495,0.05 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,494,0.05 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,495,0.05 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,494,0.05 m³
+Gypsum Wall Board,2 m²,0.05 m³,BEN714_PT_04-30,Basic Wall,Interior,30,495,0.05 m³
+Gypsum Wall Board,3 m²,0.08 m³,BEN714_PT_04-30,Basic Wall,Interior,30,750,0.08 m³
+Gypsum Wall Board,3 m²,0.10 m³,BEN714_PT_04-30,Basic Wall,Interior,30,910,0.10 m³
+Gypsum Wall Board,3 m²,0.08 m³,BEN714_PT_04-30,Basic Wall,Interior,30,750,0.08 m³
+Concrete Masonry Units,8 m²,1.64 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,4817,1.64 m³
+Concrete Masonry Units,21 m²,4.44 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,9036,4.44 m³
+Concrete Masonry Units,13 m²,2.79 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,4815,2.79 m³
+Concrete Masonry Units,13 m²,2.79 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,4815,2.79 m³
+Concrete Masonry Units,4 m²,0.66 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,1693,0.66 m³
+Concrete Masonry Units,38 m²,5.65 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,14305,5.65 m³
+Concrete Masonry Units,8 m²,1.22 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,3122,1.22 m³
+Concrete Masonry Units,6 m²,1.73 m³,BEN714_Conc_300,Basic Wall,Exterior,300,3122,1.73 m³
+Air,24 m²,1.66 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,7639,4.04 m³
+Cladding,24 m²,2.38 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,7639,4.04 m³
+EXTERIOR WALL PAINT,24 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,7639,4.04 m³
+Air,32 m²,2.23 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,10505,5.41 m³
+Cladding,32 m²,3.18 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,10505,5.41 m³
+EXTERIOR WALL PAINT,32 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,10505,5.41 m³
+Gypsum Wall Board,3 m²,0.10 m³,BEN714_PT_04-30,Basic Wall,Interior,30,857,0.10 m³
+Gypsum Wall Board,0 m²,0.01 m³,BEN714_PT_04-30,Basic Wall,Interior,30,119,0.01 m³
+Gypsum Wall Board,0 m²,0.01 m³,BEN714_PT_04-30,Basic Wall,Interior,30,100,0.01 m³
+Gypsum Wall Board,2 m²,0.07 m³,BEN714_PT_04-30,Basic Wall,Interior,30,581,0.07 m³
+Gypsum Wall Board,0 m²,0.01 m³,BEN714_PT_04-30,Basic Wall,Interior,30,100,0.01 m³
+Gypsum Wall Board,1 m²,0.04 m³,BEN714_PT_04-30,Basic Wall,Interior,30,328,0.04 m³
+Gypsum Wall Board,0 m²,0.01 m³,BEN714_PT_04-30,Basic Wall,Interior,30,104,0.01 m³
+Gypsum Wall Board,0 m²,0.01 m³,BEN714_PT_04-30,Basic Wall,Interior,30,95,0.01 m³
+Gypsum Wall Board,10 m²,0.31 m³,BEN714_PT_04-30,Basic Wall,Interior,30,2718,0.31 m³
+Gypsum Wall Board,3 m²,0.10 m³,BEN714_PT_04-30,Basic Wall,Interior,30,875,0.10 m³
+Gypsum Wall Board,0 m²,0.01 m³,BEN714_PT_04-30,Basic Wall,Interior,30,80,0.01 m³
+Gypsum Wall Board,3 m²,0.08 m³,BEN714_PT_04-30,Basic Wall,Interior,30,722,0.08 m³
+Gypsum Wall Board,4 m²,0.12 m³,BEN714_PT_04-30,Basic Wall,Interior,30,1030,0.12 m³
+Gypsum Wall Board,4 m²,0.12 m³,BEN714_PT_04-30,Basic Wall,Interior,30,1032,0.12 m³
+Gypsum Wall Board,4 m²,0.11 m³,BEN714_PT_04-30,Basic Wall,Interior,30,1010,0.11 m³
+Concrete Masonry Units,21 m²,6.39 m³,BEN714_Conc_300,Basic Wall,Exterior,300,7649,6.39 m³
+Concrete Masonry Units,8 m²,1.30 m³,BEN714_Conc_170,Basic Wall,Exterior,170,2725,1.30 m³
+Concrete Masonry Units,16 m²,4.72 m³,BEN714_Conc_300,Basic Wall,Exterior,300,5428,4.72 m³
+Concrete Masonry Units,8 m²,1.39 m³,BEN714_Conc_170,Basic Wall,Exterior,170,2730,1.39 m³
+Concrete Masonry Units,10 m²,2.05 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,3335,2.05 m³
+Concrete Masonry Units,6 m²,1.23 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,2785,1.23 m³
+Concrete Masonry Units,9 m²,1.92 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,3335,1.92 m³
+Concrete Masonry Units,12 m²,2.56 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,4926,2.56 m³
+Concrete Masonry Units,11 m²,2.40 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,3846,2.40 m³
+Concrete Masonry Units,11 m²,2.40 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,4703,2.40 m³
+Concrete Masonry Units,17 m²,3.65 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,6108,3.65 m³
+Concrete Masonry Units,18 m²,3.92 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,7433,3.92 m³
+Concrete Masonry Units,19 m²,4.11 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,7194,4.11 m³
+Concrete Masonry Units,17 m²,3.65 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,6105,3.65 m³
+Concrete Masonry Units,4 m²,0.89 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,1532,0.89 m³
+Concrete Masonry Units,22 m²,4.76 m³,BEN714_IN-01_215 with insulation,Basic Wall,Exterior,285,7648,6.32 m³
+Insulation-Rockwool,22 m²,1.33 m³,BEN714_IN-01_215 with insulation,Basic Wall,Exterior,285,7648,6.32 m³
+Wall Finishes,22 m²,0.22 m³,BEN714_IN-01_215 with insulation,Basic Wall,Exterior,285,7648,6.32 m³
+Concrete Masonry Units,7 m²,1.55 m³,BEN714_IN-01_215 with insulation,Basic Wall,Exterior,285,4364,2.05 m³
+Insulation-Rockwool,7 m²,0.43 m³,BEN714_IN-01_215 with insulation,Basic Wall,Exterior,285,4364,2.05 m³
+Wall Finishes,7 m²,0.07 m³,BEN714_IN-01_215 with insulation,Basic Wall,Exterior,285,4364,2.05 m³
+Concrete Masonry Units,7 m²,0.99 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,2435,1.48 m³
+Insulation-Rockwool,7 m²,0.42 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,2435,1.48 m³
+Wall Finishes,7 m²,0.07 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,2435,1.48 m³
+Concrete Masonry Units,6 m²,0.90 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,2430,1.35 m³
+Insulation-Rockwool,6 m²,0.39 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,2430,1.35 m³
+Wall Finishes,6 m²,0.06 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,2430,1.35 m³
+Concrete Masonry Units,1 m²,0.15 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,163,0.23 m³
+Insulation-Rockwool,1 m²,0.06 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,163,0.23 m³
+Wall Finishes,1 m²,0.01 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,163,0.23 m³
+Concrete Masonry Units,2 m²,0.21 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,731,0.32 m³
+Insulation-Rockwool,2 m²,0.09 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,731,0.32 m³
+Wall Finishes,2 m²,0.02 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,731,0.32 m³
+Concrete Masonry Units,1 m²,0.15 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,163,0.23 m³
+Insulation-Rockwool,1 m²,0.06 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,163,0.23 m³
+Wall Finishes,1 m²,0.01 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,163,0.23 m³
+Concrete Masonry Units,10 m²,1.47 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,3826,2.20 m³
+Insulation-Rockwool,10 m²,0.63 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,3826,2.20 m³
+Wall Finishes,10 m²,0.10 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,3826,2.20 m³
+Concrete Masonry Units,1 m²,0.15 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,162,0.23 m³
+Insulation-Rockwool,1 m²,0.06 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,162,0.23 m³
+Wall Finishes,1 m²,0.01 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,162,0.23 m³
+Concrete Masonry Units,1 m²,0.13 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,436,0.20 m³
+Insulation-Rockwool,1 m²,0.06 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,436,0.20 m³
+Wall Finishes,1 m²,0.01 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,436,0.20 m³
+Concrete Masonry Units,8 m²,1.80 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,2927,1.80 m³
+Concrete Masonry Units,7 m²,1.41 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,2477,1.41 m³
+Concrete Masonry Units,20 m²,2.43 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,1100,2.43 m³
+Concrete Masonry Units,2 m²,0.24 m³,BEN714_IN-06_150,Basic Wall,Exterior,150,492,0.24 m³
+Concrete Masonry Units,1 m²,0.16 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,173,0.23 m³
+Insulation-Rockwool,1 m²,0.07 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,173,0.23 m³
+Wall Finishes,1 m²,0.01 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,173,0.23 m³
+Concrete Masonry Units,2 m²,0.21 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,730,0.32 m³
+Insulation-Rockwool,2 m²,0.09 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,730,0.32 m³
+Wall Finishes,2 m²,0.02 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,730,0.32 m³
+Concrete Masonry Units,1 m²,0.20 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,284,0.30 m³
+Insulation-Rockwool,1 m²,0.09 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,284,0.30 m³
+Wall Finishes,1 m²,0.01 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,284,0.30 m³
+Concrete Masonry Units,3 m²,0.44 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,1326,0.66 m³
+Insulation-Rockwool,3 m²,0.19 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,1326,0.66 m³
+Wall Finishes,3 m²,0.03 m³,BEN714_IN-01_140 with insulation,Basic Wall,Exterior,210,1326,0.66 m³
+Concrete Masonry Units,9 m²,2.21 m³,BEN714_IN-04_250,Basic Wall,Exterior,250,4971,2.21 m³
+Concrete Masonry Units,9 m²,2.29 m³,BEN714_IN-04_250,Basic Wall,Exterior,250,5141,2.29 m³
+Concrete Masonry Units,3 m²,0.27 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,605,0.27 m³
+Concrete Masonry Units,4 m²,0.38 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,1251,0.38 m³
+Concrete Masonry Units,1 m²,0.06 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,602,0.06 m³
+Concrete Masonry Units,1 m²,0.13 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,609,0.13 m³
+Concrete Masonry Units,4 m²,0.38 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,1242,0.38 m³
+Concrete Masonry Units,1 m²,0.06 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,609,0.06 m³
+Gypsum Wall Board,6 m²,0.18 m³,BEN714_PT_04-30,Basic Wall,Interior,30,2064,0.18 m³
+Gypsum Wall Board,1 m²,0.04 m³,BEN714_PT_04-30,Basic Wall,Interior,30,466,0.04 m³
+Gypsum Wall Board,3 m²,0.08 m³,BEN714_PT_04-30,Basic Wall,Interior,30,823,0.08 m³
+Gypsum Wall Board,8 m²,0.24 m³,BEN714_PT_04-30,Basic Wall,Interior,30,2657,0.24 m³
+Gypsum Wall Board,2 m²,0.07 m³,BEN714_PT_04-30,Basic Wall,Interior,30,914,0.07 m³
+Gypsum Wall Board,9 m²,0.27 m³,BEN714_PT_04-30,Basic Wall,Interior,30,2867,0.27 m³
+Gypsum Wall Board,0 m²,0.01 m³,BEN714_PT_04-30,Basic Wall,Interior,30,252,0.01 m³
+Gypsum Wall Board,0 m²,0.01 m³,BEN714_PT_04-30,Basic Wall,Interior,30,252,0.01 m³
+Concrete Masonry Units,5 m²,0.55 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,2054,0.55 m³
+Concrete Masonry Units,9 m²,0.86 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,5435,0.86 m³
+Concrete Masonry Units,5 m²,0.55 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,2054,0.55 m³
+Concrete Masonry Units,5 m²,0.55 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,2054,0.55 m³
+Concrete Masonry Units,5 m²,0.93 m³,BEN714_Conc_170,Basic Wall,Exterior,170,2054,0.93 m³
+Concrete Masonry Units,6 m²,0.60 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,2164,0.60 m³
+Concrete Masonry Units,4 m²,0.40 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,2770,0.40 m³
+Concrete Masonry Units,6 m²,0.57 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,2164,0.57 m³
+Concrete Masonry Units,6 m²,0.60 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,2214,0.60 m³
+Concrete Masonry Units,9 m²,1.11 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,3282,1.11 m³
+Concrete Masonry Units,1 m²,0.13 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,509,0.13 m³
+Concrete Masonry Units,3 m²,0.39 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,1876,0.39 m³
+Concrete Masonry Units,2 m²,0.27 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,847,0.27 m³
+Concrete Masonry Units,6 m²,0.61 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,2225,0.61 m³
+Concrete Masonry Units,5 m²,0.58 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,2435,0.58 m³
+Concrete Masonry Units,6 m²,0.78 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,2435,0.78 m³
+Concrete Masonry Units,3 m²,0.40 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,1896,0.40 m³
+Concrete Masonry Units,9 m²,1.07 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,3282,1.07 m³
+Concrete Masonry Units,1 m²,0.13 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,509,0.13 m³
+Concrete Masonry Units,4 m²,0.45 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,2116,0.45 m³
+Concrete Masonry Units,4 m²,0.52 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,1604,0.52 m³
+Concrete Masonry Units,7 m²,0.79 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,3145,0.79 m³
+Concrete Masonry Units,18 m²,1.76 m³,BEN714_IN-04_100,Basic Wall,Exterior,100,6108,1.76 m³
+Concrete Masonry Units,2 m²,0.23 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,782,0.23 m³
+Concrete Masonry Units,12 m²,2.49 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,3933,2.49 m³
+Concrete Masonry Units,2 m²,0.41 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,702,0.41 m³
+Concrete Masonry Units,4 m²,0.45 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,1451,0.45 m³
+Concrete Masonry Units,5 m²,0.59 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,3665,0.59 m³
+Concrete Masonry Units,2 m²,0.33 m³,BEN714_IN-01_215,Basic Wall,Exterior,215,702,0.33 m³
+Air,18 m²,0.88 m³,BEN714_PT_03-70,Basic Wall,Interior,70,6715,1.24 m³
+Gypsum Wall Board,35 m²,0.35 m³,BEN714_PT_03-70,Basic Wall,Interior,70,6715,1.24 m³
+Air,1 m²,0.06 m³,BEN714_PT_03-70,Basic Wall,Interior,70,448,0.08 m³
+Gypsum Wall Board,2 m²,0.02 m³,BEN714_PT_03-70,Basic Wall,Interior,70,448,0.08 m³
+Air,1 m²,0.03 m³,BEN714_PT_03-70,Basic Wall,Interior,70,140,0.04 m³
+Gypsum Wall Board,1 m²,0.01 m³,BEN714_PT_03-70,Basic Wall,Interior,70,140,0.04 m³
+Air,8 m²,0.42 m³,BEN714_PT_03-70,Basic Wall,Interior,70,2801,0.59 m³
+Gypsum Wall Board,17 m²,0.17 m³,BEN714_PT_03-70,Basic Wall,Interior,70,2801,0.59 m³
+Gypsum Wall Board,24 m²,0.71 m³,BEN714_PT_04-30,Basic Wall,Interior,30,7856,0.71 m³
+Gypsum Wall Board,3 m²,0.10 m³,BEN714_PT_04-30,Basic Wall,Interior,30,1094,0.10 m³
+Air,19 m²,0.95 m³,BEN714_PT_03-70,Basic Wall,Interior,70,7051,1.32 m³
+Gypsum Wall Board,38 m²,0.38 m³,BEN714_PT_03-70,Basic Wall,Interior,70,7051,1.32 m³
+Air,18 m²,0.88 m³,BEN714_PT_03-70,Basic Wall,Interior,70,5778,1.23 m³
+Gypsum Wall Board,35 m²,0.35 m³,BEN714_PT_03-70,Basic Wall,Interior,70,5778,1.23 m³
+Air,73 m²,3.64 m³,BEN714_PT_03-70,Basic Wall,Interior,70,23859,5.09 m³
+Gypsum Wall Board,146 m²,1.46 m³,BEN714_PT_03-70,Basic Wall,Interior,70,23859,5.09 m³
+Air,10 m²,0.50 m³,BEN714_PT_03-70,Basic Wall,Interior,70,3416,0.70 m³
+Gypsum Wall Board,20 m²,0.20 m³,BEN714_PT_03-70,Basic Wall,Interior,70,3416,0.70 m³
+Air,9 m²,0.46 m³,BEN714_PT_03-70,Basic Wall,Interior,70,3008,0.64 m³
+Gypsum Wall Board,18 m²,0.18 m³,BEN714_PT_03-70,Basic Wall,Interior,70,3008,0.64 m³
+Air,5 m²,0.26 m³,BEN714_PT_03-70,Basic Wall,Interior,70,2643,0.37 m³
+Gypsum Wall Board,11 m²,0.11 m³,BEN714_PT_03-70,Basic Wall,Interior,70,2643,0.37 m³
+Concrete Masonry Units,1 m²,0.44 m³,BEN714_Conc_300,Basic Wall,Exterior,300,557,0.44 m³
+Concrete Masonry Units,1 m²,0.44 m³,BEN714_Conc_300,Basic Wall,Exterior,300,500,0.44 m³
+Concrete Masonry Units,1 m²,0.44 m³,BEN714_Conc_300,Basic Wall,Exterior,300,500,0.44 m³
+Concrete Masonry Units,1 m²,0.44 m³,BEN714_Conc_300,Basic Wall,Exterior,300,500,0.44 m³
+Concrete Masonry Units,1 m²,0.17 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,556,0.17 m³
+Concrete Masonry Units,6 m²,0.90 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,2364,0.90 m³
+Concrete Masonry Units,2 m²,0.27 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,660,0.27 m³
+Concrete Masonry Units,1 m²,0.13 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,260,0.13 m³
+Concrete Masonry Units,1 m²,0.16 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,239,0.16 m³
+Concrete Masonry Units,1 m²,0.15 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,227,0.15 m³
+Concrete Masonry Units,1 m²,0.12 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,589,0.12 m³
+Concrete Masonry Units,3 m²,0.32 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,847,0.32 m³
+Concrete Masonry Units,5 m²,0.58 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,2435,0.58 m³
+Concrete Masonry Units,11 m²,1.92 m³,BEN714_Conc_170,Basic Wall,Exterior,170,3966,1.92 m³
+Gypsum Wall Board,4 m²,0.13 m³,BEN714_PT_04-30,Basic Wall,Interior,30,380,0.13 m³
+Gypsum Wall Board,4 m²,0.13 m³,BEN714_PT_04-30,Basic Wall,Interior,30,380,0.13 m³
+Gypsum Wall Board,4 m²,0.13 m³,BEN714_PT_04-30,Basic Wall,Interior,30,380,0.13 m³
+Gypsum Wall Board,4 m²,0.13 m³,BEN714_PT_04-30,Basic Wall,Interior,30,380,0.13 m³
+Concrete Masonry Units,126 m²,37.65 m³,BEN714_Conc_300,Basic Wall,Exterior,300,41075,37.65 m³
+Air,3 m²,0.23 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,779,0.56 m³
+Cladding,3 m²,0.33 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,779,0.56 m³
+Air,60 m²,4.20 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,15020,10.20 m³
+Cladding,60 m²,6.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,15020,10.20 m³
+Air,12 m²,0.86 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,3148,2.08 m³
+Cladding,12 m²,1.22 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,3148,2.08 m³
+Gypsum Wall Board,4 m²,0.09 m³,BEN714_PT_05-20,Basic Wall,Interior,20,1362,0.09 m³
+Air,2 m²,0.11 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,490,0.28 m³
+Cladding,2 m²,0.16 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,490,0.28 m³
+EXTERIOR WALL PAINT,2 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,490,0.28 m³
+Air,11 m²,0.76 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,3816,1.85 m³
+Cladding,11 m²,1.09 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,3816,1.85 m³
+EXTERIOR WALL PAINT,11 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,3816,1.85 m³
+Air,9 m²,0.66 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,4045,1.60 m³
+Cladding,9 m²,0.94 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,4045,1.60 m³
+EXTERIOR WALL PAINT,9 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,4045,1.60 m³
+Air,11 m²,0.74 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,4394,1.80 m³
+Cladding,11 m²,1.06 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,4394,1.80 m³
+EXTERIOR WALL PAINT,11 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,4394,1.80 m³
+Concrete Masonry Units,1 m²,0.13 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,661,0.13 m³
+Concrete Masonry Units,1 m²,0.13 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,661,0.13 m³
+Concrete Masonry Units,8 m²,1.14 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,6650,1.14 m³
+Concrete Masonry Units,5 m²,0.67 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,3863,0.67 m³
+Concrete Masonry Units,4 m²,0.50 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,2961,0.50 m³
+Concrete Masonry Units,1 m²,0.10 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,750,0.10 m³
+Concrete Masonry Units,2 m²,0.26 m³,BEN714_IN-05_120,Basic Wall,Exterior,120,1040,0.26 m³
+Air,2 m²,0.11 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,569,0.27 m³
+Cladding,2 m²,0.16 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,569,0.27 m³
+EXTERIOR WALL PAINT,2 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,569,0.27 m³
+Air,14 m²,0.96 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,4962,2.32 m³
+Cladding,14 m²,1.37 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,4962,2.32 m³
+EXTERIOR WALL PAINT,14 m²,0.00 m³,BEN714_EX-02-170,Basic Wall,Exterior,170,4962,2.32 m³
+Concrete Masonry Units,1 m²,0.17 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,1140,0.17 m³
+Concrete Masonry Units,1 m²,0.17 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,1140,0.17 m³
+Concrete Masonry Units,9 m²,1.24 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,7400,1.24 m³
+Concrete Masonry Units,9 m²,1.21 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,7073,1.21 m³
+Concrete Masonry Units,9 m²,1.21 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,7073,1.21 m³
+Concrete Masonry Units,2 m²,0.30 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,1950,0.30 m³
+Concrete Masonry Units,2 m²,0.30 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,1950,0.30 m³
+Concrete Masonry Units,1 m²,0.13 m³,BEN714_IN-01_140,Basic Wall,Exterior,140,901,0.13 m³

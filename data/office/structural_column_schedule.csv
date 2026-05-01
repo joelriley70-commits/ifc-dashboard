@@ -1,0 +1,386 @@
+﻿Family,Type,System Length,Base Level,Top Level,Structural Material,Weight,Exact Weight,Column Location Mark
+UC-Universal Columns-Column,254UC89,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,268.48 kg,F-1
+UC-Universal Columns-Column,305UC118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,344.95 kg,F-2
+UC-Universal Columns-Column,305UC158,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,386.70 kg,F-3
+UC-Universal Columns-Column,305UC158,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,386.70 kg,F-4(-2739)
+UC-Universal Columns-Column,305UC118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,344.95 kg,F-4(1838)
+UC-Universal Columns-Column,254UC89,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,268.48 kg,F-5(-2751)
+UC-Universal Columns-Column,305UC118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,344.95 kg,F-5
+UC-Universal Columns-Column,305UC118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,344.95 kg,F-6
+UC-Universal Columns-Column,254UC89,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,268.48 kg,F-8(-2972)
+UC-Universal Columns-Column,254UC89,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,268.48 kg,F-8
+UC-Universal Columns-Column,305UC118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,344.95 kg,F-7
+Rectangular Hollow Sections-Column,RHS150x100x5,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,131.49 kg,46.24 kg,F-2(2416)
+Rectangular Hollow Sections-Column,RHS150x100x5,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,131.49 kg,46.24 kg,F-3(-1546)
+UC-Universal Columns-Column,UC305x305x118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,355.00 kg,E(-4000)-8
+UC-Universal Columns-Column,UC305x305x118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,351.51 kg,E-8
+UC-Universal Columns-Column,UC305x305x118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,351.51 kg,D(2073)-8
+Rectangular Hollow Sections-Column,SHS100x6.3,2600,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,112.10 kg,47.66 kg,F(1684)-8
+Rectangular Hollow Sections-Column,RHS150x100x5,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,131.49 kg,45.42 kg,D(-1495)-8
+UC-Universal Columns-Column,305UC97,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,288.06 kg,A-8
+UC-Universal Columns-Column,305UC158,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,386.70 kg,A-6
+UC-Universal Columns-Column,305UC158,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,386.70 kg,A-5
+UC-Universal Columns-Column,305UC158,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,386.70 kg,A-4
+UC-Universal Columns-Column,305UC97,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,288.06 kg,A-3
+UC-Universal Columns-Column,305UC198,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,620.24 kg,A-7
+UC-Universal Columns-Column,254UC89,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,268.48 kg,E-1
+UC-Universal Columns-Column,305UC158,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,386.70 kg,C(-1997)-2
+UC-Universal Columns-Column,305UC118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,344.95 kg,B-3
+UC-Universal Columns-Column,305UC118,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,344.95 kg,B-2(2997)
+UC-Universal Columns-Column,305UC137,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,416.87 kg,E-2
+UC-Universal Columns-Column,356x368UC202,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,583.01 kg,E-4
+UC-Universal Columns-Column,356x406x235UC,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,687.57 kg,E-5
+UC-Universal Columns-Column,356x406x287UC,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,886.65 kg,E-6
+UC-Universal Columns-Column,356x406x287UC,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,877.93 kg,E-8(-2971)
+UC-Universal Columns-Column,356x368UC202,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,583.01 kg,E-3
+UC-Universal Columns-Column,356x406x287UC,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,877.93 kg,E-7
+UC-Universal Columns-Column,203X203/8.5x12.7,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,132.36 kg,C-5
+UC-Universal Columns-Column,203X203/8.5x12.7,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,132.36 kg,C-4
+UC-Universal Columns-Column,203X203/8.5x12.7,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,132.36 kg,C-6
+UC-Universal Columns-Column,203X203/8.5x12.7,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,132.36 kg,C-7
+UC-Universal Columns-Column,203X203/8.5x12.7,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,132.36 kg,B-2
+UC-Universal Columns-Column,UC254x254x73,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,222.99 kg,217.51 kg,E(-2863)-4(-2732)
+UC-Universal Columns-Column,254UC167,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,501.52 kg,E(-2862)-3
+UC-Universal Columns-Column,254UC167,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,501.52 kg,E(-2862)-4
+UC-Universal Columns-Column,254UC167,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,501.52 kg,E(-1809)-4(1838)
+UC-Universal Columns-Column,254UC132,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,395.46 kg,E(-1807)-5(-1852)
+Rectangular Hollow Sections-Column,SHS100x6.3,2695,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,116.19 kg,49.42 kg,F(1687)-8(-2970)
+UC-Universal Columns-Column,254UC89,3050,Level -01 Basement Floor,Level 00 - Ground Floor,Metal - Steel 50-355,294.60 kg,268.48 kg,E(-785)-4(-2732)
+UC-Universal Columns-Column,254UC89,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,F-1
+UC-Universal Columns-Column,305UC118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-2
+UC-Universal Columns-Column,305UC158,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,F-3
+UC-Universal Columns-Column,305UC158,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,537.74 kg,F-4(-2738)
+UC-Universal Columns-Column,305UC118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-4(1838)
+UC-Universal Columns-Column,254UC89,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,F-5(-2751)
+UC-Universal Columns-Column,305UC118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-5
+UC-Universal Columns-Column,305UC118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-6
+UC-Universal Columns-Column,254UC89,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8(-2972)
+UC-Universal Columns-Column,254UC89,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8
+UC-Universal Columns-Column,305UC118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-7
+Rectangular Hollow Sections-Column,RHS150x100x5,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,178.70 kg,67.45 kg,F-2(2416)
+Rectangular Hollow Sections-Column,RHS150x100x5,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,178.70 kg,67.45 kg,F-3(-1546)
+UC-Universal Columns-Column,UC305x305x118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,482.45 kg,E(-4000)-8
+UC-Universal Columns-Column,UC305x305x118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,482.45 kg,E-8
+UC-Universal Columns-Column,UC305x305x118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,482.45 kg,D(2073)-8
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1684)-8
+Rectangular Hollow Sections-Column,RHS150x100x5,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,178.70 kg,66.63 kg,D(-1495)-8
+UC-Universal Columns-Column,305UC97,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,395.37 kg,A-8
+UC-Universal Columns-Column,305UC158,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,A-6
+UC-Universal Columns-Column,305UC158,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,A-5
+UC-Universal Columns-Column,305UC158,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,A-4
+UC-Universal Columns-Column,305UC97,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,395.37 kg,A-3
+UC-Universal Columns-Column,305UC198,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,851.29 kg,A-7
+UC-Universal Columns-Column,254UC89,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,E-1
+UC-Universal Columns-Column,305UC158,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,C(-1997)-2
+UC-Universal Columns-Column,305UC118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,B-3
+UC-Universal Columns-Column,305UC118,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,B-2(2997)
+UC-Universal Columns-Column,305UC137,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,572.16 kg,E-2
+UC-Universal Columns-Column,356x368UC202,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,800.18 kg,E-4
+UC-Universal Columns-Column,356x406x235UC,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,943.70 kg,E-5
+UC-Universal Columns-Column,356x406x287UC,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,1204.97 kg,E-6
+UC-Universal Columns-Column,356x406x287UC,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,917.99 kg,E-8(-2971)
+UC-Universal Columns-Column,356x368UC202,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,800.18 kg,E-3
+UC-Universal Columns-Column,UC254x254x73,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,298.54 kg,E(-2863)-4(-2732)
+UC-Universal Columns-Column,254UC167,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-3
+UC-Universal Columns-Column,254UC167,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-4
+UC-Universal Columns-Column,254UC167,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,699.54 kg,E(-1809)-4(1838)
+UC-Universal Columns-Column,254UC132,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,542.77 kg,E(-1807)-5(-1852)
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1687)-8(-2970)
+UC-Universal Columns-Column,254UC89,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,E(-785)-4(-2732)
+Rectangular Hollow Sections-Column,RHS150x100x5,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,178.70 kg,73.22 kg,B(345)-8
+UC-Universal Columns-Column,305UC158,4145,Level 00 - Ground Floor,Level 01 - First Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,F-4(-2739)
+UC-Universal Columns-Column,254UC89,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-1
+UC-Universal Columns-Column,305UC118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-2
+UC-Universal Columns-Column,305UC158,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,F-3
+UC-Universal Columns-Column,305UC158,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,537.74 kg,F-4(-2738)
+UC-Universal Columns-Column,305UC118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-4(1838)
+UC-Universal Columns-Column,254UC89,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-5(-2751)
+UC-Universal Columns-Column,305UC118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-5
+UC-Universal Columns-Column,305UC118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-6
+UC-Universal Columns-Column,254UC89,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8(-2972)
+UC-Universal Columns-Column,254UC89,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8
+UC-Universal Columns-Column,305UC118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-7
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,165.77 kg,61.79 kg,F-2(2416)
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,165.77 kg,61.79 kg,F-3(-1546)
+UC-Universal Columns-Column,UC305x305x118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,E(-4000)-8
+UC-Universal Columns-Column,UC305x305x118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,E-8
+UC-Universal Columns-Column,UC305x305x118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,D(2073)-8
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1684)-8
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,165.77 kg,60.97 kg,D(-1495)-8
+UC-Universal Columns-Column,305UC97,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,395.37 kg,A-8
+UC-Universal Columns-Column,305UC158,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,A-6
+UC-Universal Columns-Column,305UC158,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,A-5
+UC-Universal Columns-Column,305UC158,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,A-4
+UC-Universal Columns-Column,305UC97,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,395.37 kg,A-3
+UC-Universal Columns-Column,305UC198,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,851.29 kg,A-7
+UC-Universal Columns-Column,254UC89,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,E-1
+UC-Universal Columns-Column,305UC158,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,C(-1997)-2
+UC-Universal Columns-Column,305UC118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,B-3
+UC-Universal Columns-Column,305UC118,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,B-2(2997)
+UC-Universal Columns-Column,305UC137,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,572.16 kg,E-2
+UC-Universal Columns-Column,356x368UC202,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,800.18 kg,E-4
+UC-Universal Columns-Column,356x406x235UC,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,943.70 kg,E-5
+UC-Universal Columns-Column,356x406x287UC,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,1204.97 kg,E-6
+UC-Universal Columns-Column,356x406x287UC,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,917.99 kg,E-8(-2971)
+UC-Universal Columns-Column,356x368UC202,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,800.18 kg,E-3
+UC-Universal Columns-Column,UC254x254x73,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,298.54 kg,E(-2863)-4(-2732)
+UC-Universal Columns-Column,254UC167,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-3
+UC-Universal Columns-Column,254UC167,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-4
+UC-Universal Columns-Column,254UC167,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,699.54 kg,E(-1809)-4(1838)
+UC-Universal Columns-Column,254UC132,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,542.77 kg,E(-1807)-5(-1852)
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1687)-8(-2970)
+UC-Universal Columns-Column,254UC89,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,E(-785)-4(-2732)
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,165.77 kg,67.92 kg,B(345)-8
+UC-Universal Columns-Column,305UC158,4145,Level 01 - First Floor,02_SSL. 2nd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,F-4(-2739)
+UC-Universal Columns-Column,254UC89,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-1
+UC-Universal Columns-Column,305UC118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-2
+UC-Universal Columns-Column,305UC158,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,F-3
+UC-Universal Columns-Column,305UC158,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,537.74 kg,F-4(-2738)
+UC-Universal Columns-Column,305UC118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-4(1838)
+UC-Universal Columns-Column,254UC89,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-5(-2751)
+UC-Universal Columns-Column,305UC118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-5
+UC-Universal Columns-Column,305UC118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-6
+UC-Universal Columns-Column,254UC89,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8(-2972)
+UC-Universal Columns-Column,254UC89,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8
+UC-Universal Columns-Column,305UC118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-7
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,165.77 kg,61.79 kg,F-2(2416)
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,165.77 kg,61.79 kg,F-3(-1546)
+UC-Universal Columns-Column,UC305x305x118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,E(-4000)-8
+UC-Universal Columns-Column,UC305x305x118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,E-8
+UC-Universal Columns-Column,UC305x305x118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,D(2073)-8
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1684)-8
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,165.77 kg,60.97 kg,D(-1495)-8
+UC-Universal Columns-Column,305UC97,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,395.37 kg,B(3910)-8
+UC-Universal Columns-Column,305UC158,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3547)-6
+UC-Universal Columns-Column,305UC158,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3348)-5
+UC-Universal Columns-Column,305UC158,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3154)-4
+UC-Universal Columns-Column,305UC97,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,395.37 kg,B(2954)-3
+UC-Universal Columns-Column,305UC198,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,851.29 kg,B(3731)-7
+UC-Universal Columns-Column,254UC89,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,E-1
+UC-Universal Columns-Column,305UC158,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,C(-1997)-2
+UC-Universal Columns-Column,305UC118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,B-3
+UC-Universal Columns-Column,305UC118,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,B-2(2997)
+UC-Universal Columns-Column,305UC137,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,572.16 kg,E-2
+UC-Universal Columns-Column,356x368UC202,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,800.18 kg,E-4
+UC-Universal Columns-Column,356x406x235UC,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,943.70 kg,E-5
+UC-Universal Columns-Column,356x406x287UC,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,1204.97 kg,E-6
+UC-Universal Columns-Column,356x406x287UC,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,917.99 kg,E-8(-2971)
+UC-Universal Columns-Column,356x368UC202,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,800.18 kg,E-3
+UC-Universal Columns-Column,UC254x254x73,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,298.54 kg,E(-2863)-4(-2732)
+UC-Universal Columns-Column,254UC167,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-3
+UC-Universal Columns-Column,254UC167,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-4
+UC-Universal Columns-Column,254UC167,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,699.54 kg,E(-1809)-4(1838)
+UC-Universal Columns-Column,254UC132,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,542.77 kg,E(-1807)-5(-1852)
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1687)-8(-2970)
+UC-Universal Columns-Column,254UC89,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,E(-785)-4(-2732)
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,165.77 kg,67.92 kg,B(345)-8
+UC-Universal Columns-Column,305UC158,4145,02_SSL. 2nd FLOOR,03_SSL. 3rd FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,F-4(-2739)
+UC-Universal Columns-Column,254UC89,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-1
+UC-Universal Columns-Column,305UC118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-2
+UC-Universal Columns-Column,305UC158,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,F-3
+UC-Universal Columns-Column,305UC158,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,537.74 kg,F-4(-2738)
+UC-Universal Columns-Column,305UC118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-4(1838)
+UC-Universal Columns-Column,254UC89,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-5(-2751)
+UC-Universal Columns-Column,305UC118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-5
+UC-Universal Columns-Column,305UC118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-6
+UC-Universal Columns-Column,254UC89,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8(-2972)
+UC-Universal Columns-Column,254UC89,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8
+UC-Universal Columns-Column,305UC118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-7
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,165.77 kg,61.79 kg,F-2(2416)
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,165.77 kg,61.79 kg,F-3(-1546)
+UC-Universal Columns-Column,UC305x305x118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,E(-4000)-8
+UC-Universal Columns-Column,UC305x305x118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,E-8
+UC-Universal Columns-Column,UC305x305x118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,D(2073)-8
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1684)-8
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,165.77 kg,60.97 kg,D(-1495)-8
+UC-Universal Columns-Column,305UC97,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,395.37 kg,B(3910)-8
+UC-Universal Columns-Column,305UC158,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3547)-6
+UC-Universal Columns-Column,305UC158,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3348)-5
+UC-Universal Columns-Column,305UC158,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3154)-4
+UC-Universal Columns-Column,305UC97,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,395.37 kg,B(2954)-3
+UC-Universal Columns-Column,305UC198,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,851.29 kg,B(3731)-7
+UC-Universal Columns-Column,254UC89,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,E-1
+UC-Universal Columns-Column,305UC158,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,C(-1997)-2
+UC-Universal Columns-Column,305UC118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,B-3
+UC-Universal Columns-Column,305UC118,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,B-2(2997)
+UC-Universal Columns-Column,305UC137,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,572.16 kg,E-2
+UC-Universal Columns-Column,356x368UC202,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,800.18 kg,E-4
+UC-Universal Columns-Column,356x406x235UC,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,943.70 kg,E-5
+UC-Universal Columns-Column,356x406x287UC,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,1204.97 kg,E-6
+UC-Universal Columns-Column,356x406x287UC,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,917.99 kg,E-8(-2971)
+UC-Universal Columns-Column,356x368UC202,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,800.18 kg,E-3
+UC-Universal Columns-Column,UC254x254x73,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,298.54 kg,E(-2863)-4(-2732)
+UC-Universal Columns-Column,254UC167,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-3
+UC-Universal Columns-Column,254UC167,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-4
+UC-Universal Columns-Column,254UC167,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,699.54 kg,E(-1809)-4(1838)
+UC-Universal Columns-Column,254UC132,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,542.77 kg,E(-1807)-5(-1852)
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1687)-8(-2970)
+UC-Universal Columns-Column,254UC89,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,E(-785)-4(-2732)
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,165.77 kg,67.92 kg,B(345)-8
+UC-Universal Columns-Column,305UC158,4145,03_SSL. 3rd FLOOR,04_SSL. 4th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,F-4(-2739)
+UC-Universal Columns-Column,254UC89,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-1
+UC-Universal Columns-Column,305UC118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-2
+UC-Universal Columns-Column,305UC158,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,F-3
+UC-Universal Columns-Column,305UC158,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,537.74 kg,F-4(-2738)
+UC-Universal Columns-Column,305UC118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-4(1838)
+UC-Universal Columns-Column,254UC89,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-5(-2751)
+UC-Universal Columns-Column,305UC118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-5
+UC-Universal Columns-Column,305UC118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-6
+UC-Universal Columns-Column,254UC89,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8(-2972)
+UC-Universal Columns-Column,254UC89,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8
+UC-Universal Columns-Column,305UC118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,F-7
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,165.77 kg,61.79 kg,F-2(2416)
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,165.77 kg,61.79 kg,F-3(-1546)
+UC-Universal Columns-Column,UC305x305x118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,E(-4000)-8
+UC-Universal Columns-Column,UC305x305x118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,E-8
+UC-Universal Columns-Column,UC305x305x118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,482.45 kg,D(2073)-8
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1684)-8
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,165.77 kg,60.97 kg,D(-1495)-8
+UC-Universal Columns-Column,305UC97,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,395.37 kg,B(3910)-8
+UC-Universal Columns-Column,305UC158,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3547)-6
+UC-Universal Columns-Column,305UC158,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3348)-5
+UC-Universal Columns-Column,305UC158,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3154)-4
+UC-Universal Columns-Column,305UC97,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,395.37 kg,B(2954)-3
+UC-Universal Columns-Column,305UC198,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,851.29 kg,B(3731)-7
+UC-Universal Columns-Column,254UC89,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,E-1
+UC-Universal Columns-Column,305UC158,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,C(-1997)-2
+UC-Universal Columns-Column,305UC118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,B-3
+UC-Universal Columns-Column,305UC118,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,473.45 kg,B-2(2997)
+UC-Universal Columns-Column,305UC137,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,572.16 kg,E-2
+UC-Universal Columns-Column,356x368UC202,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,800.18 kg,E-4
+UC-Universal Columns-Column,356x406x235UC,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,943.70 kg,E-5
+UC-Universal Columns-Column,356x406x287UC,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,1204.97 kg,E-6
+UC-Universal Columns-Column,356x406x287UC,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,917.99 kg,E-8(-2971)
+UC-Universal Columns-Column,356x368UC202,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,800.18 kg,E-3
+UC-Universal Columns-Column,UC254x254x73,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,298.54 kg,E(-2863)-4(-2732)
+UC-Universal Columns-Column,254UC167,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-3
+UC-Universal Columns-Column,254UC167,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-4
+UC-Universal Columns-Column,254UC167,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,699.54 kg,E(-1809)-4(1838)
+UC-Universal Columns-Column,254UC132,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,542.77 kg,E(-1807)-5(-1852)
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1687)-8(-2970)
+UC-Universal Columns-Column,254UC89,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,400.36 kg,368.49 kg,E(-785)-4(-2732)
+Rectangular Hollow Sections-Column,RHS150x100x5,3845,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,165.77 kg,67.92 kg,B(345)-8
+UC-Universal Columns-Column,305UC158,4145,04_SSL. 4th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,303.04 kg,530.75 kg,F-4(-2739)
+UC-Universal Columns-Column,254UC89,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,F-1
+UC-Universal Columns-Column,305UC118,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-2
+UC-Universal Columns-Column,305UC158,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,F-3
+UC-Universal Columns-Column,305UC158,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,537.74 kg,F-4(-2738)
+UC-Universal Columns-Column,305UC118,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-4(1838)
+UC-Universal Columns-Column,254UC89,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,F-5(-2751)
+UC-Universal Columns-Column,305UC118,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-5
+UC-Universal Columns-Column,305UC118,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-6
+UC-Universal Columns-Column,254UC89,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8(-2972)
+UC-Universal Columns-Column,254UC89,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,385.88 kg,355.15 kg,F-8
+UC-Universal Columns-Column,305UC118,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,F-7
+Rectangular Hollow Sections-Column,RHS150x100x5,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,172.23 kg,64.62 kg,F-2(2416)
+Rectangular Hollow Sections-Column,RHS150x100x5,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,172.23 kg,64.62 kg,F-3(-1546)
+UC-Universal Columns-Column,UC305x305x118,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,385.88 kg,465.00 kg,E(-4000)-8
+UC-Universal Columns-Column,UC305x305x118,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,385.88 kg,465.00 kg,E-8
+UC-Universal Columns-Column,UC305x305x118,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,385.88 kg,465.00 kg,D(2073)-8
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1684)-8
+Rectangular Hollow Sections-Column,RHS150x100x5,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,172.23 kg,63.80 kg,D(-1495)-8
+UC-Universal Columns-Column,305UC97,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,395.37 kg,B(3910)-8
+UC-Universal Columns-Column,305UC158,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3547)-6
+UC-Universal Columns-Column,305UC158,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3348)-5
+UC-Universal Columns-Column,305UC158,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,B(3154)-4
+UC-Universal Columns-Column,305UC97,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,395.37 kg,B(2954)-3
+UC-Universal Columns-Column,305UC198,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,851.29 kg,B(3731)-7
+UC-Universal Columns-Column,254UC89,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,E-1
+Circular Hollow Sections-Column,CHS273x10,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,268.86 kg,267.22 kg,B-2(2997)
+UC-Universal Columns-Column,356x368UC202,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,800.18 kg,E-4
+UC-Universal Columns-Column,356x406x235UC,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,943.70 kg,E-5
+UC-Universal Columns-Column,356x406x287UC,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,1204.97 kg,E-6
+UC-Universal Columns-Column,305UC118,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,E-8(-2971)
+UC-Universal Columns-Column,356x368UC202,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,800.18 kg,E-3
+UC-Universal Columns-Column,UC254x254x73,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,298.54 kg,E(-2863)-4(-2732)
+UC-Universal Columns-Column,254UC167,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-3
+UC-Universal Columns-Column,254UC167,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,688.34 kg,E(-2862)-4
+UC-Universal Columns-Column,254UC167,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,699.54 kg,E(-1809)-4(1838)
+UC-Universal Columns-Column,254UC132,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,542.77 kg,E(-1807)-5(-1852)
+Rectangular Hollow Sections-Column,SHS100x6.3,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,178.70 kg,70.91 kg,F(1687)-8(-2970)
+UC-Universal Columns-Column,254UC89,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,E(-785)-4(-2732)
+UC-Universal Columns-Column,305UC158,4145,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,303.04 kg,530.75 kg,F-4(-2739)
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,D(-1495)-2
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,E-2
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,E(-3586)-2
+Circular Hollow Sections-Column,CHS273x10,3816,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,247.53 kg,247.69 kg,C(-1997)-2
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-5(3743)
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-6
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-7(-3715)
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-7
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-8(-2972)
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-5
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-4(3733)
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-4
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-3(3733)
+Circular Hollow Sections-Column,CHS273x10,3995,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,259.13 kg,259.30 kg,B-3
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,256.26 kg,B-2(2997)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,D(-1495)-2
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,256.26 kg,E-2
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,F(1137)-2
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,E(-3586)-2
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,C(-1997)-2
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-5(3743)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-6
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-7(-3715)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-7
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-8(-2972)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-5
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-4(3733)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-4
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-3(3733)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,B-3
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,253.03 kg,F(1137)-2(3763)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,D(797)-8(-2972)
+UC-Universal Columns-Column,254UC89,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,383.94 kg,353.38 kg,F-8
+UC-Universal Columns-Column,UC305x305x118,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,383.94 kg,462.67 kg,E(-4000)-8
+UC-Universal Columns-Column,UC305x305x118,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,383.94 kg,462.67 kg,E-8
+UC-Universal Columns-Column,305UC118,4145,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,400.36 kg,473.45 kg,E-8(-2971)
+UC-Universal Columns-Column,254UC89,4145,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,400.36 kg,368.49 kg,F-8(-2972)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,F(1231)-7
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,F(1231)-7(-3725)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,F(1231)-6
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,F(1231)-6(-3740)
+Circular Hollow Sections-Column,CHS273x10,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,257.84 kg,258.00 kg,F(1231)-5
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-5(3743)
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-6
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-7(-3715)
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-7
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-8(-2972)
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-5
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-4(3733)
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-4
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-3(3733)
+Circular Hollow Sections-Column,CHS273x10,2550,05_SSL. 5th FLOOR,Level 06 - Sixth Floor,Metal - Steel 50-355,165.40 kg,165.51 kg,B-3
+UC-Universal Columns-Column,UC152x152x23,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,90.52 kg,91.29 kg,F(1277)-5(-1891)
+UC-Universal Columns-Column,UC152x152x23,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,90.52 kg,91.29 kg,F(1277)-5(-2807)
+UC-Universal Columns-Column,UC203x203x52,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,206.02 kg,204.11 kg,F-5(-2751)
+UC-Universal Columns-Column,UC203x203x52,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,206.02 kg,204.11 kg,F-4(1829)
+UC-Universal Columns-Column,305UC158,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,290.61 kg,508.98 kg,F-4(-2739)
+UC-Universal Columns-Column,305UC158,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,290.61 kg,508.98 kg,F-3
+UC-Universal Columns-Column,356x368UC202,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,290.61 kg,767.37 kg,E-4
+UC-Universal Columns-Column,356x368UC202,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,290.61 kg,767.37 kg,E-3
+UC-Universal Columns-Column,UC254x254x73,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,290.61 kg,286.29 kg,E(-2863)-4(-2732)
+UC-Universal Columns-Column,254UC167,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,383.94 kg,660.11 kg,E(-2862)-3
+UC-Universal Columns-Column,254UC167,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,383.94 kg,660.11 kg,E(-2862)-4
+UC-Universal Columns-Column,254UC167,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,383.94 kg,670.85 kg,E(-1809)-4(1838)
+UC-Universal Columns-Column,254UC132,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,383.94 kg,520.51 kg,E(-1807)-5(-1852)
+UC-Universal Columns-Column,254UC89,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,383.94 kg,353.38 kg,E(-785)-4(-2732)
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,D(-1653)-3(3748)
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,D(-1653)-4
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,D(-1653)-4(1419)
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,D(-1653)-4(3733)
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,D(-1653)-5
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,D(-1653)-5(3746)
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,D(-1653)-6
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,D(-1653)-6(1574)
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,D(-1653)-3
+UC-Universal Columns-Column,356x406x235UC,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,290.61 kg,905.00 kg,E-5
+UC-Universal Columns-Column,356x406x287UC,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,290.61 kg,1155.55 kg,E-6
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,E-6(1573)
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,F(2275)-6(1573)
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,F(2275)-6
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,F(2275)-6(-3740)
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,F(2275)-5
+Rectangular Hollow Sections-Column,RHS250x150x6.3,3975,Level 06 - Sixth Floor,Level 07 - Seventh Floor,Metal - Steel 50-355,151.08 kg,149.17 kg,E(-2691)-6(1576)
+Circular Hollow Sections-Column,CHS273x10,179,05_SSL. 5th FLOOR,05_SSL. 5th FLOOR,Metal - Steel 50-355,11.61 kg,11.61 kg,C(-1997)-2

@@ -1,0 +1,443 @@
+﻿Type,Family,Width,Length,Area,Volume,Function,Structural Material,
+Wall-Ext_102Brick-248Hardcore-405Stone-15P,Basic Wall,771,14799,167 m²,129.05 m³,Exterior,Site Rubble/Hardcore,
+Wall-Ext_102Brick-248Hardcore-405Stone-15P,Basic Wall,771,21075,254 m²,195.70 m³,Exterior,Site Rubble/Hardcore,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,3668,34 m²,18.29 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,8620,71 m²,37.55 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,4362,46 m²,24.11 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,1365,4 m²,2.22 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,3668,26 m²,13.78 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,8600,54 m²,28.89 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,711,12 m²,6.33 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,721,6 m²,1.77 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,1700,7 m²,2.18 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,4100,8 m²,2.49 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,1700,7 m²,1.76 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,600,5 m²,1.46 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,1484,7 m²,2.27 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,3864,28 m²,9.59 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,68,4 m²,1.32 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,3514,33 m²,11.36 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,6000,41 m²,13.84 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,728,10 m²,5.38 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,7294,59 m²,20.14 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,3934,33 m²,17.62 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,886,11 m²,6.00 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,3597,27 m²,9.25 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,2511,20 m²,6.77 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,1372,3 m²,0.90 m³,Exterior,Stone External Walls,
+Wall-Int_100brick,Basic Wall,125,3485,5 m²,0.57 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,2363,4 m²,0.55 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,2310,2 m²,0.26 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,3250,6 m²,0.73 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1540,4 m²,0.46 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,4791,9 m²,1.13 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,2108,4 m²,0.55 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1410,1 m²,0.11 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,3000,4 m²,0.55 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,3383,7 m²,0.85 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1295,5 m²,0.56 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1924,3 m²,0.41 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,6800,28 m²,3.51 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1340,3 m²,0.44 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,4215,7 m²,0.85 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1350,4 m²,0.51 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,6808,28 m²,3.45 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1905,2 m²,0.26 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1780,2 m²,0.29 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,2124,4 m²,0.55 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,3660,5 m²,0.66 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,5233,17 m²,2.15 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1517,3 m²,0.37 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,2950,4 m²,0.52 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,6416,13 m²,1.59 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1410,1 m²,0.14 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1890,4 m²,0.44 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1637,3 m²,0.41 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1382,1 m²,0.07 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,3009,4 m²,0.48 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1681,1 m²,0.15 m³,Interior,Brick, Common
+Wall-Int_15p-219stone-15p,Basic Wall,249,2906,6 m²,1.44 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,9190,14 m²,3.53 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,6201,12 m²,2.95 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2951,6 m²,1.43 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,8438,13 m²,3.21 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,3915,7 m²,1.83 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,3250,6 m²,1.45 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,6570,13 m²,3.27 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,4215,9 m²,2.12 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,4215,7 m²,1.83 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,4495,9 m²,2.23 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2132,4 m²,1.01 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,1899,4 m²,0.93 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2132,4 m²,0.88 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,3891,15 m²,3.84 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,5815,10 m²,2.40 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,5903,22 m²,5.42 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2183,5 m²,1.13 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2346,8 m²,1.98 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,8865,34 m²,8.43 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,5060,22 m²,5.26 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,5037,22 m²,5.28 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,9131,35 m²,8.69 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,1155,4 m²,0.85 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,1382,7 m²,1.53 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,4683,20 m²,4.72 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,6306,26 m²,6.46 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,8500,35 m²,8.61 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,1521,8 m²,1.64 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,4869,19 m²,4.66 m³,Interior,Stone External Walls,
+Wall-Int_100brick,Basic Wall,125,2183,3 m²,0.33 m³,Interior,Brick, Common
+Wall-Int_15p-219stone-15p,Basic Wall,249,1013,4 m²,0.68 m³,Interior,Stone External Walls,
+Wall-Int_102Brick-230stone-280Hrd-230Stone-15P 2,Basic Wall,755,5923,78 m²,58.84 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_102Brick-230stone-280Hrd-230Stone-15P 2,Basic Wall,755,10085,50 m²,37.89 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_102Brick-230stone-280Hrd-230Stone-15P 2,Basic Wall,755,5923,22 m²,16.63 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_102Brick-230stone-110Hrd-230Stone-15P 3,Basic Wall,600,7816,40 m²,23.87 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_102Brick-230stone-110Hrd-230Stone-15P 3,Basic Wall,600,810,3 m²,1.70 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_102Brick-230stone-110Hrd-230Stone-15P 3,Basic Wall,600,810,3 m²,1.70 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_102Brick-230stone-110Hrd-230Stone-15P 3,Basic Wall,600,810,6 m²,3.69 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_102Brick-230stone-110Hrd-230Stone-15P 3,Basic Wall,600,3755,14 m²,8.11 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2823,5 m²,1.36 m³,Interior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,4129,24 m²,12.96 m³,Exterior,Stone External Walls,
+Wall-Int_100brick,Basic Wall,125,2129,4 m²,0.52 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,3265,7 m²,0.90 m³,Interior,Brick, Common
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,783,7 m²,3.47 m³,Exterior,Stone External Walls,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,240,1 m²,0.09 m³,Interior,Concrete Masonry Units,
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1723,3 m²,0.17 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1723,3 m²,0.17 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1723,3 m²,0.17 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1723,4 m²,0.18 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,3575,1 m²,0.04 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1603,3 m²,0.16 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1603,3 m²,0.16 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1603,3 m²,0.16 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,2460,1 m²,0.03 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,1064,1 m²,0.45 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,880,2 m²,0.62 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,1990,1 m²,0.29 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,880,2 m²,0.62 m³,Exterior,Stone External Walls,
+Wall-Int_100brick,Basic Wall,125,2346,5 m²,0.57 m³,Interior,Brick, Common
+Wall-Int_12P-100Blk-12P,Basic Wall,125,5785,18 m²,2.22 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,6400,16 m²,2.02 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,1685,5 m²,0.57 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,1352,2 m²,0.25 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,1500,5 m²,0.62 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,1314,2 m²,0.25 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,3585,10 m²,1.30 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,2500,8 m²,1.04 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,2601,8 m²,1.03 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,7738,22 m²,2.79 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,2100,2 m²,0.29 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,2601,9 m²,1.08 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,4701,12 m²,1.56 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,4567,12 m²,1.56 m³,Interior,Concrete Masonry Units,
+Wall-Int_15p-219stone-15p,Basic Wall,249,6186,19 m²,4.75 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,578,2 m²,0.38 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,3920,10 m²,2.45 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,6241,19 m²,4.63 m³,Interior,Stone External Walls,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,4615,11 m²,1.33 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,2378,3 m²,0.32 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,4615,14 m²,1.74 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,2327,6 m²,0.78 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,1203,4 m²,0.50 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,1319,5 m²,0.57 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,3310,11 m²,1.33 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,563,2 m²,0.23 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,1782,4 m²,0.45 m³,Interior,Concrete Masonry Units,
+Wall-Int_15p-219stone-15p,Basic Wall,249,3192,9 m²,2.34 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,12069,40 m²,9.88 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,4615,14 m²,3.40 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2100,6 m²,1.59 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,1934,5 m²,1.29 m³,Interior,Stone External Walls,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,3691,11 m²,1.41 m³,Interior,Concrete Masonry Units,
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1334,4 m²,0.21 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,4433,6 m²,0.31 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1334,4 m²,0.21 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1334,4 m²,0.21 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1334,4 m²,0.21 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_12P-100Blk-12P,Basic Wall,125,4471,13 m²,1.67 m³,Interior,Concrete Masonry Units,
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,461,1 m²,0.06 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1396,4 m²,0.22 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1396,4 m²,0.21 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1396,5 m²,0.23 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1396,5 m²,0.24 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1966,2 m²,0.11 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1966,4 m²,0.18 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1334,4 m²,0.21 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1991,2 m²,0.12 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_Cubical_Solid Plastic,Basic Wall,50,1334,4 m²,0.21 m³,Interior,BMCD2AR3\Solid Materials \Matte\Normal\Gray, light
+Wall-Int_12P-100Blk-12P,Basic Wall,125,4471,13 m²,1.67 m³,Interior,Concrete Masonry Units,
+Wall-Int_100brick,Basic Wall,125,1865,6 m²,0.72 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1680,6 m²,0.72 m³,Interior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1338,2 m²,0.22 m³,Interior,Brick, Common
+Wall-Int_102Brick-230stone-280Hrd-230Stone-15P 2,Basic Wall,755,5875,54 m²,40.60 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_102Brick-230stone-280Hrd-230Stone-15P 2,Basic Wall,755,9318,84 m²,63.58 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,869,1 m²,0.10 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,5980,7 m²,0.79 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,869,1 m²,0.07 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,1177,1 m²,0.12 m³,Interior,Concrete Masonry Units,
+Corner Wall Detail,Corner Wall Detail,,,1 m²,0.17 m³,,Paint Grey,
+Bottom Wall Trim,Bottom Wall Trim,,,6 m²,2.78 m³,,,
+Bottom Wall Trim 2,Bottom Wall Trim 2,,,3 m²,1.71 m³,,,
+GF Level Trim,GF Level Trim,,,0 m²,0.08 m³,,,
+Wall trim 3,Wall trim 3,,,1 m²,0.08 m³,,,
+Wall trim 4,Wall trim 4,,,0 m²,0.04 m³,,,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,5223,30 m²,15.87 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,1294,22 m²,11.93 m³,Exterior,Stone External Walls,
+Bottom Wall Trim,Bottom Wall Trim1,,,4 m²,2.06 m³,,,
+GF Level Trim,GF Level Trim1,,,1 m²,0.09 m³,,,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,4673,26 m²,13.64 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,1500,11 m²,6.07 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,1265,10 m²,5.12 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,820,10 m²,5.42 m³,Exterior,Stone External Walls,
+Wall Trim 5,Wall Trim 5,,,0 m²,0.01 m³,,,
+Wall Trim 5,Wall Trim 1,,,0 m²,0.01 m³,,,
+Wall Trim 5,Wall Trim 2,,,0 m²,0.01 m³,,,
+Wall Trim 5,Wall Trim 6,,,0 m²,0.01 m³,,,
+Wall Trim 5,Wall Trim 7,,,0 m²,0.01 m³,,,
+Wall Trim 5,Wall Trim 8,,,0 m²,0.01 m³,,,
+Wall Trim 5,Wall Trim 9,,,0 m²,0.01 m³,,,
+Wall Trim 5,Wall Trim 10,,,0 m²,0.01 m³,,,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,1265,11 m²,5.66 m³,Exterior,Stone External Walls,
+Wall Trim 5,Wall Trim 11,,,1 m²,0.63 m³,,Paint Grey,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,3335,3 m²,1.85 m³,Exterior,Stone External Walls,
+Stone wall 1,Stone wall 1,,,0 m²,0.06 m³,,,
+Stone wall 1,Stone wall 2,,,0 m²,0.06 m³,,,
+Front Wall Plaque Trim,Front Wall Plaque Trim,,,3 m²,0.36 m³,,,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,4426,22 m²,7.38 m³,Exterior,Stone External Walls,
+Wall Top Trim 1,Wall Top Trim 1,,,2 m²,0.17 m³,,,
+Wall-Ext_102Brick-223Stone- 102Brick,Basic Wall,428,666,5 m²,2.35 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone- 102Brick,Basic Wall,428,720,6 m²,2.40 m³,Exterior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,6650,20 m²,5.05 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,4279,12 m²,3.09 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,286,2 m²,0.47 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,6213,19 m²,4.79 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,1730,3 m²,0.87 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2032,8 m²,1.99 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,1781,6 m²,1.55 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,1781,6 m²,1.55 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2032,6 m²,1.55 m³,Interior,Stone External Walls,
+Wall-Int_15P -230stone-280Hrd-230Stone-15P,Basic Wall,770,1385,6 m²,4.99 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_15P -230stone-280Hrd-230Stone-15P,Basic Wall,770,1399,9 m²,6.98 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_15P -230stone-280Hrd-230Stone-15P,Basic Wall,770,1400,9 m²,6.98 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_15P -230stone-280Hrd-230Stone-15P,Basic Wall,770,1394,7 m²,5.30 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_15P -230stone-280Hrd-100Stone-102BRK,Basic Wall,728,14077,115 m²,83.49 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_15p-219stone-15p,Basic Wall,249,700,4 m²,0.87 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,597,6 m²,1.58 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,700,4 m²,0.87 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,597,6 m²,1.58 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,5935,15 m²,3.43 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2958,11 m²,2.83 m³,Interior,Stone External Walls,
+Wall-Int_15p-219stone-15p,Basic Wall,249,2956,11 m²,2.83 m³,Interior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,770,8 m²,2.59 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,842,8 m²,2.83 m³,Exterior,Stone External Walls,
+Stone work 1,Stone work 1,,,0 m²,0.13 m³,,,
+Stone work 1,Stone work 2,,,0 m²,0.11 m³,,,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,3597,11 m²,1.37 m³,Interior,Concrete Masonry Units,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,6855,14 m²,7.23 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,4309,7 m²,3.91 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-413Stone-15P,Basic Wall,531,3306,3 m²,1.86 m³,Exterior,Stone External Walls,
+Wall-Int_102Brick-230stone-280Hrd-230Stone-15P 2,Basic Wall,755,14025,69 m²,52.15 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_12p 100brick 12p,Basic Wall,125,3551,4 m²,0.50 m³,Interior,Brick, Common
+Wall-Int_12p 100brick 12p,Basic Wall,125,5446,6 m²,0.75 m³,Interior,Brick, Common
+Wall-Int_12p 100brick 12p,Basic Wall,125,3534,4 m²,0.48 m³,Interior,Brick, Common
+Wall-Int_102Brick-230stone-280Hrd-230Stone-15P 2,Basic Wall,755,9353,69 m²,52.13 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_12p 100brick 12p,Basic Wall,125,1177,2 m²,0.20 m³,Interior,Brick, Common
+Wall-Int_12p 100brick 12p,Basic Wall,125,2032,5 m²,0.65 m³,Interior,Brick, Common
+Wall-Int_12p 100brick 12p,Basic Wall,125,4864,6 m²,0.80 m³,Interior,Brick, Common
+Wall-Int_12p 100brick 12p,Basic Wall,125,2472,4 m²,0.48 m³,Interior,Brick, Common
+Stone Bridge,Basic Wall,50100,22402,56 m²,2781.03 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,22312,24 m²,14.56 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,1517,1 m²,0.24 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,560,0 m²,0.11 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,2280,1 m²,0.33 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,3920,2 m²,0.67 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,1940,1 m²,0.24 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,2485,1 m²,0.39 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,1517,1 m²,0.24 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,560,0 m²,0.11 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,2280,1 m²,0.33 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,3920,2 m²,0.67 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,1940,1 m²,0.24 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,2485,1 m²,0.39 m³,Interior,Stone Bridge,
+Steel Frame Timber Fence,Basic Wall,125,10100,108 m²,13.47 m³,Interior,Metal - Steel,
+Steel Frame Timber Fence,Basic Wall,125,3841,41 m²,5.16 m³,Interior,Metal - Steel,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,13345,41 m²,5.17 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,14094,19 m²,2.39 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,735,7 m²,0.92 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,735,7 m²,0.92 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,735,7 m²,0.92 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,735,7 m²,0.92 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,735,7 m²,0.92 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,735,7 m²,0.92 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,735,7 m²,0.92 m³,Interior,Concrete Masonry Units,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,793,7 m²,0.91 m³,Interior,Concrete Masonry Units,
+Wall-Int_15P -230stone-280Hrd-100Stone-102BRK,Basic Wall,728,6213,23 m²,19.35 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_12P-100Blk-12P,Basic Wall,125,14094,27 m²,3.34 m³,Interior,Concrete Masonry Units,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,5292,6 m²,1.94 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone-15P,Basic Wall,341,5292,6 m²,1.94 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone- 102Brick,Basic Wall,428,4070,3 m²,1.41 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone- 102Brick,Basic Wall,428,3400,3 m²,1.09 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone- 102Brick,Basic Wall,428,4070,3 m²,1.41 m³,Exterior,Stone External Walls,
+Wall-Ext_102Brick-223Stone- 102Brick,Basic Wall,428,3400,3 m²,1.09 m³,Exterior,Stone External Walls,
+Stone EXT Wall 600,Basic Wall,610,26050,10 m²,4.47 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,4100,19 m²,10.15 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,25745,3 m²,1.99 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,23456,110 m²,67.25 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,38966,183 m²,111.71 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,12263,58 m²,35.16 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,1300,3 m²,1.45 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,4100,4 m²,2.38 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,39000,43 m²,26.17 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,12263,14 m²,8.23 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,23400,26 m²,15.70 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,1055,2 m²,0.91 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,24000,113 m²,68.81 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,24000,113 m²,68.81 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,23900,26 m²,16.04 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,24000,26 m²,16.10 m³,Interior,Stone Bridge,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,53000,3 m²,0.27 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,53000,3 m²,0.27 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,6296,0 m²,0.03 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,6660,0 m²,0.03 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,24371,1 m²,0.12 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,24299,1 m²,0.12 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,35280,2 m²,0.18 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,35280,2 m²,0.18 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,4643,0 m²,0.02 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,4929,0 m²,0.02 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,6952,0 m²,0.03 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,21600,1 m²,0.11 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,8460,0 m²,0.04 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,2900,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,7165,0 m²,0.04 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,21840,1 m²,0.11 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,8448,0 m²,0.04 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,2860,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Wall Edge Trim,Wall Edge Trim,,,0 m²,0.07 m³,,,
+Wall Edge Trim,Wall Edge Trim1,,,0 m²,0.08 m³,,,
+Wall-Ext_102Brick-248Hardcore-405Stone-15P,Basic Wall,771,541,1 m²,0.58 m³,Exterior,Site Rubble/Hardcore,
+Wall-Ext_102Brick-248Hardcore-405Stone-15P,Basic Wall,771,280,1 m²,0.59 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_12P-250Blk-12P,Basic Wall,275,2821,1 m²,0.20 m³,Interior,Concrete Masonry Units,
+Wall-Int_15P -230stone-280Hrd-100Stone-102BRK,Basic Wall,728,1323,3 m²,1.92 m³,Exterior,Site Rubble/Hardcore,
+Wall-Int_15P -230stone-280Hrd-100Stone-102BRK,Basic Wall,728,2199,3 m²,2.07 m³,Exterior,Site Rubble/Hardcore,
+Road 100,Basic Wall,100,40100,2 m²,0.20 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,40100,2 m²,0.20 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,5571,0 m²,0.03 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,5721,0 m²,0.03 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,1000,0 m²,0.01 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,42700,2 m²,0.21 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,42702,2 m²,0.21 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,6680,0 m²,0.03 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,374,0 m²,0.00 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,6640,0 m²,0.03 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,671,0 m²,0.00 m³,Exterior,Concrete Masonry Units,
+Road 100,Basic Wall,100,3004,17 m²,1.70 m³,Exterior,Concrete Masonry Units,
+Wall-Ext_215Bwk,Basic Wall,215,1218,1 m²,0.26 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,1218,1 m²,0.26 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,2616,4 m²,0.79 m³,Exterior,Brick, Common
+Wall-Int_100brick,Basic Wall,125,1131,1 m²,0.12 m³,Interior,Brick, Common
+Stone EXT Wall 301,Basic Wall,310,2000,1 m²,0.31 m³,Interior,Stone Bridge,
+Stone EXT Wall 301,Basic Wall,310,1920,1 m²,0.30 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,520,1 m²,0.35 m³,Interior,Stone Bridge,
+Stone EXT Wall 600,Basic Wall,610,520,1 m²,0.35 m³,Interior,Stone Bridge,
+Wall-Ext_215Bwk,Basic Wall,215,579,0 m²,0.07 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,378,0 m²,0.05 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,378,0 m²,0.05 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,101,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,378,0 m²,0.05 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,378,0 m²,0.05 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,579,0 m²,0.07 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,378,0 m²,0.05 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,378,0 m²,0.05 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,101,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,378,0 m²,0.05 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,378,0 m²,0.05 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,101,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,101,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,80,0 m²,0.01 m³,Exterior,Brick, Common
+Wall-Ext_215Bwk,Basic Wall,215,3597,7 m²,1.57 m³,Exterior,Brick, Common
