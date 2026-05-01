@@ -178,7 +178,8 @@ with tabs[-1]:
         """)
     else:
         st.success(" 3D Server is running!")
-        iframe_url = f"http://localhost:8000/dashboard.html?building={project_folder}"
+        xkt_base_url = "https://raw.githubusercontent.com/joelriley70-commits/ifc-dashboard/master/xeokit-simple-viewer-main/buildings/"
+        iframe_url = f"/dashboard.html?building={project_folder}&xkt_base={xkt_base_url}"
         components.iframe(iframe_url, height=700, width=1200)
         st.caption(" Tip: Click on any door or element to highlight it!")
 
