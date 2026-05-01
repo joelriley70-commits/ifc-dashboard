@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IFC 3D Viewer</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, sans-serif; }
+        #sidebar {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 280px;
+            height: 100vh;
+            background: rgba(30,30,40,0.95);
+            color: white;
+            padding: 20px;
+            z-index: 100;
+            overflow-y: auto;
+        }
+        #viewer {
+            position: fixed;
+            right: 0;
+            top: 0;
+            width: calc(100% - 280px);
+            height: 100vh;
+        }
+        canvas { width: 100%; height: 100%; display: block; }
+        select, button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            background: #4a4a5a;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        select:hover, button:hover { background: #6a6a7a; }
+        h2 { color: #4ecdc4; }
+        .status {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: rgba(0,0,0,0.7);
+            color: #4ecdc4;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 12px;
+            z-index: 100;
+        }
+        .info {
+            background: rgba(0,0,0,0.5);
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+<div id="sidebar">
+    <h2>🏗️ IFC Viewer</h2>
+    <label>🏢 Select Building:</label>
+    <select id="buildingSelect">
+        <option value="town_hall">Town Hall</option>
+        <option value="apartment">Apartment Building</option>
+        <option value="office">Office Block</option>
+    </select>
+    <button id="resetCamera">🎥 Reset Camera</button>
+    <div class="info">
+        <strong>🎮 Controls:</strong><br>
+        • Left click + drag: Rotate<br>
+        • Right click + drag: Pan<br>
+        • Scroll: Zoom
+    </div>
+</div>
+<div id="viewer">
+    <canvas id="myCanvas"></canvas>
+</div>
+<div class="status" id="status">✅ Ready - Select a building</div>
+
+<script type="module">
+    import {Viewer, XKTLoaderPlugin} from "https://cdn.jsdelivr.net/npm/@xeokit/xeokit-sdk/dist/xeokit-sdk.es.min.js";
+    
+    // Google Drive direct download links (using uc?export=download)
+    const fileUrls = {
+        "town_hall": "https://drive.google.com/uc?export=download&id=1V43mltb7NMKHNx0NRIRXEN2YscvEW8MP",
+        "apartment": "https://drive.google.com/uc?export=download&id=12gsJ8o4Puzx-6OGFeUnm83dROMS4a0R3",
+        "office": "https://drive.google.com/uc?export=download&id=1hnlM1HQXkRxLpwbGKEEYyqb86MawqBKK"
+    };
+    
+    let viewer = null;
+    let currentModel = null;
+    
+    viewer = new Viewer({
+        canvasId: "myCanvas",
+        transparent: false,
+        backgroundColor: [0.15, 0.15, 0.2]
+    });
+    
+    viewer.camera.eye = [-10, 5, 10];
+    viewer.camera.look = [0, 0, 0];
+    
+    const xktLoader = new XKTLoaderPlugin(viewer);
+    
+    function loadBuilding(buildingName) {
+        if (currentModel) {
+            currentModel.destroy();
+        }
+        document.getElementById("status").innerHTML = `⏳ Loading ${buildingName}...`;
+        const fileUrl = fileUrls[buildingName];
+        console.log("Loading from:", fileUrl);
+        
+        try {
+            currentModel = xktLoader.load({
+                id: buildingName,
+                src: fileUrl,
+                edges: true
+            });
+            
+            currentModel.on("loaded", () => {
+                document.getElementById("status").innerHTML = `✅ Loaded: ${buildingName}`;
+            });
+        } catch(error) {
+            console.error("Load error:", error);
+            document.getElementById("status").innerHTML = `❌ Failed to load ${buildingName}`;
+        }
+    }
+    
+    function resetCamera() {
+        if (viewer) {
+            viewer.camera.eye = [-10, 5, 10];
+            viewer.camera.look = [0, 0, 0];
+            document.getElementById("status").innerHTML = "🎥 Camera reset";
+        }
+    }
+    
+    document.getElementById("buildingSelect").addEventListener("change", (e) => {
+        loadBuilding(e.target.value);
+    });
+    
+    document.getElementById("resetCamera").addEventListener("click", resetCamera);
+    
+    // Check URL for building parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const buildingParam = urlParams.get('building');
+    if (buildingParam && fileUrls[buildingParam]) {
+        document.getElementById("buildingSelect").value = buildingParam;
+        loadBuilding(buildingParam);
+    } else {
+        loadBuilding("town_hall");
+    }
+</script>
+</body>
+</html>
