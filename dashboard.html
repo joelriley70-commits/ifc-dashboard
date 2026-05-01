@@ -231,58 +231,9 @@
             
             updateDebug("Viewer created, checking cameraControl...");
             
-            // Check if cameraControl exists
-            if (!viewer.cameraControl) {
-                updateDebug("ERROR: cameraControl is null! Trying alternative approach...");
-            } else {
-                updateDebug("cameraControl exists, attaching click handler...");
-            }
-            
-            // Try BOTH click methods for compatibility
             const canvas = document.getElementById('myCanvas');
             
-            // Method 1: Using xeokit's cameraControl
-            if (viewer.cameraControl) {
-                viewer.cameraControl.on("click", (e) => {
-                    updateDebug(`CLICK DETECTED via cameraControl at (${e.clientX}, ${e.clientY})`);
-                    
-                    const canvasRect = canvas.getBoundingClientRect();
-                    const canvasX = e.clientX - canvasRect.left;
-                    const canvasY = e.clientY - canvasRect.top;
-                    
-                    updateDebug(`Canvas position: (${canvasX}, ${canvasY})`);
-                    
-                    const pickResult = viewer.scene.pick({
-                        canvasPos: [canvasX, canvasY]
-                    });
-                    
-                    updateDebug(`Pick result: ${pickResult ? "FOUND" : "NOTHING"}`);
-                    
-                    if (pickResult && pickResult.object) {
-                        viewer.scene.objects.forEach(obj => obj.highlighted = false);
-                        pickResult.object.highlighted = true;
-                        
-                        const obj = pickResult.object;
-                        let metaObject = null;
-                        let elementType = obj.type || "Unknown";
-                        
-                        if (currentMetaModel && currentMetaModel.metaObjects) {
-                            metaObject = currentMetaModel.metaObjects[obj.id];
-                            if (metaObject && metaObject.type) {
-                                elementType = metaObject.type;
-                            }
-                        }
-                        
-                        updateDebug(`Selected: ${obj.id} (${elementType})`);
-                        displayElementProperties(obj, metaObject, elementType);
-                        document.getElementById("status").innerHTML = `✅ Selected: ${elementType}`;
-                    } else {
-                        updateDebug("Click detected but no object picked");
-                    }
-                });
-            }
-            
-            // Method 2: Direct canvas click event (fallback)
+            // Direct canvas click event
             canvas.addEventListener('click', (e) => {
                 updateDebug(`CANVAS CLICK at (${e.clientX}, ${e.clientY})`);
                 
@@ -332,7 +283,13 @@
                     </div>
                 `;
                 
-                const fileUrl = `./xeokit-simple-viewer-main/buildings/${buildingName}.xkt`;
+                // Direct GitHub raw URLs for XKT files
+                const fileUrls = {
+                    "town_hall": "https://raw.githubusercontent.com/joelriley70-commits/ifc-dashboard/master/xeokit-simple-viewer-main/buildings/town_hall.xkt",
+                    "apartment": "https://raw.githubusercontent.com/joelriley70-commits/ifc-dashboard/master/xeokit-simple-viewer-main/buildings/apartment.xkt",
+                    "office": "https://raw.githubusercontent.com/joelriley70-commits/ifc-dashboard/master/xeokit-simple-viewer-main/buildings/office.xkt"
+                };
+                const fileUrl = fileUrls[buildingName];
                 
                 try {
                     currentModel = xktLoader.load({
